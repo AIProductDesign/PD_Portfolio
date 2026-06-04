@@ -17,6 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CONTENT_ROOT = ROOT / "Content" / "2025-2026" / "Bachelorproef"
 STUDENT_LIST = CONTENT_ROOT / "Student_List.xlsx"
 DESCRIPTION_TSV = CONTENT_ROOT / "Eindpresentatie" / "student_descriptions.tsv"
+DUTCH_DESCRIPTION_JSON = ROOT / "Content" / "metadata" / "student_descriptions.nl.generated.json"
 OUTPUT_JSON = ROOT / "Content" / "metadata" / "projects.generated.json"
 OUTPUT_JS = ROOT / "src" / "content.js"
 GENERATED_VISUALS = ROOT / "assets" / "generated" / "instagram-previews"
@@ -53,6 +54,9 @@ def load_student_descriptions() -> dict[str, dict[str, str]]:
     if not DESCRIPTION_TSV.exists():
         return {}
     df = pd.read_csv(DESCRIPTION_TSV, sep="\t").fillna("")
+    dutch_descriptions = {}
+    if DUTCH_DESCRIPTION_JSON.exists():
+        dutch_descriptions = json.loads(DUTCH_DESCRIPTION_JSON.read_text(encoding="utf-8"))
     descriptions: dict[str, dict[str, str]] = {}
     for _, row in df.iterrows():
         code = clean(row.get("NR"))
@@ -60,10 +64,15 @@ def load_student_descriptions() -> dict[str, dict[str, str]]:
         last = clean(row.get("Achternaam"))
         if not code or not first or not last:
             continue
-        descriptions[normalize(f"{code}-{first}-{last}")] = {
+        key = normalize(f"{code}-{first}-{last}")
+        translated = dutch_descriptions.get(key, {})
+        descriptions[key] = {
             "title": clean(row.get("Title")),
+            "title_nl": clean(translated.get("title")),
             "description": clean(row.get("Description")),
+            "description_nl": clean(translated.get("description")),
             "keywords": clean(row.get("Keywords")),
+            "keywords_nl": clean(translated.get("keywords")),
             "target": clean(row.get("Doelgroep")),
             "context": clean(row.get("Context")),
         }
@@ -236,7 +245,7 @@ def description_for(
     if curated_description:
         return {
             "en": curated_description,
-            "nl": curated_description,
+            "nl": description_entry.get("description_nl") or curated_description,
         }
 
     focus = focus_from_text(f"{presentation_text}\n{poster_text}", f"{target} / {context}", student)
@@ -252,7 +261,13 @@ def description_for(
         f"The presentation material highlights {focus}. "
         f"The project explores how product design can connect {en_angle} in a clear concept proposal."
     )
-    return {"en": fallback_description, "nl": fallback_description}
+    fallback_description_nl = (
+        f"{student} ontwikkelde {en_subject.replace('a wearable support system', 'een draagbaar ondersteuningssysteem').replace('a modular sensor system', 'een modulair sensorsysteem')} "
+        f"voor de doelgroep '{target}' binnen de context '{context}'. "
+        f"Het presentatiemateriaal belicht {focus}. "
+        "Het project onderzoekt hoe productontwerp ergonomie, gebruiksgemak, duurzaamheid en een helder conceptvoorstel kan verbinden."
+    )
+    return {"en": fallback_description, "nl": fallback_description_nl}
 
 
 def render_image_preview(path: Path, project_id: str, index: int) -> str:
@@ -411,7 +426,7 @@ def build_projects() -> list[dict]:
         assignment_title = "Exoskeleton" if assignment_id == "exoskeletons" else "Circular Sensor"
         nl_assignment_title = "Exoskelet" if assignment_id == "exoskeletons" else "Circulaire Sensor"
         title_en = description_entry.get("title") or f"{assignment_title} for {target}"
-        title_nl = description_entry.get("title") or f"{nl_assignment_title} voor {target}"
+        title_nl = description_entry.get("title_nl") or f"{nl_assignment_title} voor {target}"
         filter_tags = domain_tags_for(
             assignment_id,
             target,

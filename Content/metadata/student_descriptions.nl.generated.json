@@ -1,0 +1,407 @@
+{
+  "dex43lemonyblommaert": {
+    "title": "NOVA - lumbopelvische ondersteuning voor late zwangerschap",
+    "description": "NOVA is een exoskelet ontworpen voor vrouwen in hun derde trimester die ernstige lumbopelvische pijn ervaren als gevolg van de biomechanische realiteit van het dragen van 10 tot 15 kg extra gewicht met verhoogde lumbale lordose. Het systeem richt zich op primaire steunzones rond de onderrug en het bekken, herstelt autonomie in de dagelijkse activiteiten met respect voor beperkte ontwerpzones en aanpak van stigma en uitdagingen rond gebruiksacceptatie. Met een focus op discretie en draagbaarheid, NOVA vermindert de fysieke last van de laatste fase van de zwangerschap zonder afbreuk te doen aan comfort of waardigheid.",
+    "keywords": "zwangerschapsondersteuning, lumbopelvische pijn, derde trimester, passief exoskelet"
+  },
+  "dex48anoukvandevoorde": {
+    "title": "Balansexoskelet voor valpreventie bij ouderen",
+    "description": "Een op de drie ouderen valt ten minste één keer per jaar, met 40% van de incidenten die zich buiten voordoen, gedreven door verminderde proprioceptie, spierzwakte en bewegingsangst. Dit exoskelet richt zich op volwassenen van 75 tot 85 jaar met lichte tot matige evenwichtsstoornissen, die zowel de houding als de zwaaifases van de loopcyclus ondersteunen om het vertrouwen in onafhankelijk lopen te herstellen. Het ontwerp breekt de vicieuze cirkel van inactiviteit als gevolg van angst om te vallen door het bieden van zachte, vertrouwensversterkende balansondersteuning tijdens de dagelijkse buitenmobiliteit.",
+    "keywords": "valpreventie, evenwichtsstoornis, ouderenmobiliteit, loopondersteuning"
+  },
+  "dex53noahrodrigus": {
+    "title": "Back Ondersteuning Exoskeleteon voor Harbor Lashers",
+    "description": "Harbor wissers in de haven van Rotterdam voeren een aantal van de meest fysiek veeleisende werkzaamheden in de logistiek uit, met meer dan 99% mannelijke werknemers die voornamelijk last hebben van rugklachten als gevolg van lange ploegendiensten en lastige houdingen. Dit passieve exoskelet vermindert de lumbale belasting tijdens het zwaar tillen en dragen, voldoet aan strenge water- en corrosiebestendigheidseisen (IP55, ASTM B117 500+) met behoud van een slank profiel dat compatibel is met bestaande veiligheidsharnas en spangereedschappen. Het ontwerp zorgt voor een comfortabele gewichtsverdeling zonder de dynamische en onvoorspelbare bewegingen die inherent zijn aan het havenwerk te verstoren.",
+    "keywords": "havenarbeiders, rugsteun, passief exoskelet, ergonomie"
+  },
+  "dcs3annavannimmen": {
+    "title": "NODE: Luchtkwaliteit en geluidssensor voor kinderfietsroutes",
+    "description": "NODE is een circulair sensorsysteem dat onzichtbare milieurisico's in kaart brengt langs schoolfietsroutes, waarbij geluidsniveaus tot 85 dB en fijne deeltjes worden gemeten op de ademhalingshoogte van kinderen van 1,5 m. Het systeem richt zich op gezondheidsbewuste ouders en stedelijke planners die objectieve gegevens zoeken om de veiligheid en luchtkwaliteit te verbeteren van routes die dagelijks door schoolkinderen worden gebruikt. De modulaire architectuur en open data-aanpak ondersteunen participatie van de burgerwetenschap en data-gedreven stedenbouwkundige beslissingen.",
+    "keywords": "fietsveiligheid, luchtkwaliteit, geluidsbewaking, burgerwetenschap"
+  },
+  "dcs23ardatarimci": {
+    "title": "AVISCOUT: Bird Habitat Observation Sensor",
+    "description": "AVISCOUT is een circulair sensorplatform voor vogelaars en ornithologische onderzoekers die de biosfeer van vogels in natuurlijke omgevingen in de gaten houden, volledig autonoom en zonder storend wild. De doelgroep vraagt om een sensor die stil, weerbestendig en volledig betrouwbaar is en naadloos geïntegreerd is in de bestaande vogelkijkpraktijk zonder de aandacht te trekken. De verzamelde gegevens dragen bij tot het onderzoek naar de biodiversiteit van burgers en maken het mogelijk om de gezondheid en de activiteit van vogels op lange termijn systematisch te volgen.",
+    "keywords": "Birdwatching, Wildlife Monitoring, Citizen Science, Biodiversity sensor"
+  },
+  "dcs18sethverheul": {
+    "title": "Traffic Luchtkwaliteits- en geluidsbewakingssensor voor burgers",
+    "description": "Deze circulaire sensor helpt stadsbewoners de luchtkwaliteit en geluidsniveaus te begrijpen die veroorzaakt worden door het wegverkeer in hun directe leefomgeving, met lokaal geaarde gegevens die nationale of stadsbrede meetstations niet kunnen leveren. Het systeem is ontworpen voor niet-technische gebruikers in woonwijken en wijken en maakt onzichtbare verkeersvervuiling tastbaar en actief op persoonlijke en gemeenschapsschaal. Door burgers in staat te stellen milieugegevens te documenteren en te delen, ondersteunt de sensor zowel het individuele gezondheidsbewustzijn als collectieve belangenbehartiging voor schonere, stillere straten.",
+    "keywords": "verkeersoverlast, geluidsbewaking, stedelijke bevolking, burgerwetenschap"
+  },
+  "dex58bibidevos": {
+    "title": "Tennis Elbow Exoskeleton voor handarbeiders",
+    "description": "Dit exoskelet ondersteunt handarbeiders die lijden aan tenniselleboog (laterale epicondylitis) die moeten blijven werken onder hoge fysieke belasting, gericht op drie functionele zones: een werkhandschoen module voor grip ondersteuning, een shell voor pols verlenging bijstand, en een sleeve voor drukverdeling. Het ontwerp geeft prioriteit aan langdurig draagcomfort, volledige bewegingsvrijheid en compatibiliteit met professionele werkomgevingen in manuele beroepen. Door het herstelproces te ondersteunen zonder de gebruiker aan de kant te zetten, maakt het een continue dagelijkse functie tijdens revalidatie mogelijk.",
+    "keywords": "tenniselleboog, polsondersteuning, beroepsrehabilitatie, bovenbeen exoskelet"
+  },
+  "dex63leonvandyck": {
+    "title": "Knee Revalidatie Training Exoskelet voor thuisgebruik",
+    "description": "Tussen de 35 tot 45% van de Belgen hebben knieproblemen ondervonden, en ongeveer 75 tot 80% van de getroffenen heeft actieve trainingstherapie nodig, vaak thuis gedurende 1 tot 1,5 uur per dag. Dit trainingsexoskelet ondersteunt mensen van 20 tot 50 jaar bij het uitvoeren van thuis-gebaseerde knierehabilitatie, het bieden van geleide weerstand en beweging feedback om herstel te versnellen en therapietrouw te verbeteren. Het apparaat is ontworpen om dagelijkse revalidatiesessies effectiever en onafhankelijk beheersbaar te maken, waardoor de behoefte aan gecontroleerde klinische bezoeken wordt verminderd.",
+    "keywords": "knierehabilitatie, thuistraining, lichaamsbeweging, orthopedische exoskelet"
+  },
+  "dex68karelschepers": {
+    "title": "Neck Exoskelet voor Sustained Flexion Work",
+    "description": "Langdurige statische nek flexie leidt tot cervicale spier vermoeidheid, stijfheid en chronische pijn bij professionals die werken in aanhoudende neerwaartse houdingen. Dit hals exoskelet genereert een externe extensie moment tegenover de buigkracht van het hoofd op de cervicale extensor, vertragen vermoeidheid opbouw en het mogelijk maken van langere periodes van nek flexie zonder klinische overbelasting risico. Het ontwerp richt zich op werknemers in assemblage, inspectie, en precisie taken waar aanhoudende voorwaartse hoofdhouding onvermijdelijk is, het verminderen van het begin van chronische spier-skelet overuse.",
+    "keywords": "nekpijn, cervicale ondersteuning, gezondheid op het werk, passief exoskelet"
+  },
+  "dex73fonsdeckers": {
+    "title": "KX-24 ERGO: Knie Exoskeleton voor bouwvakkers",
+    "description": "KX-24 ERGO is een knie-exoskelet ontworpen voor bouwvakkers in de ruwbouwfase, waar knielen op harde, stoffige en chemisch blootgestelde oppervlakken is een dagelijkse routine die gewrichten op ernstige lange termijn risico brengt. Het product is gepositioneerd als \"gewoon een ander hulpmiddel,\" het verlagen van de adoptiedrempel door het verwijderen van stigma en natuurlijke integratie in de professionele workflow zonder opoffering van werkefficiëntie. De kernontwerpers richten zich op proactieve preventie van ernstige knieblessures door ergonomische ondersteuning tijdens de bouwwerkzaamheden met de hoogste lading.",
+    "keywords": "bouwergonomie, knie-exoskelet, letselpreventie, professioneel draagbaar"
+  },
+  "dex78tinneverhelst": {
+    "title": "STRYVE: Enkel Exoskelet voor atleten met hoge prestaties",
+    "description": "STRYVE is een performance-georiënteerd enkel exoskelet voor elite atleten in sporten zoals basketbal, atletiek, tennis en voetbal, waar enkel verwondingen vertegenwoordigen 14 tot 20% van alle sportblessures en significant impact team investeringen en atleet carrières. Het product gaat verder dan conventionele ondersteuning door dynamische enkelstabilisering die kracht in plaats van signalering letsel projecteert, behoud van de competitieve identiteit van de atleet en bewegingsvrijheid. Ontwikkeld met input van atleten, teams en clubs, STRYVE vertegenwoordigt een nieuwe standaard in preventieve sport wearables op het hoogste niveau.",
+    "keywords": "enkelsteun, sport exoskelet, atletische prestaties, letselpreventie"
+  },
+  "dex83daanjanssens": {
+    "title": "Lower-Body Exosuit voor Natuurfotografen op Multi-Day Hikes",
+    "description": "Natuurfotografen ondernemen 15 tot 25 km wandelingen over diverse terreinen dragen aanzienlijke apparatuur belastingen die zich opstapelen spanning over de heupen, knieën, benen, rug, en schouders over meerdere dagen. Deze duurzame onderlichaam exosuit herdistribueert belasting en ondersteunt gezamenlijke functie tijdens volledige wandel- en schietsessies, ontworpen voor gebruikers van 18 tot 65 jaar in verschillende landschappen. Het pak integreert naadloos met bestaande buiten- en fotografieuitrusting en levert meetbare verlichting in de meest fysiek veeleisende segmenten van een meerdaagse expeditie.",
+    "keywords": "natuurfotografie, wandel exosuit, ladingsverdeling, buiten wearable"
+  },
+  "dcs28alecvandervorst": {
+    "title": "GEOSENSE: Universal Modular Nature Data Sensor",
+    "description": "GEOSENSE is een lichtgewicht, betaalbaar en gebruiksvriendelijk circulair sensorplatform dat natuurlijke omgevingen omzet in data, gebouwd rond een universele basiseenheid die toegankelijk is voor gebruikers zonder technische achtergrond. Het modulaire systeem meet het geluid om de 15 minuten en de bodemparameters om de 4 uur, met IP68 water- en stofbescherming garanderen betrouwbare werking in elke buitenomgeving. De eenvoud-eerste ontwerpfilosofie democratiseert milieumonitoring, waardoor het verzamelen van natuurgegevens haalbaar is voor burgerwetenschapsgemeenschappen, gedeelde groene ruimten en vrijwilligersgroepen.",
+    "keywords": "natuursensor, modulaire sensor, milieubewaking, burgerwetenschap"
+  },
+  "dcs33amelieduchesne": {
+    "title": "SENSI. Klaslokaal milieusensor voor basisscholen",
+    "description": "SENSI is een circulair sensorinstrument dat is ontworpen om 5e klas leerlingen en hun leraren te verbinden met de kwaliteit van hun directe omgeving, waardoor wetenschappelijk onderzoek tastbaar wordt door middel van directe milieumeting. Door meting te integreren in de leerervaring in de klas, ondersteunt SENSI hands-on STEM onderwijs en bouwt milieubewustzijn vanaf een vroege leeftijd. Het product vereist geen technische kennis van leraren, waardoor milieuwetenschap toegankelijk en uitvoerbaar wordt binnen het standaard basisonderwijsprogramma.",
+    "keywords": "STEM onderwijs, milieusensor, basisschool, burgerwetenschappen"
+  },
+  "dcs38amelierooman": {
+    "title": "Urban Pollen concentratiemeter",
+    "description": "Met ongeveer 40% van de Europeanen die last hebben van pollenallergieën en slechts ongeveer 2 verzamelstations in Vlaanderen, zijn hyperlokale pollenconcentratiegegevens zeer ontoereikend voor de besluitvorming over de gezondheid. Deze circulaire sensor maakt het mogelijk om de blootstelling aan stedelijk pollen op wetenschappelijke basis te monitoren door de ruimtelijke en temporale gaten te vullen die zijn ontstaan door dure en ontoegankelijke geautomatiseerde systemen. Ontworpen voor betaalbaarheid en gebruiksgemak, stelt het gewone stadsbewoners in staat om bij te dragen aan een dichter, representatiever pollendatanetwerk dat allergiepatiënten in heel België ten goede komt.",
+    "keywords": "stuifmeelbewaking, allergie, burgerwetenschap, stedelijke luchtkwaliteit"
+  },
+  "dcs8jademalfait": {
+    "title": "(geen PDF ingediend)",
+    "description": "(geen PDF ingediend)",
+    "keywords": "(geen PDF ingediend)"
+  },
+  "iex59larsmortelmans": {
+    "title": "Back Exoskelet voor Professionele Schoonmakers",
+    "description": "Dit exoskelet is ontworpen voor professionele schoonmakers op permanente contracten, een van België's meest fysiek belastte maar over het hoofd gezien beroepsgroepen, waarvan de zwaarste taken bestaan uit het dragen van zware trays, boards en schoonmaakapparatuur gedurende volledige werkdagen. Het ontwerp voorkomt oververhitting in de zomer, behoudt volledige bewegingsvrijheid, en is machinewasbaar, met behoud van een professionele uitstraling die natuurlijk integreert met schoonmaakwerkkleding. Een heldere en intuïtieve doning sequentie zorgt ervoor dat het product snel en consequent wordt aangenomen in verschillende reinigingsomgevingen.",
+    "keywords": "professionele reiniging, rug exoskelet, gezondheid op het werk, ergonomisch draagbaar"
+  },
+  "iex64manonjanssens": {
+    "title": "Postpartum Lumbopelvic Ondersteuning Exoskelet",
+    "description": "Eén op de drie vrouwen blijft gedurende maximaal vier maanden na de bevalling pijn in de onderrug en het bekken ervaren, waarbij 40% melding maakt van ernstige beperkingen in het dagelijks functioneren tijdens deze kwetsbare herstelfase. Dit exoskelet biedt discrete, verstelbare lumbopelvische ondersteuning die borstvoeding zonder verwijdering mogelijk maakt en omvat een hands-free dragen module, waardoor nieuwe moeders vertrouwen en fysieke verlichting tijdens hun herstel reis. Toegankelijk via zorgverzekering vergoeding, het apparaat is ontworpen om zacht, kind-veilig, en esthetisch geruststellend voor genezing Postpartum lichamen.",
+    "keywords": "Postpartum herstel, bekkenpijn, draagbare ondersteuning, maternale gezondheid"
+  },
+  "iex69lucavansteelant": {
+    "title": "Outdoor Exoskelet voor werknemers in de natuursector",
+    "description": "Dit close-body exoskelet is ontworpen voor Outdoor fysieke werknemers in de natuursector. boswachters, rangers, en behoud werknemers. die werken in dichte vegetatie waar conventionele omvangrijke exoskeletten leiden tot knagen en mobiliteit gevaren. De architectuur ondersteunt de schouders en de onderrug, terwijl het behoud van volledige bewegingsvrijheid in natuurlijke obstakels zoals takken en ondergroei, prioriteren veiligheid in vegetatieve omgevingen. Comfortabel voor langere buitenwerkdagen, het exoskelet voldoet aan de specifieke ergonomische eisen van de natuur-sector professionals die momenteel worden ondergewaardeerd door bestaande draagbare oplossingen.",
+    "keywords": "buitenwerk, natuursector, schoudersteun, exoskelet op het lichaam"
+  },
+  "ics4lennartdanneels": {
+    "title": "Partiq: Fine Dust Sensor Network for Construction Site Monitoring",
+    "description": "Partiq is een verhuurbaar sensornetwerk dat real-time fijnstof (PM2,5/PM10) bewaakt op Belgische bouwplaatsen, waar jaarlijks meer dan 30.000 bouwvergunningen worden afgegeven, maar effectieve emissiemetingen en -beheersing grotendeels ontbreken. Het systeem dient aannemers die objectief bewijs nodig hebben dat hun stofbestrijdingsmaatregelen werken, en onderhoudstechnici die op afstand batterij- en knooppuntstatus volgen op meerdere controlepunten. Door onzichtbare luchtemissies zichtbaar en documenteerbaar te maken, maakt Partiq betere naleving van de regelgeving, slimmere investeringsbeslissingen en geloofwaardiger communicatie met naburige bewoners mogelijk.",
+    "keywords": "fijnstof monitoring, bouwplaats, luchtkwaliteit sensor, verhuur IoT netwerk"
+  },
+  "ics9radohudran": {
+    "title": "SkyListener. Airport Noise Monitoring Sensor voor Luchthaven Omgeving",
+    "description": "SkyListener is een circulaire sensor ontworpen om vliegtuiggeluidsklachten objectief in kaart te brengen rond luchthavens, waardoor data-gedreven duidelijkheid wordt gebracht in de omstreden vraag van wie beweringen over vluchtlawaai juist zijn. Geïnstalleerd in woonwijken rondom luchthavens, kwantificeert het de werkelijke geluidsbelasting die bewoners ervaren en verschaft het feitelijke bewijs ter ondersteuning van klachten, onderhandelingen en beleidsbeslissingen. Gebouwd op eerder onderzoek naar het lawaai van vliegvelden, brengt het systeem citizen science methodologie naar een van België's meest omstreden stedelijke milieuconflicten.",
+    "keywords": "687 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689 689"
+  },
+  "ics14jaspermeel": {
+    "title": "Outdoor Luchtkwaliteit Sensor voor stedelijke residentiële gebouwen",
+    "description": "Deze circulaire sensor is ontworpen om de CO2 en stedelijke luchtkwaliteit te meten aan de gevel van residentiële appartementengebouwen en balkons, waardoor milieubewaking direct op de binnenlandse schaal komt waar bewoners het meest getroffen worden. Het ontwerpproces verkende verschillende vormconcepten. van compacte kubussen tot facetbehuizingen. balanceren weerbestendiging, visuele integratie in het bouwen van gevels, en toegankelijke sensor plaatsing. Het eindproduct stelt stadsbewoners in staat om de luchtkwaliteit direct rond hun huis te begrijpen en bij te dragen aan bredere stedelijke milieudatasets.",
+    "keywords": "stedelijke luchtkwaliteit, CO2-sensor, residentieel gebouw, gevelsensor"
+  },
+  "iex44alexiagersdorff": {
+    "title": "Preventive Training Exoskelet voor Supermarkt Shelf Stackers",
+    "description": "Skeletspierstelselaandoeningen zijn de belangrijkste oorzaak van arbeidsverzuim in België, en plankenstapelaars vertegenwoordigen een groep met een hoog risico als gevolg van repetitieve buigen en draaien gedurende maximaal 8 uur per dag, waardoor lumbale overbelasting na slechts 3 uur werk. Nieuwe Belgische wetgeving schrijft nu voor dat werkgevers ergonomische risico's analyseren en passende instrumenten bieden, waardoor preventieve interventie zowel een gezondheidsverplichting als een economische noodzaak is. Deze training exoskelet biedt lumbale ondersteuning en houdingscorrectie feedback, waardoor schapstapelaars correcte ergonomische gewoonten opbouwen voordat chronische pijn onder de rug ontstaat.",
+    "keywords": "musculoskeletale preventie, plank stapelen, training exoskelet, ergonomie van het beroep"
+  },
+  "iex49mettemaritgermonpre": {
+    "title": "GRDNSupport Terug Exoskelet voor Professional Gardeners",
+    "description": "Meer dan 60% van de professionele tuinders hebben last van rugklachten veroorzaakt door langdurig voorwaartse buigen, zware tool handling, en lange werkdagen in alle weersomstandigheden. GRDNSupport is een compacte, weerbestendige, wasbare en discrete rug exoskelet (max. 10 L volume) die integreert met een standaard werkuniform, verminderen lumbale belasting terwijl het behoud van een professionele uitstraling die combineert met teamwerkkleding. Het product ondersteunt tuinders gedurende hun volledige werkdag, waardoor duurzame lange-termijncarrières mogelijk zijn in een sector met hoge fysieke attritie.",
+    "keywords": "tuinieren ergonomie, rug exoskelet, buiten wearable, musculoskeletale preventie"
+  },
+  "iex54dylanwijnen": {
+    "title": "Back Exoskelet voor Supermarket Shelf Stockers",
+    "description": "Dit exoskelet richt zich op supermarkt schap stockers van 20 tot 65 jaar wiens primaire dagelijkse taak van het vullen van planken repetitief laag-niveau bereiken, buigen, en product dragen dat zorgt voor cumulatieve lagere rugbelasting over volledige werkploegen. Branded \"Support that moves with you,\" het concept geeft prioriteit aan een onopvallend ontwerp dat onzichtbaar werkt binnen professionele retailkleding, waarbij zowel mannelijke als vrouwelijke werknemers worden ondersteund zonder dat de prestaties van de baan worden verstoord of de aandacht van de klant wordt getrokken. Het product verlaagt het ergonomische risico van een van de grootste Belgische detailhandelsgroepen door middel van dagelijkse passieve lumbale bijstand.",
+    "keywords": "supermarktwerkers, rugsteun, ergonomisch draagbaar, ergonomie in de detailhandel"
+  },
+  "iex74nielsvervoort": {
+    "title": "Back Exoskelet voor bouwvakkers",
+    "description": "Met 30,5% van de werknemers in de Belgische bouwsector die fysieke klachten melden en 52% van degenen met rugpijn, vormen spier- en skeletaandoeningen een kritieke en kostbare uitdaging in de meest fysieke veeleisende Europese industrie. Dit exoskelet is ontworpen om de ergonomische houding te behouden, geen bewegingsbeperking op te leggen, machinewasbaar te zijn en minder dan 4 kg te wegen, waardoor het praktisch is voor dagelijks gebruik op actieve bouwplaatsen. Het product ondersteunt werknemers gedurende volledige dagen ter plaatse, waardoor de cumulatieve lumbale belasting en het risico op letsel op lange termijn in ruwbouw en algemene bouwcontexten worden verminderd.",
+    "keywords": "bouwvakkers, rug exoskelet, musculoskeletale gezondheid, ergonomisch draagbaar"
+  },
+  "iex79thordebruyne": {
+    "title": "DropUp - Enkelvoets Exoskelet voor Drop Foot",
+    "description": "DropUp is een compact, stigma-vrij enkelvoets exoskelet dat druppelvoet corrigeert. een aandoening waardoor de voet te hangen en te struikelen tijdens het lopen. door actieve dorsiflexie bijstand te bieden gedurende de swing fase van de loopcyclus. Het product is vernoemd naar zijn eenvoudige belofte: til je voet omhoog, draag je vertrouwen naar voren, waardoor gebruikers in staat om te lopen van nature en onafhankelijk in alledaagse contexten zonder de aandacht te vestigen op hun conditie. Ontworpen met een laag profiel vorm die integreert met standaard schoeisel, DropUp richt gebruikers die functionele revalidatie willen zonder de klinische verschijning van traditionele enkelvoets of dergelijke.",
+    "keywords": "valvoet, enkelvoets orthose, loophulp, stigmavrij draagbaar"
+  },
+  "iex84kamilsmets": {
+    "title": "Hybrid Exoskelet voor Tire Fitters",
+    "description": "Tire fitters worden geconfronteerd met aanzienlijke belasting van de wervelkolom op de L5/S1 kruising tijdens de gecombineerde flexie en rotatie bewegingen die nodig zijn om banden te monteren en te demonteren, waardoor ze een verhoogd risico op lagere rugletsel en langdurige schijfschade. Dit hybride exoskelet vermindert de belasting op de onderrug tijdens het draaien, buigen en heffen fasen specifiek voor banden-fitting werk, het integreren van passieve veer energie-opslag met actieve hulp voor gerichte lumbale en schouderbescherming. Het ontwerp beantwoordt aan de unieke biomechanische eisen van automotive service bays, het verminderen van het risico op letsel zonder afbreuk te doen aan de snelheid en precisie van de baan eisen.",
+    "keywords": "band fitting, hybride exoskelet, lumbale bescherming, auto-ergonomie"
+  },
+  "ics19xanderparedis": {
+    "title": "Privacy-First Noise Nuisance Monitoring Sensor",
+    "description": "Lawaaioverlast van verkeer en buren blijft vaak subjectief en moeilijk juridisch te bewijzen, waardoor bewoners in stedelijke appartementen en op straat gelegen woningen zonder geloofwaardige gegevens om hun klachten of juridische zaken te ondersteunen. Dit circulaire sensorsysteem stelt bewoners in staat om objectief terugkerende geluidsstoringen vanuit ramen, balkons of gevels te meten, waardoor evidence-grade gegevens worden gegenereerd die geluidsklachten tijdens bemiddeling of gerechtelijke procedures versterken. Het privacy-eerste ontwerp legt omgevingslawaainiveaus vast zonder gesprekken of andere identificeerbare audio op te nemen, waardoor de bescherming van persoonsgegevens voor alle gebruikers wordt gewaarborgd.",
+    "keywords": "geluidsoverlast, geluidsbewaking, burgerwetenschap, privacysensor"
+  },
+  "ics24ericverbeeck": {
+    "title": "CoLab. Klaslokaal milieusensor voor Learning Research",
+    "description": "CoLab onderzoekt hoe omgevingsparameters. inclusief CO2, temperatuur en vochtigheid. invloed studenten focus en leerresultaten in schoolgebouwen, een onderzoeksdomein waar grootschalige kwantitatieve studies beperkt blijven. Ontworpen voor studenten van 11 tot 18 jaar, maakt het interactieve systeem milieugegevens zichtbaar en zinvol binnen de schoolcontext, onderwijs geven aan maatschappelijke betrokkenheid en participatie in de burgerwetenschappen vanaf jonge leeftijd. CoLab transformeert scholen in levende laboratoria waar elk klaslokaal bijdraagt aan een gedeeld begrip van hoe leeromgevingen kunnen worden verbeterd door een beter binnenklimaatbeheer.",
+    "keywords": "schoolomgeving, indoor air quality, student focus, citizen science"
+  },
+  "ics29driescrauwels": {
+    "title": "(geen PDF ingediend)",
+    "description": "(geen PDF ingediend)",
+    "keywords": "(geen PDF ingediend)"
+  },
+  "ics39hannestruyve": {
+    "title": "Fauneye: Insect Monitoring Sensor voor Home Gardens",
+    "description": "Met 50% minder insecten dan 50 jaar geleden en 7% van de Vlaamse soorten regionaal uitgestorven, is de achteruitgang van insecten een kritieke ecologische noodsituatie die grotendeels onzichtbaar is voor het grote publiek. Fauneye is een circulaire sensor ontworpen voor natuur-geïnteresseerde huiseigenaren van 30 tot 50 jaar met een tuin van ongeveer 100 m2, het bieden van toegankelijke monitoring van lokale insectenactiviteit zonder technische expertise. Door tuinbiodiversiteit meetbaar en uitvoerbaar te maken, stelt Fauneye alledaagse tuinders in staat om bij te dragen aan grootschalige ecologische tracking en om geïnformeerde stappen te nemen om hun lokale habitat te verbeteren.",
+    "keywords": "Insectenbewaking, tuinbiodiversiteit, burgerwetenschap, ecologiesensor"
+  },
+  "jex46linaabakkari": {
+    "title": "Exoskeleton for Farriers",
+    "description": "Farriers werken in een van de meest fysiek veeleisende vakmanschap, waarvoor langdurige gebogen houdingen tijdens het hanteren en schoenen paarden hoeven in omgevingen die tegelijkertijd warm, scherp, vuil en nat zijn. Dit exoskelet richt zich op de meest gestresste lichaamsdelen van de farrier. bovenrug, schouders, nek, onderrug, knieën en handen. het ondersteunen van de specifieke posturale lasten van een beroep waar tot hernia discs na 24 jaar ervaring verre van uitzonderlijk zijn. Het ontwerp werkt betrouwbaar onder de harde omstandigheden van de smederij en stabiele omgeving, het combineren van robuuste materialen met gerichte ergonomische ondersteuning.",
+    "keywords": "farrier ergonomie, bovenlichaam exoskelet, gezondheid op het werk, lichamelijke handel"
+  },
+  "jex51tomfierlafijn": {
+    "title": "Hand Exoskelet met geactiveerde vingersluiting",
+    "description": "Deze Hand exoskelet maakt gebruik van een gesloten terugkoppelingslus van sensoren en actuatoren. detecteren van de Hand intentie via sensoren, triggeren actuators die cilinders, die trekken de vingers bij elkaar. om te herstellen of te vergroten grijpfunctie bij gebruikers met een verminderde handkracht of handigheid. Het werkprincipe integreert naadloos met natuurlijke handbeweging en ondersteunt functionele greep zonder onnatuurlijke weerstand te creëren tijdens open-Hand taken. Het ontwerp richt zich op gebruikers die dagelijks hulp nodig hebben voor activiteiten van het leven, en biedt een compacte en draagbare oplossing die intuïtief werkt zonder bewuste inspanning.",
+    "keywords": "Hand-exoskelet, grijphulp, geactiveerde vingers, hulpapparaat van de bovenste ledematen"
+  },
+  "jex56daannelissen": {
+    "title": "Exoskeleton voor pediatrische verpleegkundigen",
+    "description": "Tot 12% van de verpleegkundigen verlaat hun beroep vroeg als gevolg van lichamelijk letsel, waarbij klachten over de onderrug en het been de primaire oorzaak zijn, waardoor een vicieuze cirkel van personeelstekort ontstaat en de werklast voor het resterende personeel toeneemt. Dit exoskelet voor verpleegkundigen die werkzaam zijn in kinderafdelingen is ontworpen als een dagelijkse wearable die fysieke verlichting biedt door middel van lenden- en beenondersteuning zonder de spierbetrokkenheid te vervangen, verpakt in een kindvriendelijk ontwerp dat jonge patiënten niet intimideert. Het product richt zich zowel op mannelijke als vrouwelijke verpleegkundigen van 21 tot 65 jaar, waarbij wordt ingegaan op de groeiende behoefte aan ergonomische hulpmiddelen in een van de meest fysiek veeleisende specialisaties van de gezondheidszorg.",
+    "keywords": "kinderverpleging, rug exoskelet, de hele dag draagbaar, ergonomie in de gezondheidszorg"
+  },
+  "jcs36babetteverlinden": {
+    "title": "KIEMER: bodem- en plantensensor voor gemeenschappelijke tuinen",
+    "description": "KIEMER is een circulaire sensor ontworpen voor gedeelde gemeenschapstuinen waar diverse groepen tuinders. van beginners tot ervaren kwekers. cultiveren samen in verhoogde bedden, open grond, kassen, en kruidentuinen. De sensor pakt gemeenschappelijke uitdagingen aan in gedeelde teeltruimtes: slechte taakplanning, miscommunicatie tussen leden, kenniskloof over bodemomstandigheden, en de moeilijkheid om gegevens te lezen op een smartphone in een tuinomgeving. Met een gebruiksvriendelijk en modulair ontwerp dat past binnen een strak budget voor de gemeenschap, ondersteunt KIEMER collaboratief, ecologisch groeien door middel van actieerbare bodem- en plantgezondheidsgegevens.",
+    "keywords": "gemeenschap tuin, bodemsensor, modulair ontwerp, collaboratieve groei"
+  },
+  "jcs41neeltjevissers": {
+    "title": "BodemBuddy: bodemsensor voor familiekeukentuinen",
+    "description": "BodemBuddy is een circulaire bodemsensor ontworpen voor jonge gezinnen met kinderen ouder dan 5 jaar die beginnen te groeien hun eigen groenten in een kleine starter tuin van 50 tot 70 m2, het combineren van milieu-educatie met praktische tuinondersteuning. Het product richt zich op ouders die milieubewust, maar tijdarm zijn, die eenvoudige bodemtemperatuur- en vochtgegevens van verhoogde bedden en open grond verstrekken in een formaat dat speels genoeg is om kinderen te betrekken en duidelijk genoeg is voor drukke volwassenen. Het kindvriendelijke ontwerp en de gamified interactie maken van bodemmonitoring een familieleeractiviteit die zowel de natuurverbinding als de digitale geletterdheid in de volgende generatie bevordert.",
+    "keywords": "keukentuin, bodembewaking, gezinsonderwijs, tuinieren voor beginners"
+  },
+  "ics34andreasgrootjans": {
+    "title": "Smart Bodemsensor voor stadstuinen",
+    "description": "Dit circulaire sensorsysteem is ontworpen voor vrijwilliger leden van stedelijke gemeenschap tuinen. gedeelde ruimtes met gemeenschappelijke houten verhoogde bedden, vaak openbaar toegankelijk. die weinig tot geen technische kennis en een gemeenschap-gedreven aanpak van stedelijke landbouw. Het systeem pakt terugkerende problemen aan van beperkte betrokkenheid, miscommunicatie onder leden, kenniskloven in de bodemgezondheid en sterk beperkte financiële middelen die commerciële sensoroplossingen ontoegankelijk maken. Door eenvoudige, actiegerichte bodemkwaliteitsinformatie te bieden, stelt de sensor gemeenschapstuiniers in staat om met succes en duurzaam samen te groeien.",
+    "keywords": "stedelijke tuinieren, bodemsensor, gemeenschapstuin, burgerwetenschap"
+  },
+  "jex61iancurrie": {
+    "title": "Back Exoskelet voor werknemers in de groene sector",
+    "description": "De Belgische groene sector vertegenwoordigt een markt van meer dan 2,3 miljard euro en biedt werk aan meer dan 70% mannen en onder de 45, waarbij 25 tot 30% van de werknemers last heeft van rugklachten die werkgevers meer dan 5.000 euro kosten per langdurig afwezigheid. Dit preventieve exoskelet is ontworpen voor buitenwerkers in de groene sector, landschapsarchitecten, tuinders en tuinbouwers. die lange dagen doorbrengen in fysiek veeleisende houdingen die zich ophopen in chronische lagere rugbelasting. Het product richt zich op een gat in de huidige markt voor ergonomische ondersteuningsinstrumenten die specifiek zijn afgestemd op de unieke fysieke en milieueisen van de openluchtgroene sector.",
+    "keywords": "groene sector, rug exoskelet, beroepspreventie, ergonomie buitenshuis"
+  },
+  "jex66thomasverhaegen": {
+    "title": "Exoskeleton voor vuilnisophalers",
+    "description": "Tussen de 60 en 80% van de professionele afvalinzamelaars lijden aan aandoeningen van het bewegingsapparaat, waarbij de grootste last op de schouders en onderrug valt tijdens het herhaaldelijk optillen en gooien van afvalcontainers in alle weersomstandigheden. Dit exoskelet is ontworpen voor professionele afvalverzamelaars werken stedelijke routes, het verminderen van fysieke belasting op deze tot kritieke pijnpunten, terwijl het praktisch blijft voor werknemers die moeten navigeren verkeer, verschillende container gewichten, en onvoorspelbare straatomgevingen. Het product ondersteunt een beroep dat essentieel is voor het stedelijke leven, maar consequent ondergedompeld met ergonomische instrumenten die aangepast zijn aan de werkelijke fysieke eisen.",
+    "keywords": "afvalinzameling, schoudersteun, rug exoskelet, stedelijke ergonomie"
+  },
+  "jex71renzocraeymeersch": {
+    "title": "Exoskeleton voor verplegers thuiszorgpersoneel",
+    "description": "Verpleeghuispersoneel voert fysiek intensieve zorgtaken uit gedurende lange werkdagen, met een gedocumenteerde tekortcrisis die deels wordt veroorzaakt door een hoog niveau van lichamelijk absenteïsme en vroegtijdige burn-out onder jongere werknemers. Dit exoskelet is ontworpen voor de verzorgingstehuisomgeving. grote gebouwen, kleine patiëntenkamers, een oudere en kwetsbare bewoners. Het product richt zich zowel op de ergonomische belasting van het personeel als op de bredere institutionele uitdaging van het behoud van de beroepsbevolking in de zorg voor ouderen.",
+    "keywords": "verpleeghuis, verzorgingswerker exoskelet, behandeling van patiënten, gezondheid op het werk"
+  },
+  "jcs21amelievanwest": {
+    "title": "Air Quality Sensor Kit voor inclusieve Citizen Science Campaigns",
+    "description": "De huidige sensorkits voor luchtkwaliteit die in meetcampagnes worden gebruikt, zijn moeilijk te hergebruiken en bereiken geen belangrijke, maar moeilijker toegankelijke bevolkingsgroepen, met name volwassenen ouder dan 65 jaar. Deze circulaire sensorkit is ontworpen voor plaatsing buitenshuis, specifiek gericht op 65-plus gebruikers door het verwijderen van alle fysieke, cognitieve en digitale belemmeringen voor deelname. het apparaat werkt zonder smartphone, computer of Wi-Fi-verbinding. Door een bredere en inclusievere participatie van de burgerwetenschap mogelijk te maken, breidt de kit het geografische en demografische bereik van luchtkwaliteitscampagnes uit, waardoor rijkere en representatievere milieudatasets worden gegenereerd.",
+    "keywords": "monitoring van de luchtkwaliteit, inclusief ontwerp, oudere gebruikers, burgerwetenschap"
+  },
+  "jcs26aukjedeklein": {
+    "title": "CoSense: Interactieve milieusensor voor schoolpleinen",
+    "description": "CoSense is een modulaire milieusensorpool voor schoolpleinen die omgevingsgegevens meet en deze interactief presenteert via een AI-avatar interface, waardoor klimaatwetenschap aantrekkelijk en toegankelijk wordt voor een nieuwe generatie burgerwetenschappers. De missie van CoSense is om het klimaatbewustzijn en de participatie van de burgerwetenschap onder schoolkinderen te versterken door van het schoolplein een actief meetstation te maken waar leerlingen dagelijks mee kunnen communiceren en leren. Het ontwerp brengt milieumonitoring in de dagelijkse schoolervaring, waarbij metingen worden gekoppeld aan nieuwsgierigheid, discussie en actief bewustzijn van lokale omgevingsomstandigheden.",
+    "keywords": "schoolyard sensor, klimaatbewustzijn, burgerwetenschap, interactieve AI-avatar"
+  },
+  "jcs31hannesbal": {
+    "title": "Circular Nitraatsensor voor aardappelboeren",
+    "description": "Vlaamse akkerbouwgewassen. In de eerste plaats aardappeltelers. hebben te maken met strenge verplichtingen op het gebied van nitraatresidubewaking, maar hebben geen tijdige, betaalbare en toegankelijke instrumenten om aanvullende bemestingsbeslissingen op het juiste moment in de gewascyclus te sturen. Dit circulaire sensorsysteem richt zich op de precisielandbouw door het leveren van meting van de bodem- en nitraatkwaliteit op het veld, ondersteund door inzichten verzameld door interviews met lokale boeren, Boerenbond en ILVO. Het product stelt boeren in staat om te handelen op basis van echte bodemgegevens in plaats van schattingen, waardoor zowel overbemestingsrisico als gewasverlies worden verminderd en duurzame landbouwpraktijken worden ondersteund.",
+    "keywords": "precisielandbouw, nitraatsensor, aardappelteelt, duurzame landbouw"
+  },
+  "jcs1hannahnollet": {
+    "title": "Sense: Modular Urban Environmental Sensor",
+    "description": "Sense is een modulaire stedelijke sensormodule ontworpen om de lokale leefkwaliteit zichtbaar, meetbaar en actief te maken voor zowel bewoners als stadsbeheerders. Het product balanceert zes kernwaarden. designkwaliteit, modulariteit, sensorplaatsing flexibiliteit, inclusiviteit, circulariteit en bewustmaking. tot één samenhangend platform dat kan worden aangepast aan verschillende stedelijke meetcontexten. Door onzichtbare milieugegevens tastbaar en deelbaar te maken, stelt Sense burgers en lokale overheden in staat om meer geïnformeerde gesprekken te voeren over leefbaarheid en gezondheid in de stad.",
+    "keywords": "stedelijke sensor, modulair ontwerp, leefbaarheidsbewaking, citizen science"
+  },
+  "jcs6fienvertente": {
+    "title": "Indoor Luchtkwaliteitssensor voor sociale en huurwoningen",
+    "description": "Deze circulaire sensor richt zich op bewoners van sociale en huurwoningen. een diverse groep die jongeren, ouderen, mannen, vrouwen en meerdere taalachtergronden omvat. die tot de meest blootgesteld zijn aan slechte binnenluchtkwaliteit maar het minst waarschijnlijk gebruik maken van complexe monitoringtechnologie. De sensor meet CO2, relatieve vochtigheid, temperatuur en VOC standaard, met fijnstof (PM2.5) uitbreiding beschikbaar, en levert elke meting als een concrete actieerbare aanbeveling zoals \"Ventilate now. \" Ontworpen met radicale toegankelijkheid in het achterhoofd, het werkt binnen een € 45 budget voor de standaardversie, vereist geen technische setup, en is begrijpelijk voor gebruikers van 70 jaar en ouder in meerdere talen.",
+    "keywords": "binnenluchtkwaliteit, sociale huisvesting, toegankelijke sensor, bruikbare monitoring"
+  },
+  "jcs16felixpeleman": {
+    "title": "Urban Park Bioakoestische Sensor voor Bird and Noise Monitoring",
+    "description": "Deze cirkelsensor is gemonteerd in stadsparkbomen om tegelijkertijd de geluidsoverlast van de stad en de vogelvocalisaties vast te leggen, zodat zowel ecologen die stedelijke vogelpopulaties bestuderen als bezoekers van het park nieuwsgierig zijn naar de akoestische omgeving om hen heen. Het dubbele publiek van geëngageerde parkbezoekers en professionele biologen/ecologen vormt een ontwerp dat onopvallend, weerbestendig en in staat is om op lange termijn autonoom te opereren in een openbare groene ruimte. Door het akoestische leven van stedelijke parken leesbaar te maken, ondersteunt de sensor het biodiversiteitsonderzoek en vergroot hij het bewustzijn van de impact van geluidsoverlast op stedelijke wilde dieren.",
+    "keywords": "stedelijke biodiversiteit, bioakoestiek, parkmonitoring, vogelecologie"
+  },
+  "jex76linawillems": {
+    "title": "LiftTogether Terug Exoskelet voor Vrouwelijke Verpleegsters in Geriatrie",
+    "description": "Meer dan 50% van de zorgverleners in geriatrische en revalidatieafdelingen ervaren lagere rugklachten van patiënten tillen, draaien, en overdracht taken, maar de overgrote meerderheid van de bestaande ondersteunende apparaten werden ontworpen rond gemiddelde mannelijke antropometrie. LiftTogether is speciaal ontworpen voor de 79% vrouwelijke verpleegsters, met vrouwelijke fysiologische verschillen, waaronder grotere lumbale flexie en hogere lagere rugbelasting, om beter uitgeruste en effectievere lendenondersteuning te bieden tijdens het volledige spectrum van patiëntenbehandelingstaken. Het product behoudt de onafhankelijkheid van de patiënt door het mogelijk te maken handmatige ondersteuning in plaats van het te vervangen door mechanische liften, het houden van zorg persoonlijk en responsief.",
+    "keywords": "geriatrische verpleging, ergonomie van de vrouw, exoskelet in de rug, behandeling van de patiënt"
+  },
+  "jex81lindevanmarcke": {
+    "title": "ATROS Exoskelete voor Muscle Atrofie in Microzwaartekracht",
+    "description": "ATROS is een exoskelet ontworpen als een tegenmaatregel tegen spieratrofie en botdichtheidsverlies ervaren door astronauten in microzwaartekrachtomgevingen, waar de huidige trainingsprotocollen onvoldoende zijn om langdurige fysiologische afbraak te voorkomen. Het apparaat werkt in een ruimteomgeving met 4 graden vrije ruimte met strenge eisen voor hygiëne, fail-safe functionaliteit, minimale externe volume, en compatibiliteit met technisch laboratorium en mechanisch werk in beperkte ruimteschepen interieurs. Ontworpen rond de context van MEDEVAC en actieve ruimtemissies, ATROS vertegenwoordigt een nieuwe benadering van het handhaven van de menselijke fysieke veerkracht buiten de zwaartekracht van de Aarde.",
+    "keywords": "ruimte exoskelet, spieratrofie, microzwaartekracht, astronautengezondheid"
+  },
+  "kex60hananilis": {
+    "title": "Knee Exoskelet voor Buitenbejaarden Tuinkers",
+    "description": "Dit knie-exoskelet is ontworpen voor tuinders van 65 jaar en ouder die cultiveren in toewijzing en keukentuinen, een gebruikersgroep die typisch sceptisch is over technologie en bestand is tegen producten die het verlies van autonomie signaleren. Het ontwerp richt zich op knie osteoartritis en leeftijd-gerelateerde gewrichtszwakte tijdens knielen en buigen taken specifiek voor buiten groente en hobby tuinieren, waardoor gebruikers om te blijven doen wat ze graag zelfstandig voor langer. Belangrijkste ontwerp bestuurders zijn geschiktheid voor gebruik buitenshuis, intuïtieve werking, en compatibiliteit met standaard AAA-batterijen om de laadbarrière voor een low-tech gebruikersgroep te verwijderen.",
+    "keywords": "ouderen tuinieren, knie exoskelet, gewrichtsondersteuning, buiten wearable"
+  },
+  "kex65lenavandooren": {
+    "title": "Jules: Pols ondersteuning Exoskelet voor gastvrijheid werknemers",
+    "description": "Jules is een pols en onderarm ondersteuning exoskelet ontworpen voor gastvrijheid personeel. obers en event servers. die zware trays dragen en ervaren belangrijke pols en onderarm laden tijdens lange dienst diensten. Het product ondersteunt polsdragend tot 10 kg, kan in minder dan 30 seconden met één hand worden gedoneerd en gedoffd, en is machinewasbaar bij 30°C en voldoet aan de hygiëne- en snelheidseisen van een professionele serviceomgeving. Met verstelbare ondersteuning, een professionele uitstraling met behulp van geschikte materialen en kleuren, en discrete vormfactor, Jules biedt werkvertrouwen zonder afbreuk te doen aan het professionele imago verwacht in gastvrijheid.",
+    "keywords": "polsondersteuning, gastvrijheidswerkers, eenhandige dons, ergonomisch draagbaar"
+  },
+  "kex70ellenbruyninckx": {
+    "title": "Hip-Thigh Exoskelet voor Valpreventie bij oudere vrouwen",
+    "description": "Dit actieve exoskelet richt zich op de preventie van heupfracturen bij vrouwen van 65 jaar en ouder met osteoporose en evenwichtsverlies, ingezet binnen de residentiële zorg thuis context van binnenruimtes en tuinen. Het product richt zich op de heupen en de mid-thigh zone, waarbij actieve hulp wordt geboden tijdens evenwichtscompromismomenten, terwijl het wordt verkleind en ontworpen rond het specifieke anatomie- en mobiliteitsprofiel van oudere vrouwen in residentiële zorg. Het product combineert interventie op het moment van valrisico met comfortabele dagelijkse draagbaarheid, en pakt een van de meest medische en financieel dure gevolgen van veroudering aan. de heupfractuur.",
+    "keywords": "preventie van heupfracturen, osteoporose, oudere vrouwen, actief exoskelet"
+  },
+  "kcs5lauraverbeeck": {
+    "title": "Circular Sensor voor co-woning Gemeenschappen",
+    "description": "Deze circulaire sensor richt zich op de opkomende niche van co-housing ontwikkelingen. multigenerationele gedeelde woonprojecten waar diverse familiestructuren leven onafhankelijk maar toch samen. het verstrekken van bodem en milieu monitoring voor gedeelde tuin en leefruimtes. Het ontwerp waardeert vooral eenvoud, met een tweede-life module concept, metgezel app, en vervangbare onderdelen, waardoor het financieel en technisch toegankelijk is voor doelbewuste gemeenschappen met bescheiden technologiebudgetten. Door bewoners gedeelde gegevens over hun gemeenschappelijke omgeving te geven, versterkt de sensor de sociale cohesie en gedeeld stewardship die succesvolle co-woning gemeenschappen definiëren.",
+    "keywords": "co-woning, gedeelde woonsensor, gemeenschapstuin, circulair design"
+  },
+  "kcs20zoerosschaert": {
+    "title": "CitiSense: Akoestische comfortsensor voor studentenhuisvesting",
+    "description": "CitiSense maakt lawaai zichtbaar, meetbaar en conversatief in gedeelde woonomgevingen, gericht op de specifieke spanning van gedeelde studentenwoningen waar lawaai een bron van conflict is tussen huisgenoten, verhuurders en academische onderzoekers die akoestisch comfort bestuderen. Het product dient tegelijkertijd drie gebruikersperspectiefsen: studenten die willen dat lawaai bespreekbaar is, verhuurders die willen dat hun huurders respectvol naast elkaar bestaan, en onderzoekers die bestuderen hoe akoestisch comfort studenten welzijn en academische prestaties beïnvloedt. Door subjectieve geluidsklachten om te zetten in gedeelde, objectieve gegevens, stelt CitiSense studentengemeenschappen in staat om hun gezonde omgeving constructief te reguleren.",
+    "keywords": "akoestisch comfort, studentenwoning, geluidsbewaking, citizen science"
+  },
+  "kcs25tessbuts": {
+    "title": "Circular Sensor voor water- en bodemkwaliteit in de landbouw",
+    "description": "Dit circulaire sensorsysteem geeft agrarische gebruikers. in de eerste plaats akkerbouwgewassen en tuinbouwers. dieper inzicht in de kwaliteit van zowel hun water als bodem, waardoor gerichte actie in plaats van generieke beheersbeslissingen mogelijk is. Het ontwerp geeft prioriteit aan low-tech werking, eenvoudige data-analyse, intuïtief gebruik en directe werking, waardoor nauwkeurige milieumeting toegankelijk wordt voor landbouwers zonder eerdere sensorervaring. Door de feedback-lus tussen meting en veldactie te sluiten, ondersteunt de sensor een efficiëntere bemesting, irrigatie en bodembeheer, wat bijdraagt tot zowel betere opbrengsten als duurzamer landgebruik.",
+    "keywords": "bodemkwaliteit, waterkwaliteit, landbouwsensor, precisielandbouw"
+  },
+  "kex45reneromandic": {
+    "title": "MOVEX. . . Terug Exoskelet voor Pakketbezorging Koeriers",
+    "description": "Parcel levering koeriers presteren meer dan 100 stedelijke haltes per dag, fietsen door een vermoeiende reeks van zitten, stap in en uit, naar voren buigen, tillen, en romp rotatie die zich ophoopt in significante lumbale spanning en lange termijn rug letsel risico. MOVEX is een passief rug exoskelet met een platte lumbale module en progressieve ondersteuning bij diepere buigen hoeken, ontworpen rond mannelijke DINED antropometrische gegevens voor de 90% mannelijke stedelijke levering personeelsbestand, met voorziening voor toekomstige grootte uitbreiding. Het flexibele heupzone- en kabelgeleidingssysteem zorgt ervoor dat het exoskelet nooit een tijdverlies veroorzaakt tijdens snelle leveringssequenties, waardoor adoptie praktisch en duurzaam is gedurende een volledige werkdag.",
+    "keywords": "pakketbezorging, rug exoskelet, stedelijke logistiek, passieve ondersteuning"
+  },
+  "kex50luneeeckhoudt": {
+    "title": "Lumbopelvic Exoskelet voor zwangere vrouwen met ernstige pijn",
+    "description": "Ernstige lumbopelvische pijn treft 14 tot 22% van de zwangere vrouwen met bekkengordelpijn en ongeveer 33% met ernstige pijn in de onderrug, beide aandoeningen verergeren naarmate de zwangerschap vordert door verhoogde gewrichtslaxiteit en gewichtsverschuiving. Dit exoskelet richt zich specifiek op de laatste fase van de zwangerschap waar pijn het meest slopende is, het bevorderen van autonomie in de dagelijkse activiteiten en sociale participatie door middel van gerichte bekken- en lumbale stabilisatie. Het ontwerp reageert op de biomechanische realiteit van een anterieure roterende bekken en hyperlordotische lumbale wervelkolom, die ondersteuning biedt die zich aanpast aan een voortdurend veranderend lichaam.",
+    "keywords": "zwangerschapspijn, pijn aan de bekkengordel, lumbopelvische exoskelet, maternale autonomie"
+  },
+  "kex55louisdebie": {
+    "title": "Restora Exoskelet voor Mural Restauratie Specialisten",
+    "description": "Restora is een passief exoskelet ontworpen voor kunstherstellers die dagen tot weken dezelfde repetitieve houdingen onderhouden en dezelfde boven- en zijarmbewegingen uitvoeren tijdens het werken aan in-situ muurrestauratie. Het product pakt de gezondheidskloof op het gebied van cultureel erfgoed aan, waarbij specialisten met cumulatieve risico's van het bewegingsapparaat worden geconfronteerd zonder ergonomische instrumenten die momenteel zijn afgestemd op hun unieke werkhoudingen en -contexten. Met de slogan \"Je herstelt de kunst, Restora de kunstenaar,\" beschermt het product de fysieke gezondheid van conservators met behoud van hun artistieke precisie en bewegingsvrijheid.",
+    "keywords": "muurrestauratie, passief exoskelet, behoud van erfgoed, repetitieve stam"
+  },
+  "kcs30jesseroels": {
+    "title": "Modular Air Quality Sensor voor Street Canyon bewoners",
+    "description": "Deze modulaire cirkelsensor richt zich op bewoners van stedelijke straat canyons. smalle straten geflankeerd door hoge gebouwen waar windvortices stikstofoxide en fijne deeltjes vangen in concentraties die ver boven VMM monitoring stations' metingen. De primaire gebruiker is een gezondheidsbewuste bewoner of huurder zonder ventilatiesysteem, voor wie de actuele luchtkwaliteitsgegevens van de stad onvoldoende gelokaliseerd zijn om persoonlijke gezondheidsbeslissingen te ondersteunen. Met een minimalistische, gelamelleerde esthetiek van roestvrij staal en een modulaire architectuur, biedt de sensor nauwkeurige hyper-lokale luchtkwaliteitsgegevens, terwijl hij discreet in stedelijke woongevels integreert.",
+    "keywords": "street canyon, luchtkwaliteit, modulaire sensor, hyper-lokale bewaking"
+  },
+  "kcs35aukeproot": {
+    "title": "Soil Quality Sensor voor Urban Allotment Gardens",
+    "description": "Deze circulaire sensor richt zich op de centrale vraag van stedelijke toewijzing tuinders: \"Hoe gezond zijn de groenten uit mijn stedelijke tuin, en hoe kan ik dit verbeteren?\" Het systeem controleert de pH van de bodem, de beschikbaarheid van voedingsstoffen en het risico van zwaar metaal. de drie belangrijkste factoren beïnvloed door stedelijke bodemgeschiedenis, luchtvervuiling en oudermateriaal. het verstrekken van toewijzing eigenaren en stadsbeheerders met bruikbare gegevens over voedselveiligheid en bodemgezondheid. Ontworpen voor zowel nieuwe als gevestigde toewijzing eigenaren, de sensor ondersteunt het belang van de stad in het vermijden van extreme bodemverontreiniging situaties, terwijl empowerment bewoners om veiliger en duurzamer te groeien.",
+    "keywords": "stedelijke toewijzing, bodemgezondheid, voedselveiligheid, circulaire sensor"
+  },
+  "kcs40delphinemarien": {
+    "title": "Air Kwaliteitssensor voor kleine Fitnessruimtes",
+    "description": "Deze cirkelvormige sensor richt zich op de luchtkwaliteit binnen in kleine fitnessruimtes van 30 tot 100 m2, waar intensieve groepsoefening in een slecht geventileerde metalen omlijste ruimte CO2-accumulatie, lichaamsgeur, temperatuurstijging en vochtophoping veroorzaakt die gebruikers niet kunnen waarnemen, maar die direct vermoeidheid en verminderde prestaties veroorzaken. Het systeem bewaakt CO2, luchtvochtigheid, temperatuur en lichaamsgeur in real time en beantwoordt de vraag \"Hoe gezond is het om te trainen in een kleine ruimte met meerdere mensen?\" en zorgt ervoor dat gymoperators tijdig ventilatie kunnen uitvoeren. Ontworpen voor compacte sportruimtes waar het huren van een grote studio niet haalbaar is, ondersteunt de sensor zowel individuele gezondheids- als groepsprestatieresultaten.",
+    "keywords": "fitness luchtkwaliteit, CO2-bewaking, binnensport, kleine fitnesssensor"
+  },
+  "kex75nennawalraevens": {
+    "title": "Fulcrum: Exoskelet voor militair MEDEVAC-personeel",
+    "description": "Fulcrum is een exoskelet ontworpen voor MEDEVAC militaire medici die slachtoffers moeten evacueren uit actieve gevechtsgebieden terwijl ze hun eigen uitrusting dragen en noodhulp bieden onder extreme fysieke en operationele stress. De ontwerpers richten zich op vier prioriteiten: geen beperking van de bewegingsvrijheid, vermindering van de spierinspanning tijdens het ophalen van slachtoffers, een veilige werking die ervoor zorgt dat de gebruiker nooit vast kan komen te zitten, en een minimaal extern volume voor gebruik in gesloten voertuigen en terrein. Fulcrum werkt op het kruispunt van militaire prestatie-apparatuur en medische ergonomie, waarbij wordt ingegaan op een kritisch ondergewaardeerde behoefte aan de bestrijding van ongevallen.",
+    "keywords": "militair exoskelet, MEDEVAC, evacuatie van slachtoffers, ergonomie van de strijd"
+  },
+  "kex80jeangielen": {
+    "title": "LECTO: Compact Camera Load Exoskeleton voor Cinematografen",
+    "description": "LECTO is een exoskelet ontworpen voor documentaire en reportage camera operators die werken met camera's met een gewicht van 10 tot 15 kg over lange verschuivingen in onvoorspelbare, krampachtige en dynamische filmlocaties. In tegenstelling tot bestaande easy-rigs en camera-ondersteuningssystemen die gewicht uitladen maar nieuwe operationele problemen creëren. buitensporig volume in krappe ruimtes, beperkte camera beweging, en botsing risico. LECTO geeft prioriteit aan de maximale verlichting van de camera's in de kleinste mogelijke externe voetafdruk. Het ontwerp gaat specifiek in op de asymmetrische belasting en de langverschuifbare gevolgen voor het bewegingsapparaat van veldcinematografen die zich vrij moeten bewegen in omgevingen variërend van smalle gangen tot open terrein.",
+    "keywords": "cameraoperator, cinematografie ondersteuning, exoskelet, belastingsreliëf"
+  },
+  "kex85aleagrutzner": {
+    "title": "EVO Quasi-Passive Exoskelet voor Drop Foot Patiënten",
+    "description": "EVO is een quasi-passief exoskelet ontworpen voor drop foot patiënten met MRC spierverlamming niveaus 0 tot 3, met 60 tot 70% push-off ondersteuning en een 1,2 Nm verlenging moment om te voorkomen dat voet slepen en voet klap tijdens de volledige gang cyclus. Met een gewicht van slechts 850 g en ontworpen voor 5 jaar dagelijks gebruik inclusief maximaal 4 uur actief lopen (14.400 stappen), EVO levert zinvolle functionele restauratie in een stigmavrije, compacte vorm die discreet integreert met dagelijkse kleding. Het quasi-passieve ontwerp oogst en geeft energie terug tijdens de loopcyclus, waardoor de batterijafhankelijkheid afneemt en tegelijkertijd de biomechanische eisen van de dagelijkse mobiliteit in de echte wereld worden aangepast.",
+    "keywords": "valvoet, quasi-passief exoskelet, gangherstel, energiewinning"
+  },
+  "kex86arbenmariyanov": {
+    "title": "Paediatric Enkelvoets Exoskelet voor Cerebral Palsy",
+    "description": "Dit exoskelet richt zich op kinderen van 6 tot 12 jaar met hersenverlamming op GMFCS-mobiliteitsniveaus I en II, waarbij zowel type I (drop foot/dorsale flexie tekort in swing fase) als type II (gecombineerde drop foot en spastic equinus/plantarflexion tekort in houdingsfase) gangafwijkingen worden aangepakt. Ontworpen voor dagelijks gebruik tijdens de schooldag. in het klaslokaal en speeltuin. het apparaat moet binnen 7% van het lichaamsgewicht van het kind blijven, een logische en kindvriendelijke doneringsvolgorde volgen en een robuuste duurzaamheid handhaven die geschikt is voor een actieve schoolomgeving. Het product richt zich op mobiliteit als een recht en ondersteunt de deelname van kinderen aan het dagelijkse schoolleven door middel van technologie die met hen meebeweegt in plaats van hen te beperken.",
+    "keywords": "cerebrale verlamming, pediatrisch exoskelet, enkelvoets orthose, schoolmobiliteit"
+  },
+  "pex47loresuys": {
+    "title": "Exoskeleton voor hardlopers met Shin Splints",
+    "description": "Shin spalken. mediale tibial stress syndroom. invloed loopsters die de training volume te snel verhogen, trainen op harde oppervlakken, of gebruik versleten schoeisel, waardoor pijnlijke overbelasting van het tibiale periosteum dat een vermindering of stopzetting van de training dwingt. Dit exoskelet richt zich op semi-professionele lopers van 18 tot 45 jaar met milde tot matige scheenspalken die 3 tot 6 keer per week trainen en een vorm van hardlopen tijdens het herstel willen behouden in plaats van volledig te stoppen. Door het loslaten van de tibialis anterior, tibialis posterior, en soleus spieren tijdens de loopcyclus, het apparaat maakt voortgezette training bij verminderde impact, ondersteuning van zowel lichamelijk herstel en de psychologische behoeften van betrokken atleten.",
+    "keywords": "scheenspalken, loop exoskelet, tibiale stress, trainingsrehabilitatie"
+  },
+  "pex52mauritsjoos": {
+    "title": "Blast Beschermingshelm Exoskelet voor Military Breakers",
+    "description": "Militaire indringers. specialisten in explosieve inbraak. worden blootgesteld aan 100 tot 600 ontploffingsgolven per jaar, met 60% van de militaire traumatische hersenletsels zijn Blast-gerelateerd en 77% van de TBI gevallen optreden bij soldaten die droegen helmen op dat moment. Dit exoskelet-geïntegreerde hoofdbeschermingssysteem richt zich op de orofaciale en cervicale route waardoor schokgolven de hersenen bereiken via bloedvaten, een route die standaard ballistische helmen niet aanpakken. Het apparaat is ontworpen voor gebruik in trainingsmissies in de omstandigheden van Zone Mortalis en voldoet aan de normen voor militaire mobiliteit en biedt zowel operators als instructeurs medisch traceerbare, cumulatieve bescherming tegen ontploffingen.",
+    "keywords": "bescherming tegen ontploffingen, militaire TBI, beveiliging van de breuker, hoofd exoskelet"
+  },
+  "pex57andrescarton": {
+    "title": "Elbow en Pols Exoskeleton voor Armschade Revalidatie",
+    "description": "Dit exoskelet ondersteunt gebruikers herstellen van armletsels. waaronder UCL scheur, tennis elleboog, golfer's elleboog, tendinitis, bursitis, en post-takt voorwaarden. die dagelijks autonomie moeten handhaven tijdens het revalidatieproces. Ontworpen voor unilaterale bediening en stigmavrije esthetiek die zich mengen in alledaagse kleding, het apparaat biedt natuurlijke beweging ondersteuning die herstel helpt zonder het creëren van afhankelijkheid of sociale zichtbaarheid. Het product prioriteit autonome controle, het dragen van comfort de hele dag, en compatibiliteit met een scala van dagelijkse taken, waardoor gebruikers onafhankelijk kunnen blijven functioneren terwijl hun arm geneest.",
+    "keywords": "armrehabilitatie, elleboog exoskelet, eenzijdige operatie, stigmavrij ontwerp"
+  },
+  "pcs2felixroels": {
+    "title": "Kinderbodemsensor voor Private Garden Education",
+    "description": "Deze cirkelsensor is ontworpen voor kinderen van 6 tot 12 jaar en hun ouders van 30 tot 45 jaar, waardoor bodemtemperatuur en vochtbewaking in privétuinen als hands-on STEM leeractiviteit mogelijk zijn. Vijf ontwerpdrivers begeleiden het product: universeel inclusief ontwerp, onderwijs door interactie, lage complexiteit \"houd het eenvoudig\" bediening, robuustheid en weerbestendiging, en ontwerp voor demontage waardoor toekomstig circulair hergebruik mogelijk is. Het resultaat is een gereedschapsvrije, kindvriendelijke en weerbestendige sensor die ondergrondse bodemomstandigheden zichtbaar en begrijpelijk maakt voor jonge leerlingen, die zowel milieunieuwsgierigheid als ecologische rentmeesterschap bevorderen.",
+    "keywords": "kindertuin, bodemsensor, STEM-educatie, circulair design"
+  },
+  "pcs17amyvanthiel": {
+    "title": "ZORA - Night-Time Citizen Science Sensor",
+    "description": "ZORA is een modulair citizen science sensor systeem speciaal ontworpen voor nachtelijke milieumetingen, gericht op het feit dat slechts 15% van de huidige sensing activiteit zich richt op nachtelijke patronen ondanks 100% van de vleermuisactiviteit en aanzienlijk meer insecten activiteit optreden na donker. Het systeem meet de luchtkwaliteit (SQM + IR), hartslag en temperatuur (HR + TEMP) en ultrageluid voor vleermuisdetectie, wat een complete nachtelijke biodiversiteit en lichtvervuiling monitoring toolkit biedt. Met een toegankelijk, modulair en community-engaged design sluit ZORA de structurele meetkloof in nachtelijke ecologie en nodigt burgers uit om het leven van hun lokale omgeving na het donker te ontdekken en te documenteren.",
+    "keywords": "nachtbewaking, lichtvervuiling, vleermuisdetectie, burgerwetenschap"
+  },
+  "pcs22samdaniels": {
+    "title": "Circular Sensor Assembly Kit voor Citizen Science Data Collection",
+    "description": "Dit project onderzoekt het concept van een citizen science sensor kit die gebruikers zelf kunnen monteren, programmeren, hergebruiken en repareren, waarbij circulariteit niet alleen in materialen maar in de hele levenscyclus van het sensorobject wordt belichaamd. Deelnemers verzamelen en delen gegevens eenvoudig door gebruik te maken van de sensor in hun omgeving, terwijl het modulaire hardwareontwerp hermontage, reparatie en herverdeling ondersteunt in plaats van verwijdering wanneer de oorspronkelijke gebruikscontext eindigt. Het project roept vragen op over de rol van het maken en programmeren van kennis in citizen science participatie, het positioneren van hands-on sensor gebouw als een empowerment entry point voor data geletterdheid.",
+    "keywords": "circulaire sensor, DIY-elektronica, burgerwetenschap, datageletterdheid"
+  },
+  "pex77nielskyriakides": {
+    "title": "TENZO Terug Exoskelete voor thuisverzorgers",
+    "description": "TENZO is een rug exoskelet ontworpen om de zwaarste zorgtaken lichter te maken voor thuisbezoekende verpleegkundigen, die geconfronteerd worden met een percentage van 68% van de lagere rugklachten van patiënt tillen, verlengd voorwaartse buigen, en werken in ruimtelijk beperkte huishoudelijke omgevingen. Het ontwerp richt zich op de specifieke uitdagingen van thuiszorg. beperkte ruimte, onaangepaste meubelhoogten, en gevarieerde patiëntbehoeften. Met behoud van een professionele esthetische en volledige bewegingsvrijheid voor verpleegkundigen die de hele dag tussen patiënten reizen. TENZO pakt het kritieke tekort aan ergonomische hulpmiddelen aan die aangepast zijn aan de context van thuiszorg, waar bestaande klinische hulpmiddelen niet beschikbaar zijn en verpleegkundigen uitsluitend afhankelijk zijn van hun lichaam.",
+    "keywords": "thuiszorg, rug exoskelet, ergonomie verpleegkunde, lumbale ondersteuning"
+  },
+  "pex82arnebosmans": {
+    "title": "Knee Exoskelet voor Senior Gardeners",
+    "description": "Dit knie-exoskelet is ontworpen voor tuinliefhebbers van 65 jaar en ouder die groente- en hobbytuinen cultiveren en knie osteoartritis ervaren, het project naderen met scepsis naar technologie en een diep verlangen om hun onafhankelijkheid en autonomie buiten te behouden. Het ontwerp richt zich specifiek op het gebruik buitenshuis, waarbij intuïtieve bediening geen technische kennis vereist, compatibiliteit met standaardbatterijen om de complexiteit van het laden te elimineren, en een robuuste constructie geschikt voor bodem, weer, en knielen op ongelijke oppervlakken. Door de kniebelasting te verminderen tijdens het buigen, knielen en stijgende bewegingen centraal in het tuinieren, stelt het product senioren in staat om hun meest gewaardeerde vrijetijdsbesteding veilig en onafhankelijk voort te zetten.",
+    "keywords": "senior tuinieren, knie exoskelet, osteoartritis, buiten wearable"
+  },
+  "pex87mansmeers": {
+    "title": "Active Knie Orthosis voor Jeugd met Osgood-Schlatter Ziekte",
+    "description": "Deze actieve knie-orthose is ontworpen voor sport-actieve jongeren die lijden aan Osgood-Schlatter Disease (OSD). een pijnlijke tibial tuberosity voorwaarde die 21% van de intensief actieve jeugd. die geconfronteerd met 12 tot 24 maanden herstel waarin 15% stoppen sport volledig. De orthose richt zich op de tibial tuberkel compressie kracht tijdens het rennen, springen en landen in de rechtbank en veldsporten zoals badminton, tennis, en voetbal, het verminderen van pijn en het mogelijk maken van voortgezette training op een duurzame intensiteit. Ontworpen voor een jeugdgebruikersgroep die gemotiveerd is om actief en concurrerend te blijven, overbrugt het product de kloof tussen volledige rust en volledige terugkeer naar sport tijdens het OSD herstelvenster.",
+    "keywords": "Osgood-Schlatter, knie-orthose, jeugdsport, revalidatie"
+  },
+  "pex62pepeaartdewit": {
+    "title": "Ortho - Thumb en Hand Grip Exoskeleton",
+    "description": "Ortho is een hand exoskelet ontworpen rond de duim. het cijfer betrokken bij ongeveer 40% van alle handgreep activiteiten. gericht op gebruikers die chronische pijn ervaren, post-verwonding zwakte, of verminderde grip kracht in de dagelijkse taken van het draaien van een kraan tot het grijpen van een stuurwiel tot het drukken van gitaar snaren. Het product richt zich op de duim als het belangrijkste functionele anker van de menselijke hand, het leveren van een ontwerp dat herstelt zelfverzekerde, pijnvrije grip over de breedst mogelijke waaier van alledaagse handmatige activiteiten. Het compacte exoskelet biedt gerichte ondersteuning bij de duimgewricht en thenar spiergroep, waardoor gebruikers om onafhankelijkheid te herstellen in de kleine maar essentiële handelingen die het dagelijks leven definiëren.",
+    "keywords": "duimsteun, handgreep exoskelet, greep revalidatie, dagelijkse onafhankelijkheid"
+  },
+  "pex67xandermaes": {
+    "title": "PFPS Knie Exoskeleton voor Runners",
+    "description": "Dit passieve hydromechanische exoskelet richt zich op Patellofemoral Pain Syndrome (PFPS) in loopsters. een aandoening die 25% van alle loopsters treft, met 50% ervaren herhaling na medische interventie. veroorzaakt door de knieschijf misleiding in de femur groef onder slagkrachten tot 3 keer lichaamsgewicht tijdens de landing. In tegenstelling tot de huidige beugels die beperkend, klinisch gestyled en inert zijn zonder adaptieve respons op impact timing, biedt dit exoskelet dynamische hydromechanische begeleiding van de patella die zich aanpast aan de landingsfase van de loopcyclus. Ontworpen voor een high-performance loopcontext, het product projecteert vermogen en atletische identiteit in plaats van het signaleren van letsel of medische afhankelijkheid.",
+    "keywords": "Runner knie, PFPS, hydromechanisch exoskelet, patella begeleiding"
+  },
+  "pex72febevossen": {
+    "title": "CARE Terug Exoskelete voor Verpleegkundige thuisverzorgers",
+    "description": "CARE is een exoskelet ontworpen voor verpleegkundigen thuiszorg werknemers. met inbegrip van zowel verpleegkundigen en zorgassistenten. die fysiek intensieve patiëntenzorg uitvoeren in de slaapkamer en de gemeenschappelijke ruimte gedurende lange werkploegen. De productnaam belichaamt zijn filosofie: omdat zorg zorg verdient, pakt het product de fysieke last van zorgberoepen aan door drie primaire ontwerpers: efficiëntie (snel donen en duffen), laag gewicht (maximaal 5,5 kg) en hygiëne (gemakkelijk reinigen van oppervlakken). Voor zowel mannelijke als vrouwelijke werknemers van 18 tot 65 jaar past CARE naadloos in de workflow van het verpleeghuis zonder extra tijdsdruk of hygiëneproblemen te creëren.",
+    "keywords": "verpleeghuis, verzorger exoskelet, patiënttransfer, ergonomisch draagbaar"
+  },
+  "pcs27aaronderidder": {
+    "title": "SECTR Het monitoringsysteem voor de emissies van stedelijke bouwplaatsen",
+    "description": "SECTR is een citizen science platform dat zorgt voor transparante monitoring van fijnstof (PM2,5/PM10) en geluidsemissies van stedelijke bouwplaatsen, waarbij de regelgevingskloof wordt aangepakt waar verplichte stofmaatregelen bestaan, maar de doeltreffendheid ervan niet wordt geverifieerd. Het systeem dient site managers die gegevens willen aantonen dat aan de eisen is voldaan, bewoners die bewijs nodig hebben van leefbaarheidsimpact, en stadshandhavingsautoriteiten die objectieve gegevens nodig hebben voor corrigerende maatregelen. SECTR, gebouwd op een LoRaWAN netwerkinfrastructuur, maakt vervuiling van de bouwplaats zichtbaar en verantwoordelijk voor alle stedelijke stakeholders tegelijkertijd.",
+    "keywords": "bouwemissies, monitoring van fijnstof, LoRaWAN, stedelijke burgerwetenschappen"
+  },
+  "pcs32stijnboussemaere": {
+    "title": "CO-BEE Smart Bee Hotel voor milieubewaking",
+    "description": "CO-BEE is een slim bijenhotel dat functioneert als een circulaire milieusensor, waarbij gebruik wordt gemaakt van het gedrag en de aanwezigheid van eenzame bijen als indicator voor lokale ecologische gezondheid. Het product combineert habitatcreatie voor wilde bijenpopulaties met sensorgestuurde monitoring van de micromilieuomstandigheden die de aanwezigheid en diversiteit van bestuivers beïnvloeden. Door ecologische functie te integreren met citizen science data collectie, maakt CO-BEE van een alledaags tuinobject een hulpmiddel voor zowel biodiversiteitsondersteuning als gedistribueerde milieumonitoring.",
+    "keywords": "bijenhotel, bestuivingsbewaking, biodiversiteitssensor, burgerwetenschap"
+  },
+  "pcs37elisemaudgal": {
+    "title": "(geen PDF ingediend)",
+    "description": "(geen PDF ingediend)",
+    "keywords": "(geen PDF ingediend)"
+  },
+  "pcs42thibohennion": {
+    "title": "Sense - sensor voor monitoring van ziekterisico in wijngaarden",
+    "description": "Sense is een circulaire buitensensor ontworpen voor kleinschalige wijngaardeigenaren die plantenziekterisico's moeten detecteren. De sensor monitort bladnatheid, temperatuur en vochtigheid betrouwbaar en betaalbaar zonder technische expertise voor installatie of onderhoud. Het product communiceert via LoRa met een bereik van maximaal 15 km, heeft een meetinterval van 15 minuten, en voldoet aan IP65 weerbestendige normen voor het hele jaar door buitengebruik in wijngaarden. Sense, speciaal ontworpen om betaalbaar te zijn voor kleinschalige wijnproducenten en eenvoudig onafhankelijk te onderhouden, vult de kloof tussen dure commerciële landbouwcontrolesystemen en de praktische behoeften van de groeiende onafhankelijke wijnbouwsector in België.",
+    "keywords": "Wijngaardbewaking, plantenziekte, LoRa sensor, precisie wijnbouw"
+  }
+}
