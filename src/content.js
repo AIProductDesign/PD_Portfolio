@@ -63,6 +63,7 @@ export const content = {
       },
       "brief": {
         "partners": "Huskk, To Walk Again",
+        "supervisors": "Jelle Saldien, David Dos Santos Antonio, Ilse Claeys, Katinka De Bruyn, Peter Waeterschoot",
         "challenge": {
           "en": "Design a compact, comfortable, safe and intuitive exoskeleton or wearable support system that assists people with daily tasks at home or in work contexts.",
           "nl": "Ontwerp een compact, comfortabel, veilig en intuïtief exoskelet of draagbaar ondersteuningssysteem dat mensen helpt bij dagelijkse taken thuis of in een werkcontext."
@@ -120,6 +121,7 @@ export const content = {
       },
       "brief": {
         "partners": "imec, Superellipse",
+        "supervisors": "Jelle Saldien, David Dos Santos Antonio, Ilse Claeys, Katinka De Bruyn, Peter Waeterschoot",
         "challenge": {
           "en": "Design a modular, circular and user-friendly environmental sensor system for citizen science and local environmental measurements.",
           "nl": "Ontwerp een modulair, circulair en gebruiksvriendelijk sensorsysteem voor burgerwetenschap en lokale omgevingsmetingen."

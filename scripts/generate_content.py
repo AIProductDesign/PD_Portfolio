@@ -25,6 +25,7 @@ GENERATED_POSTERS = ROOT / "assets" / "generated" / "poster-previews"
 GITHUB_FILE_LIMIT_BYTES = 100 * 1024 * 1024
 PUBLIC_ASSETS_ONLY = os.environ.get("PUBLIC_ASSETS_ONLY") == "1"
 MAX_INSTAGRAM_VISUALS = 4
+SUPERVISORS = "Jelle Saldien, David Dos Santos Antonio, Ilse Claeys, Katinka De Bruyn, Peter Waeterschoot"
 
 
 def clean(value: object) -> str:
@@ -543,6 +544,7 @@ def write_outputs(projects: list[dict]) -> None:
                 },
                 "brief": {
                     "partners": "Huskk, To Walk Again",
+                    "supervisors": SUPERVISORS,
                     "challenge": {
                         "en": "Design a compact, comfortable, safe and intuitive exoskeleton or wearable support system that assists people with daily tasks at home or in work contexts.",
                         "nl": "Ontwerp een compact, comfortabel, veilig en intuïtief exoskelet of draagbaar ondersteuningssysteem dat mensen helpt bij dagelijkse taken thuis of in een werkcontext.",
@@ -597,6 +599,7 @@ def write_outputs(projects: list[dict]) -> None:
                 },
                 "brief": {
                     "partners": "imec, Superellipse",
+                    "supervisors": SUPERVISORS,
                     "challenge": {
                         "en": "Design a modular, circular and user-friendly environmental sensor system for citizen science and local environmental measurements.",
                         "nl": "Ontwerp een modulair, circulair en gebruiksvriendelijk sensorsysteem voor burgerwetenschap en lokale omgevingsmetingen.",
