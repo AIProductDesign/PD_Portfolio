@@ -165,9 +165,22 @@ function getAssignment(id) {
   return content.assignments.find((assignment) => assignment.id === id);
 }
 
+function projectFilterTags(project) {
+  if (project.filterTags?.length) return project.filterTags;
+  const tags = new Set(project.tags || []);
+  const derived = [];
+  if (tags.has("healthcare") || tags.has("care") || tags.has("rehabilitation")) derived.push("healthcare");
+  if (tags.has("workplace") || tags.has("ergonomics")) derived.push("workplace");
+  if (tags.has("sports") || tags.has("mobility")) derived.push("mobility-sports");
+  if (tags.has("environment")) derived.push("environment");
+  if (tags.has("public-space") || tags.has("air-quality") || tags.has("data")) derived.push("public-space");
+  if (tags.has("education") || tags.has("citizen-science")) derived.push("education-citizen-science");
+  return derived;
+}
+
 function getProjects() {
   return content.projects.filter((project) => {
-    const filterTags = project.filterTags || project.tags;
+    const filterTags = projectFilterTags(project);
     const matchesAssignment = activeAssignment === "all" || project.assignmentId === activeAssignment;
     const matchesTags = activeFilters.size === 0 || [...activeFilters].every((tag) => filterTags.includes(tag));
     const haystack = normalize([
@@ -184,8 +197,7 @@ function getProjects() {
 }
 
 function allTags() {
-  const available = new Set(content.projects.flatMap((project) => project.filterTags || []));
-  return filterDomains.filter((domain) => available.has(domain.id));
+  return filterDomains;
 }
 
 function tagLabel(tag) {
