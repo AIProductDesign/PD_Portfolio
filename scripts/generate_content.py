@@ -233,51 +233,26 @@ def description_for(
 ) -> dict[str, str]:
     description_entry = description_entry or {}
     curated_description = description_entry.get("description", "")
-    curated_title = description_entry.get("title", "")
-    curated_keywords = description_entry.get("keywords", "")
     if curated_description:
-        if assignment_id == "exoskeletons":
-            nl_kind = "draagbaar ondersteuningssysteem"
-            nl_focus = "ergonomie, comfort en betrouwbare ondersteuning"
-        else:
-            nl_kind = "circulair sensorsysteem"
-            nl_focus = "lokale metingen, modulariteit en betekenisvolle data"
-        keyword_phrase = f" Trefwoorden: {curated_keywords}." if curated_keywords else ""
-        nl_title = f" rond {curated_title}" if curated_title else ""
         return {
             "en": curated_description,
-            "nl": (
-                f"Dit Bachelorproefproject{nl_title} ontwikkelt een {nl_kind} voor {target}, "
-                f"binnen de context {context}. Het project onderzoekt hoe productontwikkeling "
-                f"{nl_focus} kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel."
-                f"{keyword_phrase}"
-            ),
+            "nl": curated_description,
         }
 
     focus = focus_from_text(f"{presentation_text}\n{poster_text}", f"{target} / {context}", student)
     if assignment_id == "exoskeletons":
-        nl_subject = "een draagbaar ondersteuningssysteem"
         en_subject = "a wearable support system"
-        nl_angle = "ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties"
         en_angle = "ergonomics, comfort, safety and acceptance in realistic use situations"
     else:
-        nl_subject = "een modulair sensorsysteem"
         en_subject = "a modular sensor system"
-        nl_angle = "gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen"
         en_angle = "ease of use, modularity, circularity and reliable local measurements"
 
-    return {
-        "nl": (
-            f"{student} ontwikkelde {nl_subject} voor {target}, binnen de context {context}. "
-            f"Het presentatiemateriaal legt de nadruk op {focus}. "
-            f"Het project onderzoekt hoe productontwerp {nl_angle} kan samenbrengen in een helder voorstel."
-        ),
-        "en": (
-            f"{student} developed {en_subject} for the target group '{target}' in the context of '{context}'. "
-            f"The presentation material highlights {focus}. "
-            f"The project explores how product design can connect {en_angle} in a clear concept proposal."
-        ),
-    }
+    fallback_description = (
+        f"{student} developed {en_subject} for the target group '{target}' in the context of '{context}'. "
+        f"The presentation material highlights {focus}. "
+        f"The project explores how product design can connect {en_angle} in a clear concept proposal."
+    )
+    return {"en": fallback_description, "nl": fallback_description}
 
 
 def render_image_preview(path: Path, project_id: str, index: int) -> str:
