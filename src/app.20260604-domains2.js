@@ -1,4 +1,4 @@
-import { content } from "./content.js?v=2026-06-04-domains";
+import { content } from "./content.js?v=2026-06-04-thumbnails";
 
 const app = document.querySelector("#app");
 const languageButtons = document.querySelectorAll(".language-button");
