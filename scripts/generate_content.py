@@ -9,18 +9,21 @@ from pathlib import Path
 from urllib.parse import quote, unquote
 
 import pandas as pd
+from PIL import Image, ImageOps
 from pypdf import PdfReader
 
 
 ROOT = Path(__file__).resolve().parents[1]
 CONTENT_ROOT = ROOT / "Content" / "2025-2026" / "Bachelorproef"
 STUDENT_LIST = CONTENT_ROOT / "Student_List.xlsx"
+DESCRIPTION_TSV = CONTENT_ROOT / "Eindpresentatie" / "student_descriptions.tsv"
 OUTPUT_JSON = ROOT / "Content" / "metadata" / "projects.generated.json"
 OUTPUT_JS = ROOT / "src" / "content.js"
 GENERATED_VISUALS = ROOT / "assets" / "generated" / "instagram-previews"
 GENERATED_POSTERS = ROOT / "assets" / "generated" / "poster-previews"
 GITHUB_FILE_LIMIT_BYTES = 100 * 1024 * 1024
 PUBLIC_ASSETS_ONLY = os.environ.get("PUBLIC_ASSETS_ONLY") == "1"
+MAX_INSTAGRAM_VISUALS = 4
 
 
 def clean(value: object) -> str:
@@ -44,6 +47,36 @@ def slugify(value: str) -> str:
 
 def web_path(path: Path) -> str:
     return quote(path.relative_to(ROOT).as_posix(), safe="/")
+
+
+def load_student_descriptions() -> dict[str, dict[str, str]]:
+    if not DESCRIPTION_TSV.exists():
+        return {}
+    df = pd.read_csv(DESCRIPTION_TSV, sep="\t").fillna("")
+    descriptions: dict[str, dict[str, str]] = {}
+    for _, row in df.iterrows():
+        code = clean(row.get("NR"))
+        first = clean(row.get("Voornaam"))
+        last = clean(row.get("Achternaam"))
+        if not code or not first or not last:
+            continue
+        descriptions[normalize(f"{code}-{first}-{last}")] = {
+            "title": clean(row.get("Title")),
+            "description": clean(row.get("Description")),
+            "keywords": clean(row.get("Keywords")),
+            "target": clean(row.get("Doelgroep")),
+            "context": clean(row.get("Context")),
+        }
+    return descriptions
+
+
+def description_entry_for(
+    descriptions: dict[str, dict[str, str]],
+    code: str,
+    first: str,
+    last: str,
+) -> dict[str, str]:
+    return descriptions.get(normalize(f"{code}-{first}-{last}"), {})
 
 
 def assignment_from(code: str, explicit: str) -> str:
@@ -80,6 +113,15 @@ def tags_for(assignment_id: str, target: str, context: str) -> list[str]:
             tags.add("public-space")
         tags.add("data")
     return sorted(tags)
+
+
+def keyword_tags(keywords: str) -> list[str]:
+    tags = []
+    for keyword in re.split(r",|;", keywords):
+        tag = slugify(keyword.strip())
+        if tag and tag != "project" and tag not in tags:
+            tags.append(tag)
+    return tags[:4]
 
 
 def child_dirs(folder: Path) -> list[Path]:
@@ -182,7 +224,31 @@ def description_for(
     context: str,
     presentation_text: str,
     poster_text: str,
+    description_entry: dict[str, str] | None = None,
 ) -> dict[str, str]:
+    description_entry = description_entry or {}
+    curated_description = description_entry.get("description", "")
+    curated_title = description_entry.get("title", "")
+    curated_keywords = description_entry.get("keywords", "")
+    if curated_description:
+        if assignment_id == "exoskeletons":
+            nl_kind = "draagbaar ondersteuningssysteem"
+            nl_focus = "ergonomie, comfort en betrouwbare ondersteuning"
+        else:
+            nl_kind = "circulair sensorsysteem"
+            nl_focus = "lokale metingen, modulariteit en betekenisvolle data"
+        keyword_phrase = f" Trefwoorden: {curated_keywords}." if curated_keywords else ""
+        nl_title = f" rond {curated_title}" if curated_title else ""
+        return {
+            "en": curated_description,
+            "nl": (
+                f"Dit Bachelorproefproject{nl_title} ontwikkelt een {nl_kind} voor {target}, "
+                f"binnen de context {context}. Het project onderzoekt hoe productontwikkeling "
+                f"{nl_focus} kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel."
+                f"{keyword_phrase}"
+            ),
+        }
+
     focus = focus_from_text(f"{presentation_text}\n{poster_text}", f"{target} / {context}", student)
     if assignment_id == "exoskeletons":
         nl_subject = "een draagbaar ondersteuningssysteem"
@@ -207,6 +273,30 @@ def description_for(
             f"The project explores how product design can connect {en_angle} in a clear concept proposal."
         ),
     }
+
+
+def render_image_preview(path: Path, project_id: str, index: int) -> str:
+    GENERATED_VISUALS.mkdir(parents=True, exist_ok=True)
+    output_path = GENERATED_VISUALS / f"{project_id}-{index:02d}.jpg"
+    if output_path.exists():
+        return web_path(output_path)
+    try:
+        with Image.open(path) as image:
+            image = ImageOps.exif_transpose(image)
+            image.thumbnail((1400, 1400), Image.Resampling.LANCZOS)
+            if image.mode not in ("RGB", "L"):
+                background = Image.new("RGB", image.size, "white")
+                if image.mode == "RGBA":
+                    background.paste(image, mask=image.getchannel("A"))
+                else:
+                    background.paste(image)
+                image = background
+            else:
+                image = image.convert("RGB")
+            image.save(output_path, "JPEG", quality=78, optimize=True, progressive=True)
+            return web_path(output_path)
+    except Exception:
+        return ""
 
 
 def render_pdf_preview(path: Path, project_id: str, index: int, output_dir: Path = GENERATED_VISUALS) -> str:
@@ -239,22 +329,28 @@ def choose_visuals(paths: list[Path], project_id: str) -> list[str]:
     images = [path for path in paths if path.suffix.lower() in image_exts]
     visuals = []
     if not PUBLIC_ASSETS_ONLY:
-        visuals = [web_path(path) for path in sorted(images, key=lambda path: path.name.lower())[:6]]
-    if len(visuals) >= 3:
-        return visuals[:6]
+        visuals = [web_path(path) for path in sorted(images, key=lambda path: path.name.lower())[:MAX_INSTAGRAM_VISUALS]]
+    else:
+        for image in sorted(images, key=lambda path: path.name.lower()):
+            preview = render_image_preview(image, project_id, len(visuals) + 1)
+            if preview:
+                visuals.append(preview)
+            if len(visuals) >= MAX_INSTAGRAM_VISUALS:
+                return visuals
 
     pdfs = [path for path in paths if path.suffix.lower() == ".pdf"]
     for pdf in sorted(pdfs, key=lambda path: path.name.lower()):
         preview = render_pdf_preview(pdf, project_id, len(visuals) + 1)
         if preview:
             visuals.append(preview)
-        if len(visuals) >= 6:
+        if len(visuals) >= MAX_INSTAGRAM_VISUALS:
             break
     return visuals
 
 
 def build_projects() -> list[dict]:
     df = pd.read_excel(STUDENT_LIST, sheet_name="LIJST + BEGELEIDER")
+    descriptions = load_student_descriptions()
     projects: list[dict] = []
     seen: set[str] = set()
 
@@ -277,6 +373,7 @@ def build_projects() -> list[dict]:
         if project_id in seen:
             continue
         seen.add(project_id)
+        description_entry = description_entry_for(descriptions, code, first, last)
 
         fiche_files = files_for_student("Fiche", first, last)
         presentation_files = files_for_student("Eindpresentatie", first, last)
@@ -296,8 +393,12 @@ def build_projects() -> list[dict]:
 
         assignment_title = "Exoskeleton" if assignment_id == "exoskeletons" else "Circular Sensor"
         nl_assignment_title = "Exoskelet" if assignment_id == "exoskeletons" else "Circulaire Sensor"
-        title_nl = f"{nl_assignment_title} voor {target}"
-        title_en = f"{assignment_title} for {target}"
+        title_en = description_entry.get("title") or f"{assignment_title} for {target}"
+        title_nl = description_entry.get("title") or f"{nl_assignment_title} voor {target}"
+        tags = tags_for(assignment_id, target, context)
+        for tag in keyword_tags(description_entry.get("keywords", "")):
+            if tag not in tags:
+                tags.append(tag)
 
         projects.append(
             {
@@ -308,13 +409,13 @@ def build_projects() -> list[dict]:
                 "featured": len(projects) < 6,
                 "title": {"en": title_en, "nl": title_nl},
                 "summary": {
-                    **description_for(assignment_id, student, target, context, presentation_text, poster_text),
+                    **description_for(assignment_id, student, target, context, presentation_text, poster_text, description_entry),
                 },
                 "context": {"en": context, "nl": context},
                 "targetGroup": {"en": target, "nl": target},
-                "tags": tags_for(assignment_id, target, context),
+                "tags": tags,
                 "assets": {
-                    "thumbnail": images[0] if images else "",
+                    "thumbnail": poster_preview or (images[0] if images else ""),
                     "poster": public_poster,
                     "posterPreview": poster_preview,
                     "presentation": public_presentation,

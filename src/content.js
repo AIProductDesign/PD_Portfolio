@@ -167,12 +167,12 @@ export const content = {
       "student": "Lemony Blommaert",
       "featured": true,
       "title": {
-        "en": "Exoskeleton for zwnagere vrouwen",
-        "nl": "Exoskelet voor zwnagere vrouwen"
+        "en": "NOVA – Lumbopelvic Support for Late-Stage Pregnancy",
+        "nl": "NOVA – Lumbopelvic Support for Late-Stage Pregnancy"
       },
       "summary": {
-        "nl": "Lemony Blommaert ontwikkelde een draagbaar ondersteuningssysteem voor zwnagere vrouwen, binnen de context medisch - ondersteuning. Het presentatiemateriaal legt de nadruk op Nieuw leven - Nieuwe kracht. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Lemony Blommaert developed a wearable support system for the target group 'zwnagere vrouwen' in the context of 'medisch - ondersteuning'. The presentation material highlights Nieuw leven - Nieuwe kracht. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "NOVA is an exoskeleton designed for women in their third trimester who experience severe lumbopelvic pain due to the biomechanical reality of carrying 10–15 kg of extra weight with increased lumbar lordosis. The device targets primary support zones around the lower back and pelvis, restoring autonomy in daily activities while respecting restricted design zones and addressing stigma and compliance challenges. With a focus on discretion and wearability, NOVA reduces the physical burden of the final stage of pregnancy without compromising comfort or dignity.",
+        "nl": "Dit Bachelorproefproject rond NOVA – Lumbopelvic Support for Late-Stage Pregnancy ontwikkelt een draagbaar ondersteuningssysteem voor zwnagere vrouwen, binnen de context medisch - ondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: pregnancy support, lumbopelvic pain, third trimester, passive exoskeleton."
       },
       "context": {
         "en": "medisch - ondersteuning",
@@ -185,7 +185,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "healthcare"
+        "healthcare",
+        "pregnancy-support",
+        "lumbopelvic-pain",
+        "third-trimester",
+        "passive-exoskeleton"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-43-lemony-blommaert-00.png",
@@ -204,12 +208,12 @@ export const content = {
       "student": "Anouk VandeVoorde",
       "featured": true,
       "title": {
-        "en": "Exoskeleton for 65+",
-        "nl": "Exoskelet voor 65+"
+        "en": "Balance Exoskeleton for Fall Prevention in the Elderly",
+        "nl": "Balance Exoskeleton for Fall Prevention in the Elderly"
       },
       "summary": {
-        "nl": "Anouk VandeVoorde ontwikkelde een draagbaar ondersteuningssysteem voor 65+, binnen de context medisch - ondersteuning. Het presentatiemateriaal legt de nadruk op P a s s i e f e n e r g i e r e t u. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Anouk VandeVoorde developed a wearable support system for the target group '65+' in the context of 'medisch - ondersteuning'. The presentation material highlights P a s s i e f e n e r g i e r e t u. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "One in three elderly people falls at least once per year, with 40% of incidents occurring outdoors, driven by reduced proprioception, muscle weakness, and fear of movement. This exoskeleton targets adults aged 75–85 with mild to moderate balance disorders, supporting both the stance and swing phases of the gait cycle to restore confidence in independent walking. The design breaks the vicious cycle of inactivity caused by fear of falling by providing gentle, trust-building balance assistance during daily outdoor mobility.",
+        "nl": "Dit Bachelorproefproject rond Balance Exoskeleton for Fall Prevention in the Elderly ontwikkelt een draagbaar ondersteuningssysteem voor 65+, binnen de context medisch - ondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: fall prevention, balance disorder, elderly mobility, gait support."
       },
       "context": {
         "en": "medisch - ondersteuning",
@@ -223,7 +227,11 @@ export const content = {
         "care",
         "ergonomics",
         "exoskeleton",
-        "healthcare"
+        "healthcare",
+        "fall-prevention",
+        "balance-disorder",
+        "elderly-mobility",
+        "gait-support"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-48-anouk-vandevoorde-00.png",
@@ -231,7 +239,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/dex-48-anouk-vandevoorde-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/dex-48-anouk-vandevoorde-00.png"
+          "assets/generated/instagram-previews/dex-48-anouk-vandevoorde-01.jpg",
+          "assets/generated/instagram-previews/dex-48-anouk-vandevoorde-02.jpg",
+          "assets/generated/instagram-previews/dex-48-anouk-vandevoorde-03.jpg"
         ]
       }
     },
@@ -242,12 +252,12 @@ export const content = {
       "student": "Noah Rodrigus",
       "featured": true,
       "title": {
-        "en": "Exoskeleton for havenarbeider",
-        "nl": "Exoskelet voor havenarbeider"
+        "en": "Back Support Exoskeleton for Harbor Lashers",
+        "nl": "Back Support Exoskeleton for Harbor Lashers"
       },
       "summary": {
-        "nl": "Noah Rodrigus ontwikkelde een draagbaar ondersteuningssysteem voor havenarbeider, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op Sjorders doen het zwaarste werk in de. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Noah Rodrigus developed a wearable support system for the target group 'havenarbeider' in the context of 'Werkondersteuning'. The presentation material highlights Sjorders doen het zwaarste werk in de. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Harbor lashers in the port of Rotterdam perform some of the most physically demanding work in logistics, with over 99% male workers suffering predominantly from back complaints due to long shifts and awkward postures. This passive exoskeleton reduces lumbar load during heavy lifting and carrying, meeting strict water and corrosion resistance requirements (IP55, ASTM B117 500+) while maintaining a slim profile compatible with existing safety harnesses and lashing tools. The design ensures comfortable weight distribution without disrupting the dynamic and unpredictable movements inherent to port work.",
+        "nl": "Dit Bachelorproefproject rond Back Support Exoskeleton for Harbor Lashers ontwikkelt een draagbaar ondersteuningssysteem voor havenarbeider, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: harbor workers, back support, passive exoskeleton, occupational ergonomics."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -260,7 +270,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "harbor-workers",
+        "back-support",
+        "passive-exoskeleton",
+        "occupational-ergonomics"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-53-noah-rodrigus-00.png",
@@ -268,7 +282,8 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/dex-53-noah-rodrigus-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/dex-53-noah-rodrigus-00.png"
+          "assets/generated/instagram-previews/dex-53-noah-rodrigus-01.jpg",
+          "assets/generated/instagram-previews/dex-53-noah-rodrigus-02.jpg"
         ]
       }
     },
@@ -279,12 +294,12 @@ export const content = {
       "student": "Anna VanNimmen",
       "featured": true,
       "title": {
-        "en": "Circular Sensor for fietsers",
-        "nl": "Circulaire Sensor voor fietsers"
+        "en": "NODE – Air Quality and Noise Sensor for Children's Cycling Routes",
+        "nl": "NODE – Air Quality and Noise Sensor for Children's Cycling Routes"
       },
       "summary": {
-        "nl": "Anna VanNimmen ontwikkelde een modulair sensorsysteem voor fietsers, binnen de context lucht en geluid. Het presentatiemateriaal legt de nadruk op TRACE THE CHANGE. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Anna VanNimmen developed a modular sensor system for the target group 'fietsers' in the context of 'lucht en geluid'. The presentation material highlights TRACE THE CHANGE. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "NODE is a circular sensor system that maps invisible environmental hazards along school cycling routes, measuring noise levels up to 85 dB and fine particulate matter at children's breathing height of 1.5 m. The system targets health-conscious parents and urban planners seeking objective data to improve the safety and air quality of routes used daily by schoolchildren. Its modular architecture and open data approach support citizen science participation and data-driven city planning decisions.",
+        "nl": "Dit Bachelorproefproject rond NODE – Air Quality and Noise Sensor for Children's Cycling Routes ontwikkelt een circulair sensorsysteem voor fietsers, binnen de context lucht en geluid. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: cycling safety, air quality, noise monitoring, citizen science."
       },
       "context": {
         "en": "lucht en geluid",
@@ -298,7 +313,10 @@ export const content = {
         "air-quality",
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "cycling-safety",
+        "noise-monitoring",
+        "citizen-science"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dcs-3-anna-vannimmen-00.png",
@@ -306,7 +324,10 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/dcs-3-anna-vannimmen-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/dcs-3-anna-vannimmen-00.png"
+          "assets/generated/instagram-previews/dcs-3-anna-vannimmen-01.jpg",
+          "assets/generated/instagram-previews/dcs-3-anna-vannimmen-02.jpg",
+          "assets/generated/instagram-previews/dcs-3-anna-vannimmen-03.jpg",
+          "assets/generated/instagram-previews/dcs-3-anna-vannimmen-04.jpg"
         ]
       }
     },
@@ -317,12 +338,12 @@ export const content = {
       "student": "Arda Tarimci",
       "featured": true,
       "title": {
-        "en": "Circular Sensor for hikers",
-        "nl": "Circulaire Sensor voor hikers"
+        "en": "AVISCOUT – Bird Habitat Observation Sensor",
+        "nl": "AVISCOUT – Bird Habitat Observation Sensor"
       },
       "summary": {
-        "nl": "Arda Tarimci ontwikkelde een modulair sensorsysteem voor hikers, binnen de context omgeving. Het presentatiemateriaal legt de nadruk op De observatie van de biosfeer van vogels. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Arda Tarimci developed a modular sensor system for the target group 'hikers' in the context of 'omgeving'. The presentation material highlights De observatie van de biosfeer van vogels. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "AVISCOUT is a circular sensor platform for birdwatchers and ornithological researchers that monitors the biosphere of birds in natural environments, fully autonomously and without disturbing wildlife. The target user group demands a sensor that is silent, weatherproof, and completely reliable, integrating seamlessly into existing birdwatching practice without drawing attention. The collected data contributes to citizen science biodiversity research, enabling systematic long-term tracking of bird habitat health and activity.",
+        "nl": "Dit Bachelorproefproject rond AVISCOUT – Bird Habitat Observation Sensor ontwikkelt een circulair sensorsysteem voor hikers, binnen de context omgeving. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: birdwatching, wildlife monitoring, citizen science, biodiversity sensor."
       },
       "context": {
         "en": "omgeving",
@@ -335,7 +356,11 @@ export const content = {
       "tags": [
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "birdwatching",
+        "wildlife-monitoring",
+        "citizen-science",
+        "biodiversity-sensor"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dcs-23-arda-tarimci-00.png",
@@ -343,7 +368,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/dcs-23-arda-tarimci-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/dcs-23-arda-tarimci-00.png"
+          "assets/generated/instagram-previews/dcs-23-arda-tarimci-01.jpg",
+          "assets/generated/instagram-previews/dcs-23-arda-tarimci-02.jpg",
+          "assets/generated/instagram-previews/dcs-23-arda-tarimci-03.jpg"
         ]
       }
     },
@@ -354,12 +381,12 @@ export const content = {
       "student": "Seth Verheul",
       "featured": true,
       "title": {
-        "en": "Circular Sensor for burgers",
-        "nl": "Circulaire Sensor voor burgers"
+        "en": "Traffic Air Quality and Noise Monitoring Sensor for Citizens",
+        "nl": "Traffic Air Quality and Noise Monitoring Sensor for Citizens"
       },
       "summary": {
-        "nl": "Seth Verheul ontwikkelde een modulair sensorsysteem voor burgers, binnen de context wegverkeer lucht en geluid. Het presentatiemateriaal legt de nadruk op Van weerstand naar. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Seth Verheul developed a modular sensor system for the target group 'burgers' in the context of 'wegverkeer lucht en geluid'. The presentation material highlights Van weerstand naar. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "This circular sensor helps urban residents understand the air quality and noise levels caused by road traffic in their immediate living environment, providing locally grounded data that national or city-wide monitoring stations cannot supply. Designed for non-technical users in residential streets and neighbourhoods, the system makes invisible traffic pollution tangible and actionable at a personal and community scale. By enabling citizens to document and share environmental data, the sensor supports both individual health awareness and collective advocacy for cleaner, quieter streets.",
+        "nl": "Dit Bachelorproefproject rond Traffic Air Quality and Noise Monitoring Sensor for Citizens ontwikkelt een circulair sensorsysteem voor burgers, binnen de context wegverkeer lucht en geluid. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: traffic pollution, noise monitoring, urban citizens, citizen science."
       },
       "context": {
         "en": "wegverkeer lucht en geluid",
@@ -373,7 +400,11 @@ export const content = {
         "air-quality",
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "traffic-pollution",
+        "noise-monitoring",
+        "urban-citizens",
+        "citizen-science"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dcs-18-seth-verheul-00.png",
@@ -381,7 +412,8 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/dcs-18-seth-verheul-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/dcs-18-seth-verheul-00.png"
+          "assets/generated/instagram-previews/dcs-18-seth-verheul-01.jpg",
+          "assets/generated/instagram-previews/dcs-18-seth-verheul-02.jpg"
         ]
       }
     },
@@ -392,12 +424,12 @@ export const content = {
       "student": "Bibi DeVos",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for patient tenniselleboog",
-        "nl": "Exoskelet voor patient tenniselleboog"
+        "en": "Tennis Elbow Exoskeleton for Manual Workers",
+        "nl": "Tennis Elbow Exoskeleton for Manual Workers"
       },
       "summary": {
-        "nl": "Bibi DeVos ontwikkelde een draagbaar ondersteuningssysteem voor patient tenniselleboog, binnen de context medisch - revalidatie. Het presentatiemateriaal legt de nadruk op - Herstelproces verbeteren. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Bibi DeVos developed a wearable support system for the target group 'patient tenniselleboog' in the context of 'medisch - revalidatie'. The presentation material highlights - Herstelproces verbeteren. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "This exoskeleton supports manual workers suffering from tennis elbow (lateral epicondylitis) who must continue working under high physical load, targeting three functional zones: a work-glove module for grip support, a shell for wrist extension assistance, and a sleeve for pressure distribution. The design prioritises long-term wearing comfort, full freedom of movement, and compatibility with professional working environments in manual trades. By supporting the recovery process without sidelining the user, it enables continued daily function during rehabilitation.",
+        "nl": "Dit Bachelorproefproject rond Tennis Elbow Exoskeleton for Manual Workers ontwikkelt een draagbaar ondersteuningssysteem voor patient tenniselleboog, binnen de context medisch - revalidatie. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: tennis elbow, wrist support, occupational rehabilitation, upper limb exoskeleton."
       },
       "context": {
         "en": "medisch - revalidatie",
@@ -410,7 +442,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "healthcare"
+        "healthcare",
+        "tennis-elbow",
+        "wrist-support",
+        "occupational-rehabilitation",
+        "upper-limb-exoskeleton"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-58-bibi-devos-00.png",
@@ -418,7 +454,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/dex-58-bibi-devos-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/dex-58-bibi-devos-00.png"
+          "assets/generated/instagram-previews/dex-58-bibi-devos-01.jpg",
+          "assets/generated/instagram-previews/dex-58-bibi-devos-02.jpg",
+          "assets/generated/instagram-previews/dex-58-bibi-devos-03.jpg"
         ]
       }
     },
@@ -429,12 +467,12 @@ export const content = {
       "student": "Leon VanDyck",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for ouderen",
-        "nl": "Exoskelet voor ouderen"
+        "en": "Knee Rehabilitation Training Exoskeleton for Home Use",
+        "nl": "Knee Rehabilitation Training Exoskeleton for Home Use"
       },
       "summary": {
-        "nl": "Leon VanDyck ontwikkelde een draagbaar ondersteuningssysteem voor ouderen, binnen de context revalidatie knie. Het presentatiemateriaal legt de nadruk op ouderen revalidatie knie. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Leon VanDyck developed a wearable support system for the target group 'ouderen' in the context of 'revalidatie knie'. The presentation material highlights ouderen revalidatie knie. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Between 35–45% of Belgians have experienced knee problems, and approximately 75–80% of those affected require active exercise therapy, often performed at home for 1 to 1.5 hours per day. This training exoskeleton supports people aged 20–50 in conducting home-based knee rehabilitation, providing guided resistance and movement feedback to accelerate recovery and improve therapy adherence. The device is designed to make daily rehabilitation sessions more effective and independently manageable, reducing the need for supervised clinical visits.",
+        "nl": "Dit Bachelorproefproject rond Knee Rehabilitation Training Exoskeleton for Home Use ontwikkelt een draagbaar ondersteuningssysteem voor ouderen, binnen de context revalidatie knie. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: knee rehabilitation, home training, exercise therapy, orthopedic exoskeleton."
       },
       "context": {
         "en": "revalidatie knie",
@@ -449,7 +487,11 @@ export const content = {
         "ergonomics",
         "exoskeleton",
         "healthcare",
-        "sports"
+        "sports",
+        "knee-rehabilitation",
+        "home-training",
+        "exercise-therapy",
+        "orthopedic-exoskeleton"
       ],
       "assets": {
         "thumbnail": "",
@@ -466,12 +508,12 @@ export const content = {
       "student": "Karel Schepers",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for tandarts",
-        "nl": "Exoskelet voor tandarts"
+        "en": "Neck Exoskeleton for Sustained Flexion Work",
+        "nl": "Neck Exoskeleton for Sustained Flexion Work"
       },
       "summary": {
-        "nl": "Karel Schepers ontwikkelde een draagbaar ondersteuningssysteem voor tandarts, binnen de context Werkondersteuning - nek. Het presentatiemateriaal legt de nadruk op NEKKLACHTEN DOOR FLEXIE. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Karel Schepers developed a wearable support system for the target group 'tandarts' in the context of 'Werkondersteuning - nek'. The presentation material highlights NEKKLACHTEN DOOR FLEXIE. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Prolonged static neck flexion leads to cervical muscle fatigue, stiffness, and chronic pain in professionals who work in sustained downward-looking postures. This neck exoskeleton generates an external extension moment opposing the bending force of the head on the cervical extensors, slowing fatigue build-up and enabling longer periods of neck flexion without clinical overload risk. The design targets workers in assembly, inspection, and precision tasks where sustained forward head posture is unavoidable, reducing the onset of chronic musculoskeletal overuse.",
+        "nl": "Dit Bachelorproefproject rond Neck Exoskeleton for Sustained Flexion Work ontwikkelt een draagbaar ondersteuningssysteem voor tandarts, binnen de context Werkondersteuning - nek. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: neck pain, cervical support, occupational health, passive exoskeleton."
       },
       "context": {
         "en": "Werkondersteuning - nek",
@@ -484,7 +526,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "neck-pain",
+        "cervical-support",
+        "occupational-health",
+        "passive-exoskeleton"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-68-karel-schepers-00.png",
@@ -492,7 +538,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/dex-68-karel-schepers-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/dex-68-karel-schepers-00.png"
+          "assets/generated/instagram-previews/dex-68-karel-schepers-01.jpg",
+          "assets/generated/instagram-previews/dex-68-karel-schepers-02.jpg",
+          "assets/generated/instagram-previews/dex-68-karel-schepers-03.jpg"
         ]
       }
     },
@@ -503,12 +551,12 @@ export const content = {
       "student": "Fons Deckers",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for bouwvakkkers",
-        "nl": "Exoskelet voor bouwvakkkers"
+        "en": "KX-24 ERGO – Knee Exoskeleton for Construction Workers",
+        "nl": "KX-24 ERGO – Knee Exoskeleton for Construction Workers"
       },
       "summary": {
-        "nl": "Fons Deckers ontwikkelde een draagbaar ondersteuningssysteem voor bouwvakkkers, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op Binnen Buiten. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Fons Deckers developed a wearable support system for the target group 'bouwvakkkers' in the context of 'Werkondersteuning'. The presentation material highlights Binnen Buiten. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "KX-24 ERGO is a knee exoskeleton designed for construction workers in the rough-build phase, where kneeling on hard, dusty, and chemically exposed surfaces is a daily routine that puts joints at serious long-term risk. The product is positioned as \"just another tool,\" lowering the adoption threshold by removing stigma and integrating naturally into the professional workflow without sacrificing work efficiency. Its core design drivers focus on proactive prevention of serious knee injuries through ergonomic support during the highest-load construction activities.",
+        "nl": "Dit Bachelorproefproject rond KX-24 ERGO – Knee Exoskeleton for Construction Workers ontwikkelt een draagbaar ondersteuningssysteem voor bouwvakkkers, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: construction ergonomics, knee exoskeleton, injury prevention, professional wearable."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -521,15 +569,22 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "construction-ergonomics",
+        "knee-exoskeleton",
+        "injury-prevention",
+        "professional-wearable"
       ],
       "assets": {
-        "thumbnail": "assets/generated/instagram-previews/dex-73-fons-deckers-01.png",
+        "thumbnail": "assets/generated/poster-previews/dex-73-fons-deckers-00.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dex-73-fons-deckers-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/instagram-previews/dex-73-fons-deckers-01.png"
+          "assets/generated/instagram-previews/dex-73-fons-deckers-01.jpg",
+          "assets/generated/instagram-previews/dex-73-fons-deckers-02.jpg",
+          "assets/generated/instagram-previews/dex-73-fons-deckers-03.jpg",
+          "assets/generated/instagram-previews/dex-73-fons-deckers-04.png"
         ]
       }
     },
@@ -540,12 +595,12 @@ export const content = {
       "student": "Tinne Verhelst",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for sporters",
-        "nl": "Exoskelet voor sporters"
+        "en": "STRYVE – Ankle Exoskeleton for High-Performance Athletes",
+        "nl": "STRYVE – Ankle Exoskeleton for High-Performance Athletes"
       },
       "summary": {
-        "nl": "Tinne Verhelst ontwikkelde een draagbaar ondersteuningssysteem voor sporters, binnen de context revalidatie - enkel. Het presentatiemateriaal legt de nadruk op MOVE BEYOND YOUR LIMITS. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Tinne Verhelst developed a wearable support system for the target group 'sporters' in the context of 'revalidatie - enkel'. The presentation material highlights MOVE BEYOND YOUR LIMITS. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "STRYVE is a performance-oriented ankle exoskeleton for elite athletes in sports such as basketball, athletics, tennis, and football, where ankle injuries represent 14–20% of all sports injuries and significantly impact team investment and athlete careers. The product moves beyond conventional support by providing dynamic ankle stabilisation that projects strength rather than signalling injury, maintaining the athlete's competitive identity and freedom of movement. Developed with input from athletes, teams, and clubs, STRYVE represents a new standard in preventive sports wearables at the highest level.",
+        "nl": "Dit Bachelorproefproject rond STRYVE – Ankle Exoskeleton for High-Performance Athletes ontwikkelt een draagbaar ondersteuningssysteem voor sporters, binnen de context revalidatie - enkel. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: ankle support, sports exoskeleton, athletic performance, injury prevention."
       },
       "context": {
         "en": "revalidatie - enkel",
@@ -559,7 +614,11 @@ export const content = {
         "ergonomics",
         "exoskeleton",
         "healthcare",
-        "sports"
+        "sports",
+        "ankle-support",
+        "sports-exoskeleton",
+        "athletic-performance",
+        "injury-prevention"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-78-tinne-verhelst-00.png",
@@ -567,7 +626,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/dex-78-tinne-verhelst-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/dex-78-tinne-verhelst-00.png"
+          "assets/generated/instagram-previews/dex-78-tinne-verhelst-01.jpg",
+          "assets/generated/instagram-previews/dex-78-tinne-verhelst-02.jpg",
+          "assets/generated/instagram-previews/dex-78-tinne-verhelst-03.jpg"
         ]
       }
     },
@@ -578,12 +639,12 @@ export const content = {
       "student": "Daan Janssens",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for natuurfotograaf",
-        "nl": "Exoskelet voor natuurfotograaf"
+        "en": "Lower-Body Exosuit for Nature Photographers on Multi-Day Hikes",
+        "nl": "Lower-Body Exosuit for Nature Photographers on Multi-Day Hikes"
       },
       "summary": {
-        "nl": "Daan Janssens ontwikkelde een draagbaar ondersteuningssysteem voor natuurfotograaf, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op DUURZAAM LOWER-BODY OUTDOOR-. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Daan Janssens developed a wearable support system for the target group 'natuurfotograaf' in the context of 'Werkondersteuning'. The presentation material highlights DUURZAAM LOWER-BODY OUTDOOR-. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Nature photographers undertaking 15–25 km hikes across diverse terrain carry substantial equipment loads that accumulate strain across the hips, knees, legs, back, and shoulders over multiple days. This durable lower-body exosuit redistributes load and supports joint function throughout full hiking and shooting sessions, designed for users aged 18–65 across varied landscapes. The suit integrates seamlessly with existing outdoor and photography gear while delivering measurable relief across the most physically demanding segments of a multi-day expedition.",
+        "nl": "Dit Bachelorproefproject rond Lower-Body Exosuit for Nature Photographers on Multi-Day Hikes ontwikkelt een draagbaar ondersteuningssysteem voor natuurfotograaf, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: nature photography, hiking exosuit, load distribution, outdoor wearable."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -596,7 +657,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "nature-photography",
+        "hiking-exosuit",
+        "load-distribution",
+        "outdoor-wearable"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-83-daan-janssens-00.png",
@@ -604,7 +669,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/dex-83-daan-janssens-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/dex-83-daan-janssens-00.png"
+          "assets/generated/instagram-previews/dex-83-daan-janssens-01.jpg",
+          "assets/generated/instagram-previews/dex-83-daan-janssens-02.jpg",
+          "assets/generated/instagram-previews/dex-83-daan-janssens-03.jpg"
         ]
       }
     },
@@ -615,12 +682,12 @@ export const content = {
       "student": "Alec Vandervorst",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for natuurbeheer",
-        "nl": "Circulaire Sensor voor natuurbeheer"
+        "en": "GEOSENSE – Universal Modular Nature Data Sensor",
+        "nl": "GEOSENSE – Universal Modular Nature Data Sensor"
       },
       "summary": {
-        "nl": "Alec Vandervorst ontwikkelde een modulair sensorsysteem voor natuurbeheer, binnen de context geluid, vocht, temp. Het presentatiemateriaal legt de nadruk op waar natuur data wordt. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Alec Vandervorst developed a modular sensor system for the target group 'natuurbeheer' in the context of 'geluid, vocht, temp'. The presentation material highlights waar natuur data wordt. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "GEOSENSE is a lightweight, affordable, and easy-to-use circular sensor platform that transforms natural environments into data, built around a universal base unit accessible to community users with no technical background. The modular system measures sound every 15 minutes and soil parameters every 4 hours, with IP68 water and dust protection ensuring reliable operation in any outdoor setting. Its simplicity-first design philosophy democratises environmental monitoring, making nature data collection achievable for citizen science communities, shared green spaces, and volunteer nature groups.",
+        "nl": "Dit Bachelorproefproject rond GEOSENSE – Universal Modular Nature Data Sensor ontwikkelt een circulair sensorsysteem voor natuurbeheer, binnen de context geluid, vocht, temp. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: nature sensing, modular sensor, environmental monitoring, citizen science."
       },
       "context": {
         "en": "geluid, vocht, temp",
@@ -634,10 +701,14 @@ export const content = {
         "air-quality",
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "nature-sensing",
+        "modular-sensor",
+        "environmental-monitoring",
+        "citizen-science"
       ],
       "assets": {
-        "thumbnail": "assets/generated/instagram-previews/dcs-28-alec-vandervorst-01.png",
+        "thumbnail": "assets/generated/poster-previews/dcs-28-alec-vandervorst-00.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dcs-28-alec-vandervorst-00.png",
         "presentation": "",
@@ -654,12 +725,12 @@ export const content = {
       "student": "Amelie Duchesne",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for school",
-        "nl": "Circulaire Sensor voor school"
+        "en": "SENSI – Classroom Environmental Sensor for Primary Schools",
+        "nl": "SENSI – Classroom Environmental Sensor for Primary Schools"
       },
       "summary": {
-        "nl": "Amelie Duchesne ontwikkelde een modulair sensorsysteem voor school, binnen de context omgeving vnml lucht. Het presentatiemateriaal legt de nadruk op Meten is weten. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Amelie Duchesne developed a modular sensor system for the target group 'school' in the context of 'omgeving vnml lucht'. The presentation material highlights Meten is weten. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "SENSI is a circular sensor tool designed to connect 5th-grade pupils and their teachers to the quality of their immediate environment, making scientific inquiry tangible through direct environmental measurement. By integrating measurement into the classroom learning experience, SENSI supports hands-on STEM education and builds environmental awareness from an early age. The product requires no technical knowledge from teachers, making environmental science accessible and actionable within the standard primary school curriculum.",
+        "nl": "Dit Bachelorproefproject rond SENSI – Classroom Environmental Sensor for Primary Schools ontwikkelt een circulair sensorsysteem voor school, binnen de context omgeving vnml lucht. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: STEM education, environmental sensor, primary school, citizen science."
       },
       "context": {
         "en": "omgeving vnml lucht",
@@ -674,7 +745,11 @@ export const content = {
         "circularity",
         "data",
         "education",
-        "sensor"
+        "sensor",
+        "stem-education",
+        "environmental-sensor",
+        "primary-school",
+        "citizen-science"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dcs-33-amelie-duchesne-00.png",
@@ -682,7 +757,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/dcs-33-amelie-duchesne-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/dcs-33-amelie-duchesne-00.png"
+          "assets/generated/instagram-previews/dcs-33-amelie-duchesne-01.jpg",
+          "assets/generated/instagram-previews/dcs-33-amelie-duchesne-02.jpg",
+          "assets/generated/instagram-previews/dcs-33-amelie-duchesne-03.jpg"
         ]
       }
     },
@@ -693,12 +770,12 @@ export const content = {
       "student": "Amelie Rooman",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for Stads-burger",
-        "nl": "Circulaire Sensor voor Stads-burger"
+        "en": "Urban Pollen Concentration Monitoring Sensor",
+        "nl": "Urban Pollen Concentration Monitoring Sensor"
       },
       "summary": {
-        "nl": "Amelie Rooman ontwikkelde een modulair sensorsysteem voor Stads-burger, binnen de context pollen. Het presentatiemateriaal legt de nadruk op 40 van Europeanen heeft pollenallergie. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Amelie Rooman developed a modular sensor system for the target group 'Stads-burger' in the context of 'pollen'. The presentation material highlights 40 van Europeanen heeft pollenallergie. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "With approximately 40% of Europeans affected by pollen allergies and only around 2 collection stations in Flanders, hyper-local pollen concentration data is severely insufficient for health decision-making. This circular sensor enables citizen science-based monitoring of urban pollen exposure, filling the spatial and temporal gaps left by expensive and inaccessible automated systems. Designed for affordability and ease of use, it allows ordinary city residents to contribute to a denser, more representative pollen data network that benefits allergy sufferers across Belgium.",
+        "nl": "Dit Bachelorproefproject rond Urban Pollen Concentration Monitoring Sensor ontwikkelt een circulair sensorsysteem voor Stads-burger, binnen de context pollen. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: pollen monitoring, allergy, citizen science, urban air quality."
       },
       "context": {
         "en": "pollen",
@@ -711,7 +788,11 @@ export const content = {
       "tags": [
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "pollen-monitoring",
+        "allergy",
+        "citizen-science",
+        "urban-air-quality"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dcs-38-amelie-rooman-00.png",
@@ -719,7 +800,8 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/dcs-38-amelie-rooman-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/dcs-38-amelie-rooman-00.png"
+          "assets/generated/instagram-previews/dcs-38-amelie-rooman-01.jpg",
+          "assets/generated/instagram-previews/dcs-38-amelie-rooman-02.jpg"
         ]
       }
     },
@@ -730,12 +812,12 @@ export const content = {
       "student": "Lars Mortelmans",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for kelners",
-        "nl": "Exoskelet voor kelners"
+        "en": "Back Exoskeleton for Professional Cleaners",
+        "nl": "Back Exoskeleton for Professional Cleaners"
       },
       "summary": {
-        "nl": "Lars Mortelmans ontwikkelde een draagbaar ondersteuningssysteem voor kelners, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op Design van een. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Lars Mortelmans developed a wearable support system for the target group 'kelners' in the context of 'Werkondersteuning'. The presentation material highlights Design van een. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "This exoskeleton is designed for professional cleaners on permanent contracts, one of Belgium's most physically burdened yet overlooked occupational groups, whose heaviest tasks involve carrying heavy trays, boards, and cleaning equipment throughout full working days. The design avoids overheating in summer, preserves full freedom of movement, and is machine-washable, while maintaining a professional appearance that integrates naturally with cleaning workwear. A clear and intuitive donning sequence ensures the product is adopted quickly and consistently across varied cleaning environments.",
+        "nl": "Dit Bachelorproefproject rond Back Exoskeleton for Professional Cleaners ontwikkelt een draagbaar ondersteuningssysteem voor kelners, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: professional cleaning, back exoskeleton, occupational health, ergonomic wearable."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -748,7 +830,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "professional-cleaning",
+        "back-exoskeleton",
+        "occupational-health",
+        "ergonomic-wearable"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-59-lars-mortelmans-00.png",
@@ -756,7 +842,8 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/iex-59-lars-mortelmans-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/iex-59-lars-mortelmans-00.png"
+          "assets/generated/instagram-previews/iex-59-lars-mortelmans-01.jpg",
+          "assets/generated/instagram-previews/iex-59-lars-mortelmans-02.jpg"
         ]
       }
     },
@@ -767,12 +854,12 @@ export const content = {
       "student": "Manon Janssens",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for postpartum vrouwen",
-        "nl": "Exoskelet voor postpartum vrouwen"
+        "en": "Postpartum Lumbopelvic Support Exoskeleton",
+        "nl": "Postpartum Lumbopelvic Support Exoskeleton"
       },
       "summary": {
-        "nl": "Manon Janssens ontwikkelde een draagbaar ondersteuningssysteem voor postpartum vrouwen, binnen de context Ondersteuning in dagelijks leven. Het presentatiemateriaal legt de nadruk op Na een bevalling gaat het leven van een mama door. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Manon Janssens developed a wearable support system for the target group 'postpartum vrouwen' in the context of 'Ondersteuning in dagelijks leven'. The presentation material highlights Na een bevalling gaat het leven van een mama door. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "One in three women continues to experience lower back and pelvic pain for up to four months after childbirth, with 40% reporting serious limitations in daily functioning during this vulnerable recovery phase. This exoskeleton provides discreet, adjustable lumbopelvic support that allows breastfeeding without removal and includes a hands-free carrying module, giving new mothers confidence and physical relief throughout their recovery journey. Accessible via healthcare insurance reimbursement, the device is designed to be soft, child-safe, and aesthetically reassuring for healing postpartum bodies.",
+        "nl": "Dit Bachelorproefproject rond Postpartum Lumbopelvic Support Exoskeleton ontwikkelt een draagbaar ondersteuningssysteem voor postpartum vrouwen, binnen de context Ondersteuning in dagelijks leven. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: postpartum recovery, pelvic pain, wearable support, maternal health."
       },
       "context": {
         "en": "Ondersteuning in dagelijks leven",
@@ -785,7 +872,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "healthcare"
+        "healthcare",
+        "postpartum-recovery",
+        "pelvic-pain",
+        "wearable-support",
+        "maternal-health"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-64-manon-janssens-00.png",
@@ -793,7 +884,10 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/iex-64-manon-janssens-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/iex-64-manon-janssens-00.png"
+          "assets/generated/instagram-previews/iex-64-manon-janssens-01.jpg",
+          "assets/generated/instagram-previews/iex-64-manon-janssens-02.jpg",
+          "assets/generated/instagram-previews/iex-64-manon-janssens-03.jpg",
+          "assets/generated/instagram-previews/iex-64-manon-janssens-04.jpg"
         ]
       }
     },
@@ -804,12 +898,12 @@ export const content = {
       "student": "Luca VanSteelant",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for tuinaannemer",
-        "nl": "Exoskelet voor tuinaannemer"
+        "en": "Outdoor Exoskeleton for Nature Sector Workers",
+        "nl": "Outdoor Exoskeleton for Nature Sector Workers"
       },
       "summary": {
-        "nl": "Luca VanSteelant ontwikkelde een draagbaar ondersteuningssysteem voor tuinaannemer, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op Exoskeleton in Outdoor Arbeid. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Luca VanSteelant developed a wearable support system for the target group 'tuinaannemer' in the context of 'Werkondersteuning'. The presentation material highlights Exoskeleton in Outdoor Arbeid. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "This close-body exoskeleton is designed for outdoor physical workers in the nature sector — foresters, rangers, and conservation workers — who operate in dense vegetation where conventional bulky exoskeletons create snagging and mobility hazards. The architecture supports the shoulders and lower back while maintaining complete freedom of movement in natural obstacles such as branches and undergrowth, prioritising safety in vegetated environments. Comfortable for extended outdoor working days, the exoskeleton addresses the specific ergonomic demands of nature-sector professionals who are currently underserved by existing wearable solutions.",
+        "nl": "Dit Bachelorproefproject rond Outdoor Exoskeleton for Nature Sector Workers ontwikkelt een draagbaar ondersteuningssysteem voor tuinaannemer, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: outdoor work, nature sector, shoulder support, close-body exoskeleton."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -822,7 +916,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "outdoor-work",
+        "nature-sector",
+        "shoulder-support",
+        "close-body-exoskeleton"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-69-luca-vansteelant-00.png",
@@ -830,7 +928,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/iex-69-luca-vansteelant-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/iex-69-luca-vansteelant-00.png"
+          "assets/generated/instagram-previews/iex-69-luca-vansteelant-01.jpg",
+          "assets/generated/instagram-previews/iex-69-luca-vansteelant-02.jpg",
+          "assets/generated/instagram-previews/iex-69-luca-vansteelant-03.jpg"
         ]
       }
     },
@@ -841,12 +941,12 @@ export const content = {
       "student": "Lennart Danneels",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for bouwwerven",
-        "nl": "Circulaire Sensor voor bouwwerven"
+        "en": "Partiq – Fine Dust Sensor Network for Construction Site Monitoring",
+        "nl": "Partiq – Fine Dust Sensor Network for Construction Site Monitoring"
       },
       "summary": {
-        "nl": "Lennart Danneels ontwikkelde een modulair sensorsysteem voor bouwwerven, binnen de context fijn stof. Het presentatiemateriaal legt de nadruk op F i jn s t o f m o n i t o r in g v a. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Lennart Danneels developed a modular sensor system for the target group 'bouwwerven' in the context of 'fijn stof'. The presentation material highlights F i jn s t o f m o n i t o r in g v a. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "Partiq is a rentable sensor network providing real-time fine dust (PM2.5/PM10) monitoring on Belgian construction sites, where over 30,000 building permits are issued annually yet effective emissions measurement and control remain largely absent. The system serves contractors who need objective proof that their dust mitigation measures are working, and maintenance technicians who remotely track battery and node status across multiple monitoring points. By making invisible airborne emissions visible and documentable, Partiq enables better regulatory compliance, smarter investment decisions, and more credible communication with neighbouring residents.",
+        "nl": "Dit Bachelorproefproject rond Partiq – Fine Dust Sensor Network for Construction Site Monitoring ontwikkelt een circulair sensorsysteem voor bouwwerven, binnen de context fijn stof. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: fine dust monitoring, construction site, air quality sensor, rental IoT network."
       },
       "context": {
         "en": "fijn stof",
@@ -861,7 +961,11 @@ export const content = {
         "circularity",
         "data",
         "public-space",
-        "sensor"
+        "sensor",
+        "fine-dust-monitoring",
+        "construction-site",
+        "air-quality-sensor",
+        "rental-iot-network"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/ics-4-lennart-danneels-00.png",
@@ -869,7 +973,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/ics-4-lennart-danneels-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/ics-4-lennart-danneels-00.png"
+          "assets/generated/instagram-previews/ics-4-lennart-danneels-01.jpg",
+          "assets/generated/instagram-previews/ics-4-lennart-danneels-02.jpg",
+          "assets/generated/instagram-previews/ics-4-lennart-danneels-03.jpg"
         ]
       }
     },
@@ -880,12 +986,12 @@ export const content = {
       "student": "Rado Hudran",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for omgeving luchthaven",
-        "nl": "Circulaire Sensor voor omgeving luchthaven"
+        "en": "SkyListener – Aviation Noise Monitoring Sensor for Airport Surroundings",
+        "nl": "SkyListener – Aviation Noise Monitoring Sensor for Airport Surroundings"
       },
       "summary": {
-        "nl": "Rado Hudran ontwikkelde een modulair sensorsysteem voor omgeving luchthaven, binnen de context fijn stof, geluid, geur. Het presentatiemateriaal legt de nadruk op Jij bent niet de enige. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Rado Hudran developed a modular sensor system for the target group 'omgeving luchthaven' in the context of 'fijn stof, geluid, geur'. The presentation material highlights Jij bent niet de enige. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "SkyListener is a circular sensor designed to objectively map aircraft noise complaints around airports, bringing data-driven clarity to the disputed question of whose claims about flight noise are accurate. Installed in residential areas surrounding airports, it quantifies the actual noise burden experienced by residents and provides factual evidence to underpin complaints, negotiations, and policy decisions. Built on earlier research into airfield noise, the system brings citizen science methodology to one of Belgium's most contested urban environmental conflicts.",
+        "nl": "Dit Bachelorproefproject rond SkyListener – Aviation Noise Monitoring Sensor for Airport Surroundings ontwikkelt een circulair sensorsysteem voor omgeving luchthaven, binnen de context fijn stof, geluid, geur. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: aviation noise, noise monitoring, citizen science, airport pollution."
       },
       "context": {
         "en": "fijn stof, geluid, geur",
@@ -899,7 +1005,11 @@ export const content = {
         "air-quality",
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "aviation-noise",
+        "noise-monitoring",
+        "citizen-science",
+        "airport-pollution"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/ics-9-rado-hudran-00.png",
@@ -907,7 +1017,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/ics-9-rado-hudran-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/ics-9-rado-hudran-00.png"
+          "assets/generated/instagram-previews/ics-9-rado-hudran-01.jpg",
+          "assets/generated/instagram-previews/ics-9-rado-hudran-02.jpg",
+          "assets/generated/instagram-previews/ics-9-rado-hudran-03.jpg"
         ]
       }
     },
@@ -918,12 +1030,12 @@ export const content = {
       "student": "Jasper Meel",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for appartementen",
-        "nl": "Circulaire Sensor voor appartementen"
+        "en": "Outdoor Air Quality Sensor for Urban Residential Buildings",
+        "nl": "Outdoor Air Quality Sensor for Urban Residential Buildings"
       },
       "summary": {
-        "nl": "Jasper Meel ontwikkelde een modulair sensorsysteem voor appartementen, binnen de context fijnstof, geluid, wind. Het presentatiemateriaal legt de nadruk op appartementen fijnstof geluid wind. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Jasper Meel developed a modular sensor system for the target group 'appartementen' in the context of 'fijnstof, geluid, wind'. The presentation material highlights appartementen fijnstof geluid wind. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "This circular sensor is designed to measure CO2 and urban air quality at the facade of residential apartment buildings and balconies, bringing environmental monitoring directly to the domestic scale where residents are most affected. The design process explored multiple form concepts — from compact cubes to faceted housings — balancing weatherproofing, visual integration into building facades, and accessible sensor placement. The final product enables urban residents to understand the air quality directly around their home and contribute to broader city-scale environmental datasets.",
+        "nl": "Dit Bachelorproefproject rond Outdoor Air Quality Sensor for Urban Residential Buildings ontwikkelt een circulair sensorsysteem voor appartementen, binnen de context fijnstof, geluid, wind. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: urban air quality, CO2 sensor, residential building, facade-mounted sensor."
       },
       "context": {
         "en": "fijnstof, geluid, wind",
@@ -937,7 +1049,11 @@ export const content = {
         "air-quality",
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "urban-air-quality",
+        "co2-sensor",
+        "residential-building",
+        "facade-mounted-sensor"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/ics-14-jasper-meel-00.png",
@@ -945,7 +1061,8 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/ics-14-jasper-meel-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/ics-14-jasper-meel-00.png"
+          "assets/generated/instagram-previews/ics-14-jasper-meel-01.jpg",
+          "assets/generated/instagram-previews/ics-14-jasper-meel-02.jpg"
         ]
       }
     },
@@ -956,12 +1073,12 @@ export const content = {
       "student": "Alexia Gersdorff",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for supermarkt",
-        "nl": "Exoskelet voor supermarkt"
+        "en": "Preventive Training Exoskeleton for Supermarket Shelf Stackers",
+        "nl": "Preventive Training Exoskeleton for Supermarket Shelf Stackers"
       },
       "summary": {
-        "nl": "Alexia Gersdorff ontwikkelde een draagbaar ondersteuningssysteem voor supermarkt, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op MSA is de 1 oorzaak van werkverzuim in België. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Alexia Gersdorff developed a wearable support system for the target group 'supermarkt' in the context of 'Werkondersteuning'. The presentation material highlights MSA is de 1 oorzaak van werkverzuim in België. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Musculoskeletal disorders are the leading cause of work absenteeism in Belgium, and shelf stackers represent a high-risk group due to repetitive bending and twisting for up to 8 hours per day, causing lumbar overload after just 3 hours of work. New Belgian legislation now mandates that employers analyse ergonomic risks and provide appropriate tools, making preventive intervention both a health obligation and an economic necessity. This training exoskeleton provides lumbar support and posture correction feedback, helping shelf stackers build correct ergonomic habits before chronic lower back pain develops.",
+        "nl": "Dit Bachelorproefproject rond Preventive Training Exoskeleton for Supermarket Shelf Stackers ontwikkelt een draagbaar ondersteuningssysteem voor supermarkt, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: musculoskeletal prevention, shelf stacking, training exoskeleton, occupational ergonomics."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -974,10 +1091,14 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "musculoskeletal-prevention",
+        "shelf-stacking",
+        "training-exoskeleton",
+        "occupational-ergonomics"
       ],
       "assets": {
-        "thumbnail": "assets/generated/instagram-previews/iex-44-alexia-gersdorff-01.png",
+        "thumbnail": "assets/generated/poster-previews/iex-44-alexia-gersdorff-00.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/iex-44-alexia-gersdorff-00.png",
         "presentation": "",
@@ -995,12 +1116,12 @@ export const content = {
       "student": "Mette-Marit Germonpre",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for hoveniers",
-        "nl": "Exoskelet voor hoveniers"
+        "en": "GRDNSupport – Back Exoskeleton for Professional Gardeners",
+        "nl": "GRDNSupport – Back Exoskeleton for Professional Gardeners"
       },
       "summary": {
-        "nl": "Mette-Marit Germonpre ontwikkelde een draagbaar ondersteuningssysteem voor hoveniers, binnen de context werkondersteuning. Het presentatiemateriaal legt de nadruk op Exoskelet voor hoveniers. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Mette-Marit Germonpre developed a wearable support system for the target group 'hoveniers' in the context of 'werkondersteuning'. The presentation material highlights Exoskelet voor hoveniers. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Over 60% of professional gardeners suffer from back complaints caused by prolonged forward bending, heavy tool handling, and long working days in all weather conditions. GRDNSupport is a compact, weatherproof, washable, and discreet back exoskeleton (max. 10 L volume) that integrates with a standard work uniform, reducing lumbar load while preserving a professional appearance that blends with team workwear. The product supports gardeners throughout their full working day, enabling sustainable long-term careers in a sector with high physical attrition.",
+        "nl": "Dit Bachelorproefproject rond GRDNSupport – Back Exoskeleton for Professional Gardeners ontwikkelt een draagbaar ondersteuningssysteem voor hoveniers, binnen de context werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: gardening ergonomics, back exoskeleton, outdoor wearable, musculoskeletal prevention."
       },
       "context": {
         "en": "werkondersteuning",
@@ -1013,7 +1134,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "gardening-ergonomics",
+        "back-exoskeleton",
+        "outdoor-wearable",
+        "musculoskeletal-prevention"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-49-mette-marit-germonpre-00.png",
@@ -1021,7 +1146,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/iex-49-mette-marit-germonpre-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/iex-49-mette-marit-germonpre-00.png"
+          "assets/generated/instagram-previews/iex-49-mette-marit-germonpre-01.jpg",
+          "assets/generated/instagram-previews/iex-49-mette-marit-germonpre-02.jpg",
+          "assets/generated/instagram-previews/iex-49-mette-marit-germonpre-03.jpg"
         ]
       }
     },
@@ -1032,12 +1159,12 @@ export const content = {
       "student": "Dylan Wijnen",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for supermarkt",
-        "nl": "Exoskelet voor supermarkt"
+        "en": "Back Exoskeleton for Supermarket Shelf Stockers",
+        "nl": "Back Exoskeleton for Supermarket Shelf Stockers"
       },
       "summary": {
-        "nl": "Dylan Wijnen ontwikkelde een draagbaar ondersteuningssysteem voor supermarkt, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op Mobiel eenvoudig bewegen. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Dylan Wijnen developed a wearable support system for the target group 'supermarkt' in the context of 'Werkondersteuning'. The presentation material highlights Mobiel eenvoudig bewegen. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "This exoskeleton targets supermarket shelf stockers aged 20–65 whose primary daily task of filling shelves involves repetitive low-level reaching, bending, and product carrying that creates cumulative lower back strain over full working shifts. Branded \"Support that moves with you,\" the concept prioritises an unobtrusive design that works invisibly within professional retail clothing, supporting both male and female workers without interfering with job performance or drawing customer attention. The product lowers the ergonomic risk of one of Belgium's largest retail worker groups through daily passive lumbar assistance.",
+        "nl": "Dit Bachelorproefproject rond Back Exoskeleton for Supermarket Shelf Stockers ontwikkelt een draagbaar ondersteuningssysteem voor supermarkt, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: supermarket workers, back support, ergonomic wearable, retail ergonomics."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -1050,7 +1177,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "supermarket-workers",
+        "back-support",
+        "ergonomic-wearable",
+        "retail-ergonomics"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-54-dylan-wijnen-00.png",
@@ -1058,7 +1189,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/iex-54-dylan-wijnen-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/iex-54-dylan-wijnen-00.png"
+          "assets/generated/instagram-previews/iex-54-dylan-wijnen-01.jpg",
+          "assets/generated/instagram-previews/iex-54-dylan-wijnen-02.jpg",
+          "assets/generated/instagram-previews/iex-54-dylan-wijnen-03.jpg"
         ]
       }
     },
@@ -1069,12 +1202,12 @@ export const content = {
       "student": "Niels Vervoort",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for bouwvakkkers",
-        "nl": "Exoskelet voor bouwvakkkers"
+        "en": "Back Exoskeleton for Construction Workers",
+        "nl": "Back Exoskeleton for Construction Workers"
       },
       "summary": {
-        "nl": "Niels Vervoort ontwikkelde een draagbaar ondersteuningssysteem voor bouwvakkkers, binnen de context werkondersteuning. Het presentatiemateriaal legt de nadruk op Spaar je lichaam niet je krachten. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Niels Vervoort developed a wearable support system for the target group 'bouwvakkkers' in the context of 'werkondersteuning'. The presentation material highlights Spaar je lichaam niet je krachten. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "With 30.5% of workers in the Belgian construction sector reporting physical complaints and 52% of those with back pain, musculoskeletal disorders represent a critical and costly challenge in Europe's most physically demanding industry. This exoskeleton is designed to maintain ergonomic posture, impose no movement restriction, be machine-washable, and weigh under 4 kg, making it practical for daily use on active construction sites. The product supports workers through full on-site days, reducing cumulative lumbar load and long-term injury risk in ruwbouw and general construction contexts.",
+        "nl": "Dit Bachelorproefproject rond Back Exoskeleton for Construction Workers ontwikkelt een draagbaar ondersteuningssysteem voor bouwvakkkers, binnen de context werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: construction workers, back exoskeleton, musculoskeletal health, ergonomic wearable."
       },
       "context": {
         "en": "werkondersteuning",
@@ -1087,7 +1220,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "construction-workers",
+        "back-exoskeleton",
+        "musculoskeletal-health",
+        "ergonomic-wearable"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-74-niels-vervoort-00.png",
@@ -1106,12 +1243,12 @@ export const content = {
       "student": "Thor DeBruyne",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for dropvoet problematiek",
-        "nl": "Exoskelet voor dropvoet problematiek"
+        "en": "DropUp – Ankle-Foot Exoskeleton for Drop Foot",
+        "nl": "DropUp – Ankle-Foot Exoskeleton for Drop Foot"
       },
       "summary": {
-        "nl": "Thor DeBruyne ontwikkelde een draagbaar ondersteuningssysteem voor dropvoet problematiek, binnen de context Revalidatie. Het presentatiemateriaal legt de nadruk op je voet omhoog. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Thor DeBruyne developed a wearable support system for the target group 'dropvoet problematiek' in the context of 'Revalidatie'. The presentation material highlights je voet omhoog. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "DropUp is a compact, stigma-free ankle-foot exoskeleton that corrects drop foot — a condition causing the foot to hang and trip during walking — by providing active dorsiflexion assistance throughout the swing phase of the gait cycle. The product is named for its simple promise: lift your foot up, carry your confidence forward, enabling users to walk naturally and independently in everyday contexts without drawing attention to their condition. Designed with a low-profile form that integrates with standard footwear, DropUp targets users who want functional rehabilitation without the clinical appearance of traditional ankle-foot orthoses.",
+        "nl": "Dit Bachelorproefproject rond DropUp – Ankle-Foot Exoskeleton for Drop Foot ontwikkelt een draagbaar ondersteuningssysteem voor dropvoet problematiek, binnen de context Revalidatie. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: drop foot, ankle-foot orthosis, gait assistance, stigma-free wearable."
       },
       "context": {
         "en": "Revalidatie",
@@ -1124,7 +1261,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "healthcare"
+        "healthcare",
+        "drop-foot",
+        "ankle-foot-orthosis",
+        "gait-assistance",
+        "stigma-free-wearable"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-79-thor-debruyne-00.png",
@@ -1132,7 +1273,8 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/iex-79-thor-debruyne-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/iex-79-thor-debruyne-00.png"
+          "assets/generated/instagram-previews/iex-79-thor-debruyne-01.jpg",
+          "assets/generated/instagram-previews/iex-79-thor-debruyne-02.jpg"
         ]
       }
     },
@@ -1143,12 +1285,12 @@ export const content = {
       "student": "Kamil Smets",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for bandenmonteur",
-        "nl": "Exoskelet voor bandenmonteur"
+        "en": "Hybrid Exoskeleton for Tire Fitters",
+        "nl": "Hybrid Exoskeleton for Tire Fitters"
       },
       "summary": {
-        "nl": "Kamil Smets ontwikkelde een draagbaar ondersteuningssysteem voor bandenmonteur, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op Verminderen van rugbelasting tijdens. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Kamil Smets developed a wearable support system for the target group 'bandenmonteur' in the context of 'Werkondersteuning'. The presentation material highlights Verminderen van rugbelasting tijdens. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Tire fitters face significant lumbar spine loading at the L5/S1 junction during the combined flexion and rotation movements required to mount and dismount tires, placing them at elevated risk of lower back injury and long-term disc damage. This hybrid exoskeleton reduces the load on the lower back during the turning, bending, and lifting phases specific to tire-fitting work, integrating passive spring energy storage with active assistance for targeted lumbar and shoulder protection. The design addresses the unique biomechanical demands of automotive service bays, reducing injury risk without compromising the speed and precision the job demands.",
+        "nl": "Dit Bachelorproefproject rond Hybrid Exoskeleton for Tire Fitters ontwikkelt een draagbaar ondersteuningssysteem voor bandenmonteur, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: tire fitting, hybrid exoskeleton, lumbar protection, automotive ergonomics."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -1161,7 +1303,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "tire-fitting",
+        "hybrid-exoskeleton",
+        "lumbar-protection",
+        "automotive-ergonomics"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-84-kamil-smets-00.png",
@@ -1169,7 +1315,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/iex-84-kamil-smets-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/iex-84-kamil-smets-00.png"
+          "assets/generated/instagram-previews/iex-84-kamil-smets-01.jpg",
+          "assets/generated/instagram-previews/iex-84-kamil-smets-02.jpg",
+          "assets/generated/instagram-previews/iex-84-kamil-smets-03.jpg"
         ]
       }
     },
@@ -1180,12 +1328,12 @@ export const content = {
       "student": "Xander Paredis",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for stedelijke context",
-        "nl": "Circulaire Sensor voor stedelijke context"
+        "en": "Privacy-First Noise Nuisance Monitoring Sensor",
+        "nl": "Privacy-First Noise Nuisance Monitoring Sensor"
       },
       "summary": {
-        "nl": "Xander Paredis ontwikkelde een modulair sensorsysteem voor stedelijke context, binnen de context geluid. Het presentatiemateriaal legt de nadruk op first geluidsoverlast objectiveren. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Xander Paredis developed a modular sensor system for the target group 'stedelijke context' in the context of 'geluid'. The presentation material highlights first geluidsoverlast objectiveren. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "Noise nuisance from traffic and neighbours often remains subjective and difficult to prove legally, leaving residents in urban apartments and street-facing homes without credible data to support their complaints or legal cases. This circular sensor system enables residents to objectively measure recurring sound disturbances from windows, balconies, or building facades, generating evidence-grade data that strengthens noise complaints during mediation or legal proceedings. The privacy-first design captures environmental noise levels without recording conversations or other identifiable audio, ensuring personal data protection for all users.",
+        "nl": "Dit Bachelorproefproject rond Privacy-First Noise Nuisance Monitoring Sensor ontwikkelt een circulair sensorsysteem voor stedelijke context, binnen de context geluid. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: noise nuisance, sound monitoring, citizen science, privacy sensor."
       },
       "context": {
         "en": "geluid",
@@ -1200,7 +1348,11 @@ export const content = {
         "circularity",
         "data",
         "public-space",
-        "sensor"
+        "sensor",
+        "noise-nuisance",
+        "sound-monitoring",
+        "citizen-science",
+        "privacy-sensor"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/ics-19-xander-paredis-00.png",
@@ -1219,12 +1371,12 @@ export const content = {
       "student": "Eric Verbeeck",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for STEM-scholen",
-        "nl": "Circulaire Sensor voor STEM-scholen"
+        "en": "CoLab – Classroom Environmental Sensor for Learning Research",
+        "nl": "CoLab – Classroom Environmental Sensor for Learning Research"
       },
       "summary": {
-        "nl": "Eric Verbeeck ontwikkelde een modulair sensorsysteem voor STEM-scholen, binnen de context CO2-licht-temp-geluid. Het presentatiemateriaal legt de nadruk op c o l l e c t - c o n n e c t - c o. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Eric Verbeeck developed a modular sensor system for the target group 'STEM-scholen' in the context of 'CO2-licht-temp-geluid'. The presentation material highlights c o l l e c t - c o n n e c t - c o. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "CoLab investigates how environmental parameters — including CO2, temperature, and humidity — influence student focus and learning outcomes in school buildings, a research domain where large-scale quantitative studies remain limited. Designed for students aged 11–18, the interactive system makes environmental data visible and meaningful within the school context, teaching civic engagement and citizen science participation from an early age. CoLab transforms schools into living laboratories where every classroom contributes to a shared understanding of how learning environments can be improved through better indoor climate management.",
+        "nl": "Dit Bachelorproefproject rond CoLab – Classroom Environmental Sensor for Learning Research ontwikkelt een circulair sensorsysteem voor STEM-scholen, binnen de context CO2-licht-temp-geluid. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: school environment, indoor air quality, student focus, citizen science."
       },
       "context": {
         "en": "CO2-licht-temp-geluid",
@@ -1239,7 +1391,11 @@ export const content = {
         "circularity",
         "data",
         "education",
-        "sensor"
+        "sensor",
+        "school-environment",
+        "indoor-air-quality",
+        "student-focus",
+        "citizen-science"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/ics-24-eric-verbeeck-00.png",
@@ -1247,7 +1403,10 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/ics-24-eric-verbeeck-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/ics-24-eric-verbeeck-00.png"
+          "assets/generated/instagram-previews/ics-24-eric-verbeeck-01.jpg",
+          "assets/generated/instagram-previews/ics-24-eric-verbeeck-02.jpg",
+          "assets/generated/instagram-previews/ics-24-eric-verbeeck-03.jpg",
+          "assets/generated/instagram-previews/ics-24-eric-verbeeck-04.jpg"
         ]
       }
     },
@@ -1258,12 +1417,12 @@ export const content = {
       "student": "Dries Crauwels",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for tuinen",
-        "nl": "Circulaire Sensor voor tuinen"
+        "en": "(no PDF submitted)",
+        "nl": "(no PDF submitted)"
       },
       "summary": {
-        "nl": "Dries Crauwels ontwikkelde een modulair sensorsysteem voor tuinen, binnen de context temp-vochtigheid-?. Het presentatiemateriaal legt de nadruk op tuinen temp-vochtigheid-. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Dries Crauwels developed a modular sensor system for the target group 'tuinen' in the context of 'temp-vochtigheid-?'. The presentation material highlights tuinen temp-vochtigheid-. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "(no PDF submitted)",
+        "nl": "Dit Bachelorproefproject rond (no PDF submitted) ontwikkelt een circulair sensorsysteem voor tuinen, binnen de context temp-vochtigheid-?. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: (no PDF submitted)."
       },
       "context": {
         "en": "temp-vochtigheid-?",
@@ -1277,7 +1436,8 @@ export const content = {
         "circularity",
         "data",
         "environment",
-        "sensor"
+        "sensor",
+        "no-pdf-submitted"
       ],
       "assets": {
         "thumbnail": "",
@@ -1294,12 +1454,12 @@ export const content = {
       "student": "Hanne Struyve",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for tuinen",
-        "nl": "Circulaire Sensor voor tuinen"
+        "en": "Fauneye – Insect Monitoring Sensor for Home Gardens",
+        "nl": "Fauneye – Insect Monitoring Sensor for Home Gardens"
       },
       "summary": {
-        "nl": "Hanne Struyve ontwikkelde een modulair sensorsysteem voor tuinen, binnen de context insecten detecteren. Het presentatiemateriaal legt de nadruk op 50 minder insecten dan. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Hanne Struyve developed a modular sensor system for the target group 'tuinen' in the context of 'insecten detecteren'. The presentation material highlights 50 minder insecten dan. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "With 50% fewer insects than 50 years ago and 7% of Flemish species regionally extinct, insect decline is a critical ecological emergency that is largely invisible to the general public. Fauneye is a circular sensor designed for nature-interested homeowners aged 30–50 with a garden of around 100 m², providing accessible monitoring of local insect activity without requiring technical expertise. By making garden biodiversity measurable and actionable, Fauneye empowers everyday gardeners to contribute to large-scale ecological tracking and take informed steps to improve their local habitat.",
+        "nl": "Dit Bachelorproefproject rond Fauneye – Insect Monitoring Sensor for Home Gardens ontwikkelt een circulair sensorsysteem voor tuinen, binnen de context insecten detecteren. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: insect monitoring, garden biodiversity, citizen science, ecology sensor."
       },
       "context": {
         "en": "insecten detecteren",
@@ -1313,7 +1473,11 @@ export const content = {
         "circularity",
         "data",
         "environment",
-        "sensor"
+        "sensor",
+        "insect-monitoring",
+        "garden-biodiversity",
+        "citizen-science",
+        "ecology-sensor"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/ics-39-hanne-struyve-00.png",
@@ -1321,7 +1485,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/ics-39-hanne-struyve-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/ics-39-hanne-struyve-00.png"
+          "assets/generated/instagram-previews/ics-39-hanne-struyve-01.jpg",
+          "assets/generated/instagram-previews/ics-39-hanne-struyve-02.jpg",
+          "assets/generated/instagram-previews/ics-39-hanne-struyve-03.jpg"
         ]
       }
     },
@@ -1332,12 +1498,12 @@ export const content = {
       "student": "Lina Abakkari",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for Hoefsmid",
-        "nl": "Exoskelet voor Hoefsmid"
+        "en": "Exoskeleton for Farriers",
+        "nl": "Exoskeleton for Farriers"
       },
       "summary": {
-        "nl": "Lina Abakkari ontwikkelde een draagbaar ondersteuningssysteem voor Hoefsmid, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op 24 jaar ervaring. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Lina Abakkari developed a wearable support system for the target group 'Hoefsmid' in the context of 'Werkondersteuning'. The presentation material highlights 24 jaar ervaring. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Farriers work in one of the most physically demanding skilled trades, requiring sustained bent postures while handling and shoeing horse hooves in environments that are simultaneously hot, sharp, dirty, and wet. This exoskeleton targets the farrier's most stressed body regions — upper back, shoulders, neck, lower back, knees, and hands — supporting the specific postural loads of a profession where two herniated discs after 24 years of experience are far from exceptional. The design operates reliably under the harsh conditions of the forge and stable environment, combining robust materials with targeted ergonomic support.",
+        "nl": "Dit Bachelorproefproject rond Exoskeleton for Farriers ontwikkelt een draagbaar ondersteuningssysteem voor Hoefsmid, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: farrier ergonomics, upper body exoskeleton, occupational health, physical trades."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -1350,7 +1516,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "farrier-ergonomics",
+        "upper-body-exoskeleton",
+        "occupational-health",
+        "physical-trades"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-46-lina-abakkari-00.png",
@@ -1358,7 +1528,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/jex-46-lina-abakkari-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/jex-46-lina-abakkari-00.png"
+          "assets/generated/instagram-previews/jex-46-lina-abakkari-01.jpg",
+          "assets/generated/instagram-previews/jex-46-lina-abakkari-02.jpg",
+          "assets/generated/instagram-previews/jex-46-lina-abakkari-03.jpg"
         ]
       }
     },
@@ -1369,12 +1541,12 @@ export const content = {
       "student": "Tom Fierlafijn",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for Artrose-patient",
-        "nl": "Exoskelet voor Artrose-patient"
+        "en": "Hand Exoskeleton with Actuated Finger Closure",
+        "nl": "Hand Exoskeleton with Actuated Finger Closure"
       },
       "summary": {
-        "nl": "Tom Fierlafijn ontwikkelde een draagbaar ondersteuningssysteem voor Artrose-patient, binnen de context Revalidatie. Het presentatiemateriaal legt de nadruk op Render Vizcom AI. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Tom Fierlafijn developed a wearable support system for the target group 'Artrose-patient' in the context of 'Revalidatie'. The presentation material highlights Render Vizcom AI. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "This hand exoskeleton uses a closed feedback loop of sensors and actuators — detecting hand intent via sensors, triggering actuators that drive cylinders, which pull the fingers together — to restore or augment grasping function in users with reduced hand strength or dexterity. The working principle integrates seamlessly with natural hand motion, supporting functional grasp without creating unnatural resistance during open-hand tasks. The design targets users who require daily grasp assistance for activities of living, offering a compact and wearable solution that operates intuitively without conscious effort.",
+        "nl": "Dit Bachelorproefproject rond Hand Exoskeleton with Actuated Finger Closure ontwikkelt een draagbaar ondersteuningssysteem voor Artrose-patient, binnen de context Revalidatie. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: hand exoskeleton, grasp assist, actuated fingers, upper limb assistive device."
       },
       "context": {
         "en": "Revalidatie",
@@ -1387,7 +1559,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "healthcare"
+        "healthcare",
+        "hand-exoskeleton",
+        "grasp-assist",
+        "actuated-fingers",
+        "upper-limb-assistive-device"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-51-tom-fierlafijn-00.png",
@@ -1395,7 +1571,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/jex-51-tom-fierlafijn-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/jex-51-tom-fierlafijn-00.png"
+          "assets/generated/instagram-previews/jex-51-tom-fierlafijn-01.jpg",
+          "assets/generated/instagram-previews/jex-51-tom-fierlafijn-02.jpg",
+          "assets/generated/instagram-previews/jex-51-tom-fierlafijn-03.jpg"
         ]
       }
     },
@@ -1406,12 +1584,12 @@ export const content = {
       "student": "Daan Nelissen",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for Verpleegkundigen",
-        "nl": "Exoskelet voor Verpleegkundigen"
+        "en": "Exoskeleton for Pediatric Nurses",
+        "nl": "Exoskeleton for Pediatric Nurses"
       },
       "summary": {
-        "nl": "Daan Nelissen ontwikkelde een draagbaar ondersteuningssysteem voor Verpleegkundigen, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op Fysieke verlichting voor de verpleegkundige. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Daan Nelissen developed a wearable support system for the target group 'Verpleegkundigen' in the context of 'Werkondersteuning'. The presentation material highlights Fysieke verlichting voor de verpleegkundige. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Up to 12% of nursing staff leave their profession early due to physical injury, with lower back and leg complaints being the primary cause, creating a vicious cycle of personnel shortage and increasing workload for remaining staff. This exoskeleton for nurses working in pediatric wards is designed as an all-day wearable that provides physical relief through lumbar and leg support without replacing muscle engagement, wrapped in a child-friendly design that does not intimidate young patients. The product targets both male and female nurses aged 21–65, addressing the growing need for ergonomic tools in one of healthcare's most physically demanding specialisms.",
+        "nl": "Dit Bachelorproefproject rond Exoskeleton for Pediatric Nurses ontwikkelt een draagbaar ondersteuningssysteem voor Verpleegkundigen, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: pediatric nursing, back exoskeleton, all-day wearable, healthcare ergonomics."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -1424,7 +1602,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "pediatric-nursing",
+        "back-exoskeleton",
+        "all-day-wearable",
+        "healthcare-ergonomics"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-56-daan-nelissen-00.png",
@@ -1432,7 +1614,10 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/jex-56-daan-nelissen-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/jex-56-daan-nelissen-00.png"
+          "assets/generated/instagram-previews/jex-56-daan-nelissen-01.jpg",
+          "assets/generated/instagram-previews/jex-56-daan-nelissen-02.jpg",
+          "assets/generated/instagram-previews/jex-56-daan-nelissen-03.jpg",
+          "assets/generated/instagram-previews/jex-56-daan-nelissen-04.jpg"
         ]
       }
     },
@@ -1443,12 +1628,12 @@ export const content = {
       "student": "Babette Verlinden",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for Breed",
-        "nl": "Circulaire Sensor voor Breed"
+        "en": "KIEMER – Soil and Plant Sensor for Community Gardens",
+        "nl": "KIEMER – Soil and Plant Sensor for Community Gardens"
       },
       "summary": {
-        "nl": "Babette Verlinden ontwikkelde een modulair sensorsysteem voor Breed, binnen de context Moestuin. Het presentatiemateriaal legt de nadruk op 3BaPO academiejaar 2026. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Babette Verlinden developed a modular sensor system for the target group 'Breed' in the context of 'Moestuin'. The presentation material highlights 3BaPO academiejaar 2026. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "KIEMER is a circular sensor designed for shared community gardens where diverse groups of gardeners — from beginners to experienced growers — cultivate together in raised beds, open soil, greenhouses, and herb gardens. The sensor addresses common challenges in shared cultivation spaces: poor task planning, miscommunication between members, knowledge gaps about soil conditions, and the difficulty of reading data on a smartphone in a garden setting. With a user-friendly and modular design that fits within a tight community budget, KIEMER supports collaborative, ecological growing through actionable soil and plant health data.",
+        "nl": "Dit Bachelorproefproject rond KIEMER – Soil and Plant Sensor for Community Gardens ontwikkelt een circulair sensorsysteem voor Breed, binnen de context Moestuin. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: community garden, soil sensor, modular design, collaborative growing."
       },
       "context": {
         "en": "Moestuin",
@@ -1462,7 +1647,11 @@ export const content = {
         "circularity",
         "data",
         "environment",
-        "sensor"
+        "sensor",
+        "community-garden",
+        "soil-sensor",
+        "modular-design",
+        "collaborative-growing"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jcs-36-babette-verlinden-00.png",
@@ -1481,12 +1670,12 @@ export const content = {
       "student": "Neeltje Vissers",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for jong gezin",
-        "nl": "Circulaire Sensor voor jong gezin"
+        "en": "BodemBuddy – Soil Sensor for Family Kitchen Gardens",
+        "nl": "BodemBuddy – Soil Sensor for Family Kitchen Gardens"
       },
       "summary": {
-        "nl": "Neeltje Vissers ontwikkelde een modulair sensorsysteem voor jong gezin, binnen de context Moestuin. Het presentatiemateriaal legt de nadruk op Jong gezin 5 jaar. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Neeltje Vissers developed a modular sensor system for the target group 'jong gezin' in the context of 'Moestuin'. The presentation material highlights Jong gezin 5 jaar. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "BodemBuddy is a circular soil sensor designed for young families with children over 5 years old who are beginning to grow their own vegetables in a small starter garden of 50–70 m², combining environmental education with practical gardening support. The product targets parents who are environmentally conscious but time-poor, providing simple soil temperature and moisture data from raised beds and open ground in a format that is playful enough to engage children and clear enough for busy adults. Its child-friendly design and gamified interaction turn soil monitoring into a family learning activity that fosters both nature connection and digital literacy in the next generation.",
+        "nl": "Dit Bachelorproefproject rond BodemBuddy – Soil Sensor for Family Kitchen Gardens ontwikkelt een circulair sensorsysteem voor jong gezin, binnen de context Moestuin. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: kitchen garden, soil monitoring, family education, beginner gardening."
       },
       "context": {
         "en": "Moestuin",
@@ -1500,10 +1689,14 @@ export const content = {
         "circularity",
         "data",
         "environment",
-        "sensor"
+        "sensor",
+        "kitchen-garden",
+        "soil-monitoring",
+        "family-education",
+        "beginner-gardening"
       ],
       "assets": {
-        "thumbnail": "assets/generated/instagram-previews/jcs-41-neeltje-vissers-01.png",
+        "thumbnail": "assets/generated/poster-previews/jcs-41-neeltje-vissers-00.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jcs-41-neeltje-vissers-00.png",
         "presentation": "",
@@ -1520,12 +1713,12 @@ export const content = {
       "student": "Andreas Grootjans",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for Tuinierders",
-        "nl": "Circulaire Sensor voor Tuinierders"
+        "en": "Smart Soil Sensor for Urban Community Gardens",
+        "nl": "Smart Soil Sensor for Urban Community Gardens"
       },
       "summary": {
-        "nl": "Andreas Grootjans ontwikkelde een modulair sensorsysteem voor Tuinierders, binnen de context Samentuin. Het presentatiemateriaal legt de nadruk op GEDEELDE HOUTEN PLANTENBAKKEN. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Andreas Grootjans developed a modular sensor system for the target group 'Tuinierders' in the context of 'Samentuin'. The presentation material highlights GEDEELDE HOUTEN PLANTENBAKKEN. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "This circular sensor system is designed for volunteer members of urban community gardens — shared spaces with communal wooden raised beds, often publicly accessible — who have little to no technical knowledge and a community-driven approach to urban agriculture. The system addresses recurring problems of limited engagement, miscommunication among members, knowledge gaps in soil health, and severely constrained financial resources that make commercial sensing solutions inaccessible. By providing simple, action-oriented soil quality information, the sensor empowers community gardeners to grow more successfully and sustainably together.",
+        "nl": "Dit Bachelorproefproject rond Smart Soil Sensor for Urban Community Gardens ontwikkelt een circulair sensorsysteem voor Tuinierders, binnen de context Samentuin. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: urban gardening, soil sensor, community garden, citizen science."
       },
       "context": {
         "en": "Samentuin",
@@ -1539,17 +1732,22 @@ export const content = {
         "circularity",
         "data",
         "environment",
-        "sensor"
+        "sensor",
+        "urban-gardening",
+        "soil-sensor",
+        "community-garden",
+        "citizen-science"
       ],
       "assets": {
-        "thumbnail": "assets/generated/instagram-previews/ics-34-andreas-grootjans-01.png",
+        "thumbnail": "assets/generated/poster-previews/ics-34-andreas-grootjans-00.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/ics-34-andreas-grootjans-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/instagram-previews/ics-34-andreas-grootjans-01.png",
-          "assets/generated/instagram-previews/ics-34-andreas-grootjans-02.png",
-          "assets/generated/instagram-previews/ics-34-andreas-grootjans-03.png"
+          "assets/generated/instagram-previews/ics-34-andreas-grootjans-01.jpg",
+          "assets/generated/instagram-previews/ics-34-andreas-grootjans-02.jpg",
+          "assets/generated/instagram-previews/ics-34-andreas-grootjans-03.jpg",
+          "assets/generated/instagram-previews/ics-34-andreas-grootjans-04.png"
         ]
       }
     },
@@ -1560,12 +1758,12 @@ export const content = {
       "student": "Ian Currie",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for Tuinonderhoud",
-        "nl": "Exoskelet voor Tuinonderhoud"
+        "en": "Back Exoskeleton for Green Sector Workers",
+        "nl": "Back Exoskeleton for Green Sector Workers"
       },
       "summary": {
-        "nl": "Ian Currie ontwikkelde een draagbaar ondersteuningssysteem voor Tuinonderhoud, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op 2 3 miljard+. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Ian Currie developed a wearable support system for the target group 'Tuinonderhoud' in the context of 'Werkondersteuning'. The presentation material highlights 2 3 miljard+. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "The Belgian green sector represents a market of over €2.3 billion and employs a workforce that is over 70% male and under 45, with 25–30% of workers suffering from back complaints that cost employers over €5,000 per long-term absence. This preventive exoskeleton is designed for outdoor green sector workers — landscapers, groundskeepers, and horticulturalists — who spend long days in physically demanding postures that accumulate into chronic lower back strain. The product targets a gap in the current market for ergonomic support tools tailored specifically to the outdoor green sector's unique physical and environmental demands.",
+        "nl": "Dit Bachelorproefproject rond Back Exoskeleton for Green Sector Workers ontwikkelt een draagbaar ondersteuningssysteem voor Tuinonderhoud, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: green sector, back exoskeleton, occupational prevention, outdoor ergonomics."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -1578,7 +1776,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "green-sector",
+        "back-exoskeleton",
+        "occupational-prevention",
+        "outdoor-ergonomics"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-61-ian-currie-00.png",
@@ -1586,7 +1788,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/jex-61-ian-currie-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/jex-61-ian-currie-00.png"
+          "assets/generated/instagram-previews/jex-61-ian-currie-01.jpg",
+          "assets/generated/instagram-previews/jex-61-ian-currie-02.jpg",
+          "assets/generated/instagram-previews/jex-61-ian-currie-03.jpg"
         ]
       }
     },
@@ -1597,12 +1801,12 @@ export const content = {
       "student": "Thomas Verhaegen",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for Vuilnisophaler",
-        "nl": "Exoskelet voor Vuilnisophaler"
+        "en": "Exoskeleton for Garbage Collectors",
+        "nl": "Exoskeleton for Garbage Collectors"
       },
       "summary": {
-        "nl": "Thomas Verhaegen ontwikkelde een draagbaar ondersteuningssysteem voor Vuilnisophaler, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op EXOSKELET VOOR DE VUILNISOPHALER. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Thomas Verhaegen developed a wearable support system for the target group 'Vuilnisophaler' in the context of 'Werkondersteuning'. The presentation material highlights EXOSKELET VOOR DE VUILNISOPHALER. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Between 60–80% of professional waste collectors suffer from musculoskeletal disorders, with the greatest burden falling on the shoulders and lower back during the repeated lifting and throwing of waste containers in all weather conditions. This exoskeleton is designed for professional garbage collectors working urban routes, reducing physical load on these two critical pain points while remaining practical for workers who must navigate traffic, varying container weights, and unpredictable street environments. The product supports a profession that is essential to urban life yet consistently underequipped with ergonomic tools appropriate to its actual physical demands.",
+        "nl": "Dit Bachelorproefproject rond Exoskeleton for Garbage Collectors ontwikkelt een draagbaar ondersteuningssysteem voor Vuilnisophaler, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: waste collection, shoulder support, back exoskeleton, urban ergonomics."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -1615,7 +1819,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "waste-collection",
+        "shoulder-support",
+        "back-exoskeleton",
+        "urban-ergonomics"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-66-thomas-verhaegen-00.png",
@@ -1623,7 +1831,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/jex-66-thomas-verhaegen-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/jex-66-thomas-verhaegen-00.png"
+          "assets/generated/instagram-previews/jex-66-thomas-verhaegen-01.jpg",
+          "assets/generated/instagram-previews/jex-66-thomas-verhaegen-02.jpg",
+          "assets/generated/instagram-previews/jex-66-thomas-verhaegen-03.jpg"
         ]
       }
     },
@@ -1634,12 +1844,12 @@ export const content = {
       "student": "Renzo Craeymeersch",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for Verpleegkundigen",
-        "nl": "Exoskelet voor Verpleegkundigen"
+        "en": "Exoskeleton for Nursing Home Care Staff",
+        "nl": "Exoskeleton for Nursing Home Care Staff"
       },
       "summary": {
-        "nl": "Renzo Craeymeersch ontwikkelde een draagbaar ondersteuningssysteem voor Verpleegkundigen, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op Veel fysieke handelingen. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Renzo Craeymeersch developed a wearable support system for the target group 'Verpleegkundigen' in the context of 'Werkondersteuning'. The presentation material highlights Veel fysieke handelingen. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Nursing home staff perform physically intensive care tasks throughout long working days, with a documented shortage crisis driven in part by high levels of physical absenteeism and premature burnout among younger workers. This exoskeleton is designed for the nursing home environment — large buildings, small patient rooms, an elderly and fragile resident population — supporting care workers during patient transfers, repositioning, and physical assistance tasks. The product addresses both the ergonomic burden on staff and the broader institutional challenge of workforce retention in residential elder care.",
+        "nl": "Dit Bachelorproefproject rond Exoskeleton for Nursing Home Care Staff ontwikkelt een draagbaar ondersteuningssysteem voor Verpleegkundigen, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: nursing home, care worker exoskeleton, patient handling, occupational health."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -1652,7 +1862,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "nursing-home",
+        "care-worker-exoskeleton",
+        "patient-handling",
+        "occupational-health"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-71-renzo-craeymeersch-00.png",
@@ -1660,7 +1874,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/jex-71-renzo-craeymeersch-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/jex-71-renzo-craeymeersch-00.png"
+          "assets/generated/instagram-previews/jex-71-renzo-craeymeersch-01.jpg",
+          "assets/generated/instagram-previews/jex-71-renzo-craeymeersch-02.jpg",
+          "assets/generated/instagram-previews/jex-71-renzo-craeymeersch-03.jpg"
         ]
       }
     },
@@ -1671,12 +1887,12 @@ export const content = {
       "student": "Amelie VanWest",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for 65+",
-        "nl": "Circulaire Sensor voor 65+"
+        "en": "Air Quality Sensor Kit for Inclusive Citizen Science Campaigns",
+        "nl": "Air Quality Sensor Kit for Inclusive Citizen Science Campaigns"
       },
       "summary": {
-        "nl": "Amelie VanWest ontwikkelde een modulair sensorsysteem voor 65+, binnen de context Luchtkwaliteit. Het presentatiemateriaal legt de nadruk op Ontworpen voor inclusievere. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Amelie VanWest developed a modular sensor system for the target group '65+' in the context of 'Luchtkwaliteit'. The presentation material highlights Ontworpen voor inclusievere. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "Current air quality sensor kits used in measurement campaigns are difficult to reuse and fail to reach important yet harder-to-access population groups, particularly adults over 65. This circular sensor kit is designed for outdoor residential placement, specifically targeting 65-plus users by removing all physical, cognitive, and digital barriers to participation — the device works without a smartphone, computer, or Wi-Fi connection. By enabling broader and more inclusive citizen science participation, the kit extends the geographic and demographic reach of air quality campaigns, generating richer and more representative environmental datasets.",
+        "nl": "Dit Bachelorproefproject rond Air Quality Sensor Kit for Inclusive Citizen Science Campaigns ontwikkelt een circulair sensorsysteem voor 65+, binnen de context Luchtkwaliteit. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: air quality monitoring, inclusive design, elderly users, citizen science."
       },
       "context": {
         "en": "Luchtkwaliteit",
@@ -1690,7 +1906,11 @@ export const content = {
         "air-quality",
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "air-quality-monitoring",
+        "inclusive-design",
+        "elderly-users",
+        "citizen-science"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jcs-21-amelie-vanwest-00.png",
@@ -1698,7 +1918,8 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/jcs-21-amelie-vanwest-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/jcs-21-amelie-vanwest-00.png"
+          "assets/generated/instagram-previews/jcs-21-amelie-vanwest-01.jpg",
+          "assets/generated/instagram-previews/jcs-21-amelie-vanwest-02.jpg"
         ]
       }
     },
@@ -1709,12 +1930,12 @@ export const content = {
       "student": "Aukje DeKlein",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for School",
-        "nl": "Circulaire Sensor voor School"
+        "en": "CoSense – Interactive Environmental Sensor for Schoolyards",
+        "nl": "CoSense – Interactive Environmental Sensor for Schoolyards"
       },
       "summary": {
-        "nl": "Aukje DeKlein ontwikkelde een modulair sensorsysteem voor School, binnen de context Luchtkwaliteit. Het presentatiemateriaal legt de nadruk op Bijdragen aan citizen science en klimaatbewustzijn bij. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Aukje DeKlein developed a modular sensor system for the target group 'School' in the context of 'Luchtkwaliteit'. The presentation material highlights Bijdragen aan citizen science en klimaatbewustzijn bij. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "CoSense is a modular environmental sensor pole for schoolyards that measures ambient data and presents it interactively through an AI-avatar interface, making climate science engaging and accessible for a new generation of citizen scientists. The mission of CoSense is to strengthen climate awareness and citizen science participation among schoolchildren by turning the schoolyard into an active measurement station that pupils can interact with and learn from daily. The design brings environmental monitoring into the everyday school experience, connecting measurement to curiosity, discussion, and actionable awareness of local environmental conditions.",
+        "nl": "Dit Bachelorproefproject rond CoSense – Interactive Environmental Sensor for Schoolyards ontwikkelt een circulair sensorsysteem voor School, binnen de context Luchtkwaliteit. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: schoolyard sensor, climate awareness, citizen science, interactive AI avatar."
       },
       "context": {
         "en": "Luchtkwaliteit",
@@ -1729,7 +1950,11 @@ export const content = {
         "circularity",
         "data",
         "education",
-        "sensor"
+        "sensor",
+        "schoolyard-sensor",
+        "climate-awareness",
+        "citizen-science",
+        "interactive-ai-avatar"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jcs-26-aukje-deklein-00.png",
@@ -1737,7 +1962,8 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/jcs-26-aukje-deklein-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/jcs-26-aukje-deklein-00.png"
+          "assets/generated/instagram-previews/jcs-26-aukje-deklein-01.jpg",
+          "assets/generated/instagram-previews/jcs-26-aukje-deklein-02.jpg"
         ]
       }
     },
@@ -1748,12 +1974,12 @@ export const content = {
       "student": "Hannes Bal",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for Landbouw",
-        "nl": "Circulaire Sensor voor Landbouw"
+        "en": "Circular Nitrate Sensor for Potato Farmers",
+        "nl": "Circular Nitrate Sensor for Potato Farmers"
       },
       "summary": {
-        "nl": "Hannes Bal ontwikkelde een modulair sensorsysteem voor Landbouw, binnen de context Grondkwaliteit. Het presentatiemateriaal legt de nadruk op Vlaamse akkerbouwers. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Hannes Bal developed a modular sensor system for the target group 'Landbouw' in the context of 'Grondkwaliteit'. The presentation material highlights Vlaamse akkerbouwers. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "Flemish arable farmers — primarily potato growers — face strict nitrate residue monitoring obligations but lack timely, affordable, and accessible tools to guide supplementary fertilisation decisions at the right moment in the crop cycle. This circular sensor system targets precision agriculture by providing on-field nitrate and soil quality measurement, supported by insights gathered through interviews with local farmers, Boerenbond, and ILVO. The product enables farmers to act on real soil data rather than estimation, reducing both over-fertilisation risk and crop loss while supporting sustainable agricultural practice.",
+        "nl": "Dit Bachelorproefproject rond Circular Nitrate Sensor for Potato Farmers ontwikkelt een circulair sensorsysteem voor Landbouw, binnen de context Grondkwaliteit. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: precision agriculture, nitrate sensor, potato farming, sustainable farming."
       },
       "context": {
         "en": "Grondkwaliteit",
@@ -1766,10 +1992,14 @@ export const content = {
       "tags": [
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "precision-agriculture",
+        "nitrate-sensor",
+        "potato-farming",
+        "sustainable-farming"
       ],
       "assets": {
-        "thumbnail": "assets/generated/instagram-previews/jcs-31-hannes-bal-01.png",
+        "thumbnail": "assets/generated/poster-previews/jcs-31-hannes-bal-00.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jcs-31-hannes-bal-00.png",
         "presentation": "",
@@ -1785,12 +2015,12 @@ export const content = {
       "student": "Hannah Nollet",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for Stads-burger",
-        "nl": "Circulaire Sensor voor Stads-burger"
+        "en": "Sense – Modular Urban Environmental Sensor",
+        "nl": "Sense – Modular Urban Environmental Sensor"
       },
       "summary": {
-        "nl": "Hannah Nollet ontwikkelde een modulair sensorsysteem voor Stads-burger, binnen de context Lucht + geluid. Het presentatiemateriaal legt de nadruk op Een modulaire stedelijke sensormodule dielokale leefkwaliteit zichtbaar maakt. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Hannah Nollet developed a modular sensor system for the target group 'Stads-burger' in the context of 'Lucht + geluid'. The presentation material highlights Een modulaire stedelijke sensormodule dielokale leefkwaliteit zichtbaar maakt. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "Sense is a modular urban sensor module designed to make local living quality visible, measurable, and actionable for residents and city administrators alike. The product balances six core values — design quality, modularity, sensor placement flexibility, inclusivity, circularity, and awareness-raising — into a single cohesive platform that can be adapted to different urban measurement contexts. By making invisible environmental data tangible and shareable, Sense empowers citizens and local governments to have more informed conversations about urban liveability and health.",
+        "nl": "Dit Bachelorproefproject rond Sense – Modular Urban Environmental Sensor ontwikkelt een circulair sensorsysteem voor Stads-burger, binnen de context Lucht + geluid. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: urban sensor, modular design, liveability monitoring, citizen science."
       },
       "context": {
         "en": "Lucht + geluid",
@@ -1804,7 +2034,11 @@ export const content = {
         "air-quality",
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "urban-sensor",
+        "modular-design",
+        "liveability-monitoring",
+        "citizen-science"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jcs-1-hannah-nollet-00.png",
@@ -1812,7 +2046,10 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/jcs-1-hannah-nollet-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/jcs-1-hannah-nollet-00.png"
+          "assets/generated/instagram-previews/jcs-1-hannah-nollet-01.jpg",
+          "assets/generated/instagram-previews/jcs-1-hannah-nollet-02.jpg",
+          "assets/generated/instagram-previews/jcs-1-hannah-nollet-03.jpg",
+          "assets/generated/instagram-previews/jcs-1-hannah-nollet-04.jpg"
         ]
       }
     },
@@ -1823,12 +2060,12 @@ export const content = {
       "student": "Fien Vertente",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for Huurder-Sociale woning",
-        "nl": "Circulaire Sensor voor Huurder-Sociale woning"
+        "en": "Indoor Air Quality Sensor for Social and Rental Housing",
+        "nl": "Indoor Air Quality Sensor for Social and Rental Housing"
       },
       "summary": {
-        "nl": "Fien Vertente ontwikkelde een modulair sensorsysteem voor Huurder-Sociale woning, binnen de context Luchtkwaliteit. Het presentatiemateriaal legt de nadruk op huurwoningen sociale woningen. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Fien Vertente developed a modular sensor system for the target group 'Huurder-Sociale woning' in the context of 'Luchtkwaliteit'. The presentation material highlights huurwoningen sociale woningen. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "This circular sensor targets residents of social and rental housing — a diverse group spanning youth, elderly, men, women, and multiple language backgrounds — who are among the most exposed to poor indoor air quality yet the least likely to use complex monitoring technology. The sensor measures CO₂, relative humidity, temperature, and VOC as standard, with fijnstof (PM2.5) expansion available, and delivers every measurement as a concrete actionable recommendation such as \"Ventilate now.\" Designed with radical accessibility in mind, it works within a €45 budget for the standard version, requires no technical setup, and is comprehensible for users aged 70 and above across multiple languages.",
+        "nl": "Dit Bachelorproefproject rond Indoor Air Quality Sensor for Social and Rental Housing ontwikkelt een circulair sensorsysteem voor Huurder-Sociale woning, binnen de context Luchtkwaliteit. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: indoor air quality, social housing, accessible sensor, actionable monitoring."
       },
       "context": {
         "en": "Luchtkwaliteit",
@@ -1842,7 +2079,11 @@ export const content = {
         "air-quality",
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "indoor-air-quality",
+        "social-housing",
+        "accessible-sensor",
+        "actionable-monitoring"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jcs-6-fien-vertente-00.png",
@@ -1850,7 +2091,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/jcs-6-fien-vertente-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/jcs-6-fien-vertente-00.png"
+          "assets/generated/instagram-previews/jcs-6-fien-vertente-01.jpg",
+          "assets/generated/instagram-previews/jcs-6-fien-vertente-02.jpg",
+          "assets/generated/instagram-previews/jcs-6-fien-vertente-03.jpg"
         ]
       }
     },
@@ -1861,12 +2104,12 @@ export const content = {
       "student": "Felix Peleman",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for Biologen-stadspark",
-        "nl": "Circulaire Sensor voor Biologen-stadspark"
+        "en": "Urban Park Bioacoustic Sensor for Bird and Noise Monitoring",
+        "nl": "Urban Park Bioacoustic Sensor for Bird and Noise Monitoring"
       },
       "summary": {
-        "nl": "Felix Peleman ontwikkelde een modulair sensorsysteem voor Biologen-stadspark, binnen de context Vogelgeluid. Het presentatiemateriaal legt de nadruk op CIRCULAIRE SENSORENCIRCULAIRE SENSOREN. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Felix Peleman developed a modular sensor system for the target group 'Biologen-stadspark' in the context of 'Vogelgeluid'. The presentation material highlights CIRCULAIRE SENSORENCIRCULAIRE SENSOREN. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "This circular sensor is mounted in urban park trees to simultaneously capture city noise pollution and bird vocalizations, providing data for both ecologists studying urban bird populations and park visitors curious about the acoustic environment around them. The dual audience of engaged park visitors and professional biologists/ecologists shapes a design that is unobtrusive, weatherproof, and capable of long-term autonomous operation in a public green space. By making the acoustic life of urban parks legible, the sensor supports biodiversity research and raises awareness of the impact of noise pollution on urban wildlife.",
+        "nl": "Dit Bachelorproefproject rond Urban Park Bioacoustic Sensor for Bird and Noise Monitoring ontwikkelt een circulair sensorsysteem voor Biologen-stadspark, binnen de context Vogelgeluid. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: urban biodiversity, bioacoustics, park monitoring, bird ecology."
       },
       "context": {
         "en": "Vogelgeluid",
@@ -1880,7 +2123,11 @@ export const content = {
         "air-quality",
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "urban-biodiversity",
+        "bioacoustics",
+        "park-monitoring",
+        "bird-ecology"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jcs-16-felix-peleman-00.png",
@@ -1888,7 +2135,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/jcs-16-felix-peleman-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/jcs-16-felix-peleman-00.png"
+          "assets/generated/instagram-previews/jcs-16-felix-peleman-01.jpg",
+          "assets/generated/instagram-previews/jcs-16-felix-peleman-02.jpg",
+          "assets/generated/instagram-previews/jcs-16-felix-peleman-03.jpg"
         ]
       }
     },
@@ -1899,12 +2148,12 @@ export const content = {
       "student": "Lina Willems",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for Verpleegkundigen",
-        "nl": "Exoskelet voor Verpleegkundigen"
+        "en": "LiftTogether – Back Exoskeleton for Female Nurses in Geriatrics",
+        "nl": "LiftTogether – Back Exoskeleton for Female Nurses in Geriatrics"
       },
       "summary": {
-        "nl": "Lina Willems ontwikkelde een draagbaar ondersteuningssysteem voor Verpleegkundigen, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op onderrug wervels L4 L5. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Lina Willems developed a wearable support system for the target group 'Verpleegkundigen' in the context of 'Werkondersteuning'. The presentation material highlights onderrug wervels L4 L5. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Over 50% of care workers in geriatric and rehabilitation wards experience lower back complaints from patient lifting, turning, and transfer tasks, yet the vast majority of existing support devices were designed around average male anthropometry. LiftTogether is specifically designed for the 79% female nursing workforce, incorporating female physiological differences including greater lumbar flexion and higher lower back loading, to provide better-fitted and more effective lumbar support during the full spectrum of patient-handling tasks. The product preserves patient independence by enabling manual support rather than replacing it with mechanical lifts, keeping care personal and responsive.",
+        "nl": "Dit Bachelorproefproject rond LiftTogether – Back Exoskeleton for Female Nurses in Geriatrics ontwikkelt een draagbaar ondersteuningssysteem voor Verpleegkundigen, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: geriatric nursing, female ergonomics, back exoskeleton, patient handling."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -1917,7 +2166,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "geriatric-nursing",
+        "female-ergonomics",
+        "back-exoskeleton",
+        "patient-handling"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-76-lina-willems-00.png",
@@ -1925,7 +2178,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/jex-76-lina-willems-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/jex-76-lina-willems-00.png"
+          "assets/generated/instagram-previews/jex-76-lina-willems-01.jpg",
+          "assets/generated/instagram-previews/jex-76-lina-willems-02.jpg",
+          "assets/generated/instagram-previews/jex-76-lina-willems-03.jpg"
         ]
       }
     },
@@ -1936,12 +2191,12 @@ export const content = {
       "student": "Linde Vanmarcke",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for Astronauten",
-        "nl": "Exoskelet voor Astronauten"
+        "en": "ATROS – Exoskeleton for Muscle Atrophy in Microgravity",
+        "nl": "ATROS – Exoskeleton for Muscle Atrophy in Microgravity"
       },
       "summary": {
-        "nl": "Linde Vanmarcke ontwikkelde een draagbaar ondersteuningssysteem voor Astronauten, binnen de context Fitness. Het presentatiemateriaal legt de nadruk op E e n e x o s k e l e t a l s. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Linde Vanmarcke developed a wearable support system for the target group 'Astronauten' in the context of 'Fitness'. The presentation material highlights E e n e x o s k e l e t a l s. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "ATROS is an exoskeleton designed as a countermeasure to muscle atrophy and bone density loss experienced by astronauts in microgravity environments, where current exercise protocols are insufficient to prevent long-term physiological degradation. The device operates in a 4-degree-of-freedom space environment with strict requirements for hygiene, fail-safe functionality, minimal external volume, and compatibility with technical laboratory and mechanical work in confined spacecraft interiors. Designed around the context of MEDEVAC and active space missions, ATROS represents a novel approach to maintaining human physical resilience beyond Earth's gravity.",
+        "nl": "Dit Bachelorproefproject rond ATROS – Exoskeleton for Muscle Atrophy in Microgravity ontwikkelt een draagbaar ondersteuningssysteem voor Astronauten, binnen de context Fitness. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: space exoskeleton, muscle atrophy, microgravity, astronaut health."
       },
       "context": {
         "en": "Fitness",
@@ -1953,7 +2208,11 @@ export const content = {
       },
       "tags": [
         "ergonomics",
-        "exoskeleton"
+        "exoskeleton",
+        "space-exoskeleton",
+        "muscle-atrophy",
+        "microgravity",
+        "astronaut-health"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-81-linde-vanmarcke-00.png",
@@ -1961,7 +2220,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/jex-81-linde-vanmarcke-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/jex-81-linde-vanmarcke-00.png"
+          "assets/generated/instagram-previews/jex-81-linde-vanmarcke-01.jpg",
+          "assets/generated/instagram-previews/jex-81-linde-vanmarcke-02.jpg",
+          "assets/generated/instagram-previews/jex-81-linde-vanmarcke-03.jpg"
         ]
       }
     },
@@ -1972,12 +2233,12 @@ export const content = {
       "student": "Hana Nilis",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for pakketbezorger",
-        "nl": "Exoskelet voor pakketbezorger"
+        "en": "Knee Exoskeleton for Outdoor Elderly Gardeners",
+        "nl": "Knee Exoskeleton for Outdoor Elderly Gardeners"
       },
       "summary": {
-        "nl": "Hana Nilis ontwikkelde een draagbaar ondersteuningssysteem voor pakketbezorger, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op Gemiddeld 150 pakketten per dag. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Hana Nilis developed a wearable support system for the target group 'pakketbezorger' in the context of 'Werkondersteuning'. The presentation material highlights Gemiddeld 150 pakketten per dag. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "This knee exoskeleton is designed for gardeners aged 65 and above who cultivate in allotment and kitchen gardens, a user group that is typically sceptical of technology and resistant to products that signal loss of autonomy. The design targets knee osteoarthritis and age-related joint weakness during kneeling and bending tasks specific to outdoor vegetable and hobby gardening, enabling users to continue doing what they love independently for longer. Key design drivers include suitability for outdoor use, intuitive operation, and compatibility with standard AAA batteries to remove the charging barrier for a low-tech user group.",
+        "nl": "Dit Bachelorproefproject rond Knee Exoskeleton for Outdoor Elderly Gardeners ontwikkelt een draagbaar ondersteuningssysteem voor pakketbezorger, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: elderly gardening, knee exoskeleton, joint support, outdoor wearable."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -1991,7 +2252,11 @@ export const content = {
         "ergonomics",
         "exoskeleton",
         "healthcare",
-        "workplace"
+        "workplace",
+        "elderly-gardening",
+        "knee-exoskeleton",
+        "joint-support",
+        "outdoor-wearable"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-60-hana-nilis-00.png",
@@ -1999,7 +2264,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/kex-60-hana-nilis-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/kex-60-hana-nilis-00.png"
+          "assets/generated/instagram-previews/kex-60-hana-nilis-01.jpg",
+          "assets/generated/instagram-previews/kex-60-hana-nilis-02.jpg",
+          "assets/generated/instagram-previews/kex-60-hana-nilis-03.jpg"
         ]
       }
     },
@@ -2010,12 +2277,12 @@ export const content = {
       "student": "Lena VanDooren",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for Obers",
-        "nl": "Exoskelet voor Obers"
+        "en": "Jules – Wrist Support Exoskeleton for Hospitality Workers",
+        "nl": "Jules – Wrist Support Exoskeleton for Hospitality Workers"
       },
       "summary": {
-        "nl": "Lena VanDooren ontwikkelde een draagbaar ondersteuningssysteem voor Obers, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op Je extra steun tijdens drukke momenten. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Lena VanDooren developed a wearable support system for the target group 'Obers' in the context of 'Werkondersteuning'. The presentation material highlights Je extra steun tijdens drukke momenten. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Jules is a wrist and forearm support exoskeleton designed for hospitality staff — waiters and event servers — who carry heavy trays and experience significant wrist and forearm loading during long service shifts. The product supports wrist load-bearing of up to 10 kg, can be donned and doffed with one hand in under 30 seconds, and is machine-washable at 30°C, meeting the hygiene and speed demands of a professional service environment. With adjustable support, a professional appearance using appropriate materials and colours, and discreet form factor, Jules provides working confidence without compromising the professional image expected in hospitality.",
+        "nl": "Dit Bachelorproefproject rond Jules – Wrist Support Exoskeleton for Hospitality Workers ontwikkelt een draagbaar ondersteuningssysteem voor Obers, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: wrist support, hospitality workers, one-handed donning, ergonomic wearable."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -2028,7 +2295,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "wrist-support",
+        "hospitality-workers",
+        "one-handed-donning",
+        "ergonomic-wearable"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-65-lena-vandooren-00.png",
@@ -2036,7 +2307,10 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/kex-65-lena-vandooren-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/kex-65-lena-vandooren-00.png"
+          "assets/generated/instagram-previews/kex-65-lena-vandooren-01.jpg",
+          "assets/generated/instagram-previews/kex-65-lena-vandooren-02.jpg",
+          "assets/generated/instagram-previews/kex-65-lena-vandooren-03.jpg",
+          "assets/generated/instagram-previews/kex-65-lena-vandooren-04.jpg"
         ]
       }
     },
@@ -2047,12 +2321,12 @@ export const content = {
       "student": "Ellen Bruyninckx",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for Vrouwen met osteoporose",
-        "nl": "Exoskelet voor Vrouwen met osteoporose"
+        "en": "Hip-Thigh Exoskeleton for Fall Prevention in Elderly Women",
+        "nl": "Hip-Thigh Exoskeleton for Fall Prevention in Elderly Women"
       },
       "summary": {
-        "nl": "Ellen Bruyninckx ontwikkelde een draagbaar ondersteuningssysteem voor Vrouwen met osteoporose, binnen de context medisch - valpreventie. Het presentatiemateriaal legt de nadruk op Student ID 20231200. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Ellen Bruyninckx developed a wearable support system for the target group 'Vrouwen met osteoporose' in the context of 'medisch - valpreventie'. The presentation material highlights Student ID 20231200. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "This active exoskeleton targets the prevention of hip fractures in women aged 65 and above with osteoporosis and balance loss, deployed within the residential care home context of indoor spaces and gardens. The product focuses on the hips and mid-thigh zone, providing active assistance during balance-compromising moments while being sized and designed around the specific anatomy and mobility profile of older women in residential care. Combining intervention at the moment of fall risk with comfortable daily wearability, the product addresses one of the most medically and financially costly consequences of ageing — the hip fracture.",
+        "nl": "Dit Bachelorproefproject rond Hip-Thigh Exoskeleton for Fall Prevention in Elderly Women ontwikkelt een draagbaar ondersteuningssysteem voor Vrouwen met osteoporose, binnen de context medisch - valpreventie. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: hip fracture prevention, osteoporosis, elderly women, active exoskeleton."
       },
       "context": {
         "en": "medisch - valpreventie",
@@ -2065,10 +2339,14 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "healthcare"
+        "healthcare",
+        "hip-fracture-prevention",
+        "osteoporosis",
+        "elderly-women",
+        "active-exoskeleton"
       ],
       "assets": {
-        "thumbnail": "assets/generated/instagram-previews/kex-70-ellen-bruyninckx-01.png",
+        "thumbnail": "assets/generated/poster-previews/kex-70-ellen-bruyninckx-00.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kex-70-ellen-bruyninckx-00.png",
         "presentation": "",
@@ -2085,12 +2363,12 @@ export const content = {
       "student": "Laura Verbeeck",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for Bewoners Samenwoonproject",
-        "nl": "Circulaire Sensor voor Bewoners Samenwoonproject"
+        "en": "Circular Sensor for Co-Housing Communities",
+        "nl": "Circular Sensor for Co-Housing Communities"
       },
       "summary": {
-        "nl": "Laura Verbeeck ontwikkelde een modulair sensorsysteem voor Bewoners Samenwoonproject, binnen de context tuinieren. Het presentatiemateriaal legt de nadruk op Zelfstandig en elk apart maar toch met. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Laura Verbeeck developed a modular sensor system for the target group 'Bewoners Samenwoonproject' in the context of 'tuinieren'. The presentation material highlights Zelfstandig en elk apart maar toch met. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "This circular sensor targets the emerging niche of co-housing developments — multigenerational shared living projects where diverse family structures live independently yet together — providing soil and environmental monitoring for shared garden and living spaces. The design values simplicity above all, with a second-life module concept, companion app, and replaceable parts, making it financially and technically accessible for intentional communities with modest technology budgets. By giving residents shared data about their communal environment, the sensor strengthens the social cohesion and shared stewardship that define successful co-housing communities.",
+        "nl": "Dit Bachelorproefproject rond Circular Sensor for Co-Housing Communities ontwikkelt een circulair sensorsysteem voor Bewoners Samenwoonproject, binnen de context tuinieren. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: co-housing, shared living sensor, community garden, circular design."
       },
       "context": {
         "en": "tuinieren",
@@ -2104,7 +2382,11 @@ export const content = {
         "circularity",
         "data",
         "environment",
-        "sensor"
+        "sensor",
+        "co-housing",
+        "shared-living-sensor",
+        "community-garden",
+        "circular-design"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kcs-5-laura-verbeeck-00.png",
@@ -2112,7 +2394,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/kcs-5-laura-verbeeck-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/kcs-5-laura-verbeeck-00.png"
+          "assets/generated/instagram-previews/kcs-5-laura-verbeeck-01.jpg",
+          "assets/generated/instagram-previews/kcs-5-laura-verbeeck-02.jpg",
+          "assets/generated/instagram-previews/kcs-5-laura-verbeeck-03.jpg"
         ]
       }
     },
@@ -2123,12 +2407,12 @@ export const content = {
       "student": "Zoe Rosschaert",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for Studenten",
-        "nl": "Circulaire Sensor voor Studenten"
+        "en": "CitiSense – Acoustic Comfort Sensor for Student Housing",
+        "nl": "CitiSense – Acoustic Comfort Sensor for Student Housing"
       },
       "summary": {
-        "nl": "Zoe Rosschaert ontwikkelde een modulair sensorsysteem voor Studenten, binnen de context Studentenwoning - accoustiek. Het presentatiemateriaal legt de nadruk op Metingen door en voor burgers CS _01. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Zoe Rosschaert developed a modular sensor system for the target group 'Studenten' in the context of 'Studentenwoning - accoustiek'. The presentation material highlights Metingen door en voor burgers CS _01. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "CitiSense makes noise in shared living environments visible, measurable, and conversational, targeting the specific tension of shared student housing where noise is a source of conflict between flatmates, landlords, and academic researchers studying acoustic comfort. The product serves three user perspectives simultaneously: students who want noise to be discussable, landlords who want their tenants to coexist respectfully, and researchers who study how acoustic comfort affects student wellbeing and academic performance. By transforming subjective noise complaints into shared, objective data, CitiSense empowers student communities to self-regulate their sound environment constructively.",
+        "nl": "Dit Bachelorproefproject rond CitiSense – Acoustic Comfort Sensor for Student Housing ontwikkelt een circulair sensorsysteem voor Studenten, binnen de context Studentenwoning - accoustiek. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: acoustic comfort, student housing, noise monitoring, citizen science."
       },
       "context": {
         "en": "Studentenwoning - accoustiek",
@@ -2142,7 +2426,11 @@ export const content = {
         "circularity",
         "data",
         "education",
-        "sensor"
+        "sensor",
+        "acoustic-comfort",
+        "student-housing",
+        "noise-monitoring",
+        "citizen-science"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kcs-20-zoe-rosschaert-00.png",
@@ -2161,12 +2449,12 @@ export const content = {
       "student": "Tess Buts",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for tuinbouwer",
-        "nl": "Circulaire Sensor voor tuinbouwer"
+        "en": "Circular Sensor for Water and Soil Quality in Agriculture",
+        "nl": "Circular Sensor for Water and Soil Quality in Agriculture"
       },
       "summary": {
-        "nl": "Tess Buts ontwikkelde een modulair sensorsysteem voor tuinbouwer, binnen de context tuinbouw. Het presentatiemateriaal legt de nadruk op Meer inzicht in de kwaliteit. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Tess Buts developed a modular sensor system for the target group 'tuinbouwer' in the context of 'tuinbouw'. The presentation material highlights Meer inzicht in de kwaliteit. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "This circular sensor system gives agricultural users — primarily arable farmers and horticulturalists — deeper insight into the quality of both their water and soil, enabling targeted action rather than generic management decisions. The design prioritises low-tech operation, simple data analysis, intuitive use, and direct actionability, making precision environmental measurement accessible to farmers with no prior sensor experience. By closing the feedback loop between measurement and field action, the sensor supports more efficient fertilisation, irrigation, and soil management, contributing to both better yields and more sustainable land use.",
+        "nl": "Dit Bachelorproefproject rond Circular Sensor for Water and Soil Quality in Agriculture ontwikkelt een circulair sensorsysteem voor tuinbouwer, binnen de context tuinbouw. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: soil quality, water quality, agricultural sensor, precision farming."
       },
       "context": {
         "en": "tuinbouw",
@@ -2180,7 +2468,11 @@ export const content = {
         "circularity",
         "data",
         "environment",
-        "sensor"
+        "sensor",
+        "soil-quality",
+        "water-quality",
+        "agricultural-sensor",
+        "precision-farming"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kcs-25-tess-buts-00.png",
@@ -2188,7 +2480,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/kcs-25-tess-buts-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/kcs-25-tess-buts-00.png"
+          "assets/generated/instagram-previews/kcs-25-tess-buts-01.jpg",
+          "assets/generated/instagram-previews/kcs-25-tess-buts-02.jpg",
+          "assets/generated/instagram-previews/kcs-25-tess-buts-03.jpg"
         ]
       }
     },
@@ -2199,12 +2493,12 @@ export const content = {
       "student": "Rene Romandic",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for pakketbezorger",
-        "nl": "Exoskelet voor pakketbezorger"
+        "en": "MOVEX – Passive Back Exoskeleton for Parcel Delivery Couriers",
+        "nl": "MOVEX – Passive Back Exoskeleton for Parcel Delivery Couriers"
       },
       "summary": {
-        "nl": "Rene Romandic ontwikkelde een draagbaar ondersteuningssysteem voor pakketbezorger, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op - 100+ leveringen per dag. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Rene Romandic developed a wearable support system for the target group 'pakketbezorger' in the context of 'Werkondersteuning'. The presentation material highlights - 100+ leveringen per dag. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Parcel delivery couriers perform over 100 urban stops per day, cycling through an exhausting sequence of sitting, stepping in and out, forward bending, lifting, and trunk rotation that accumulates into significant lumbar strain and long-term back injury risk. MOVEX is a passive back exoskeleton with a flat lumbar module and progressive support at deeper bending angles, designed around male DINED anthropometric data for the 90% male urban delivery workforce, with provision for future sizing expansion. The flexible hip zone and cable routing system ensure that the exoskeleton never creates a timing loss during rapid delivery sequences, making adoption practical and sustainable across a full working day.",
+        "nl": "Dit Bachelorproefproject rond MOVEX – Passive Back Exoskeleton for Parcel Delivery Couriers ontwikkelt een draagbaar ondersteuningssysteem voor pakketbezorger, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: parcel delivery, back exoskeleton, urban logistics, passive support."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -2218,7 +2512,11 @@ export const content = {
         "ergonomics",
         "exoskeleton",
         "healthcare",
-        "workplace"
+        "workplace",
+        "parcel-delivery",
+        "back-exoskeleton",
+        "urban-logistics",
+        "passive-support"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-45-rene-romandic-00.png",
@@ -2226,7 +2524,8 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/kex-45-rene-romandic-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/kex-45-rene-romandic-00.png"
+          "assets/generated/instagram-previews/kex-45-rene-romandic-01.jpg",
+          "assets/generated/instagram-previews/kex-45-rene-romandic-02.jpg"
         ]
       }
     },
@@ -2237,12 +2536,12 @@ export const content = {
       "student": "Lune Eeckhoudt",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for zwangere vrouw",
-        "nl": "Exoskelet voor zwangere vrouw"
+        "en": "Lumbopelvic Exoskeleton for Pregnant Women with Severe Pain",
+        "nl": "Lumbopelvic Exoskeleton for Pregnant Women with Severe Pain"
       },
       "summary": {
-        "nl": "Lune Eeckhoudt ontwikkelde een draagbaar ondersteuningssysteem voor zwangere vrouw, binnen de context medisch - lage rugpijn. Het presentatiemateriaal legt de nadruk op l a g e r u g p i j n b e k k e n p. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Lune Eeckhoudt developed a wearable support system for the target group 'zwangere vrouw' in the context of 'medisch - lage rugpijn'. The presentation material highlights l a g e r u g p i j n b e k k e n p. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Severe lumbopelvic pain affects 14–22% of pregnant women with pelvic girdle pain and approximately 33% with serious lower back pain, both conditions worsening as pregnancy progresses through increased joint laxity and anterior weight shift. This exoskeleton specifically targets the final phase of pregnancy where pain is most debilitating, promoting autonomy in daily activities and social participation through targeted pelvic and lumbar stabilisation. The design responds to the biomechanical reality of an anteriorly rotating pelvis and hyperlordotic lumbar spine, providing support that adapts to a continuously changing body.",
+        "nl": "Dit Bachelorproefproject rond Lumbopelvic Exoskeleton for Pregnant Women with Severe Pain ontwikkelt een draagbaar ondersteuningssysteem voor zwangere vrouw, binnen de context medisch - lage rugpijn. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: pregnancy pain, pelvic girdle pain, lumbopelvic exoskeleton, maternal autonomy."
       },
       "context": {
         "en": "medisch - lage rugpijn",
@@ -2255,7 +2554,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "healthcare"
+        "healthcare",
+        "pregnancy-pain",
+        "pelvic-girdle-pain",
+        "lumbopelvic-exoskeleton",
+        "maternal-autonomy"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-50-lune-eeckhoudt-00.png",
@@ -2263,7 +2566,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/kex-50-lune-eeckhoudt-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/kex-50-lune-eeckhoudt-00.png"
+          "assets/generated/instagram-previews/kex-50-lune-eeckhoudt-01.jpg",
+          "assets/generated/instagram-previews/kex-50-lune-eeckhoudt-02.jpg",
+          "assets/generated/instagram-previews/kex-50-lune-eeckhoudt-03.jpg"
         ]
       }
     },
@@ -2274,12 +2579,12 @@ export const content = {
       "student": "Louis DeBie",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for restaurateur schilderwerken kunst",
-        "nl": "Exoskelet voor restaurateur schilderwerken kunst"
+        "en": "Restora – Passive Exoskeleton for Mural Restoration Specialists",
+        "nl": "Restora – Passive Exoskeleton for Mural Restoration Specialists"
       },
       "summary": {
-        "nl": "Louis DeBie ontwikkelde een draagbaar ondersteuningssysteem voor restaurateur schilderwerken kunst, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op voor restauratie van muurschilderingen. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Louis DeBie developed a wearable support system for the target group 'restaurateur schilderwerken kunst' in the context of 'Werkondersteuning'. The presentation material highlights voor restauratie van muurschilderingen. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Restora is a passive exoskeleton designed for art restorers who spend days to weeks maintaining the same repetitive postures and performing the same overhead and lateral arm movements while working on in-situ mural restoration. The product addresses the occupational health gap in cultural heritage conservation, where specialists face cumulative musculoskeletal risk with no ergonomic tools currently tailored to their unique working postures and contexts. With the tagline \"You restore the art, Restora the artist,\" the product protects the physical health of conservation professionals while preserving their artistic precision and freedom of movement.",
+        "nl": "Dit Bachelorproefproject rond Restora – Passive Exoskeleton for Mural Restoration Specialists ontwikkelt een draagbaar ondersteuningssysteem voor restaurateur schilderwerken kunst, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: mural restoration, passive exoskeleton, heritage conservation, repetitive strain."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -2292,7 +2597,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "mural-restoration",
+        "passive-exoskeleton",
+        "heritage-conservation",
+        "repetitive-strain"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-55-louis-debie-00.png",
@@ -2300,7 +2609,10 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/kex-55-louis-debie-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/kex-55-louis-debie-00.png"
+          "assets/generated/instagram-previews/kex-55-louis-debie-01.jpg",
+          "assets/generated/instagram-previews/kex-55-louis-debie-02.jpg",
+          "assets/generated/instagram-previews/kex-55-louis-debie-03.jpg",
+          "assets/generated/instagram-previews/kex-55-louis-debie-04.jpg"
         ]
       }
     },
@@ -2311,12 +2623,12 @@ export const content = {
       "student": "Jesse Roels",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for Buurtbewoners",
-        "nl": "Circulaire Sensor voor Buurtbewoners"
+        "en": "Modular Air Quality Sensor for Street Canyon Residents",
+        "nl": "Modular Air Quality Sensor for Street Canyon Residents"
       },
       "summary": {
-        "nl": "Jesse Roels ontwikkelde een modulair sensorsysteem voor Buurtbewoners, binnen de context Street canyoning - lucht. Het presentatiemateriaal legt de nadruk op Bewoners Street Canyon. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Jesse Roels developed a modular sensor system for the target group 'Buurtbewoners' in the context of 'Street canyoning - lucht'. The presentation material highlights Bewoners Street Canyon. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "This modular circular sensor targets residents of urban street canyons — narrow streets flanked by tall buildings where wind vortices trap nitrogen oxides and fine particulate matter at concentrations far above VMM monitoring stations' measurements. The primary user is a health-conscious resident or renter without a ventilation system, for whom current city-level air quality data is insufficiently localised to support personal health decisions. With a minimalist, lamellated stainless steel aesthetic and a modular architecture, the sensor provides accurate hyper-local air quality data while integrating discreetly into urban residential facades.",
+        "nl": "Dit Bachelorproefproject rond Modular Air Quality Sensor for Street Canyon Residents ontwikkelt een circulair sensorsysteem voor Buurtbewoners, binnen de context Street canyoning - lucht. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: street canyon, air quality, modular sensor, hyper-local monitoring."
       },
       "context": {
         "en": "Street canyoning - lucht",
@@ -2330,7 +2642,10 @@ export const content = {
         "air-quality",
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "street-canyon",
+        "modular-sensor",
+        "hyper-local-monitoring"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kcs-30-jesse-roels-00.png",
@@ -2338,7 +2653,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/kcs-30-jesse-roels-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/kcs-30-jesse-roels-00.png"
+          "assets/generated/instagram-previews/kcs-30-jesse-roels-01.jpg",
+          "assets/generated/instagram-previews/kcs-30-jesse-roels-02.jpg",
+          "assets/generated/instagram-previews/kcs-30-jesse-roels-03.jpg"
         ]
       }
     },
@@ -2349,12 +2666,12 @@ export const content = {
       "student": "Auke Proot",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for Volkstuinierder",
-        "nl": "Circulaire Sensor voor Volkstuinierder"
+        "en": "Soil Quality Sensor for Urban Allotment Gardens",
+        "nl": "Soil Quality Sensor for Urban Allotment Gardens"
       },
       "summary": {
-        "nl": "Auke Proot ontwikkelde een modulair sensorsysteem voor Volkstuinierder, binnen de context Stadsmoestuin/grond. Het presentatiemateriaal legt de nadruk op Hoe gezond zijn de groenten uit mijn stadsmoestuin. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Auke Proot developed a modular sensor system for the target group 'Volkstuinierder' in the context of 'Stadsmoestuin/grond'. The presentation material highlights Hoe gezond zijn de groenten uit mijn stadsmoestuin. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "This circular sensor addresses the central question of urban allotment gardeners: \"How healthy are the vegetables from my urban garden, and how can I improve this?\" The system monitors soil pH, nutrient availability, and heavy metal risk — the three primary factors influenced by urban soil history, air pollution, and parent material — providing allotment owners and city administrators with actionable data on food safety and soil health. Designed for both new and established allotment owners, the sensor supports the city's interest in avoiding extreme soil contamination situations while empowering residents to grow more safely and sustainably.",
+        "nl": "Dit Bachelorproefproject rond Soil Quality Sensor for Urban Allotment Gardens ontwikkelt een circulair sensorsysteem voor Volkstuinierder, binnen de context Stadsmoestuin/grond. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: urban allotment, soil health, food safety, circular sensor."
       },
       "context": {
         "en": "Stadsmoestuin/grond",
@@ -2368,7 +2685,11 @@ export const content = {
         "circularity",
         "data",
         "environment",
-        "sensor"
+        "sensor",
+        "urban-allotment",
+        "soil-health",
+        "food-safety",
+        "circular-sensor"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kcs-35-auke-proot-00.png",
@@ -2376,7 +2697,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/kcs-35-auke-proot-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/kcs-35-auke-proot-00.png"
+          "assets/generated/instagram-previews/kcs-35-auke-proot-01.jpg",
+          "assets/generated/instagram-previews/kcs-35-auke-proot-02.jpg",
+          "assets/generated/instagram-previews/kcs-35-auke-proot-03.jpg"
         ]
       }
     },
@@ -2387,12 +2710,12 @@ export const content = {
       "student": "Delphine Marien",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for Sporter",
-        "nl": "Circulaire Sensor voor Sporter"
+        "en": "Air Quality Sensor for Small Fitness Spaces",
+        "nl": "Air Quality Sensor for Small Fitness Spaces"
       },
       "summary": {
-        "nl": "Delphine Marien ontwikkelde een modulair sensorsysteem voor Sporter, binnen de context Indoor sport - luchtkwaliteit. Het presentatiemateriaal legt de nadruk op B r e a t h e b e t t e r. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Delphine Marien developed a modular sensor system for the target group 'Sporter' in the context of 'Indoor sport - luchtkwaliteit'. The presentation material highlights B r e a t h e b e t t e r. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "This circular sensor addresses indoor air quality in small fitness rooms of 30–100 m², where intensive group exercise in a poorly ventilated metal-framed space causes CO2 accumulation, body odour, temperature rise, and humidity buildup that users cannot perceive but that directly cause fatigue and reduced performance. The system monitors CO2, humidity, temperature, and body odour in real time, answering the question \"How healthy is it to exercise in a small space with multiple people?\" and enabling gym operators to take timely ventilation action. Designed for compact sports spaces where renting a large studio is not feasible, the sensor supports both individual health and group performance outcomes.",
+        "nl": "Dit Bachelorproefproject rond Air Quality Sensor for Small Fitness Spaces ontwikkelt een circulair sensorsysteem voor Sporter, binnen de context Indoor sport - luchtkwaliteit. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: fitness air quality, CO2 monitoring, indoor sports, small gym sensor."
       },
       "context": {
         "en": "Indoor sport - luchtkwaliteit",
@@ -2406,7 +2729,11 @@ export const content = {
         "air-quality",
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "fitness-air-quality",
+        "co2-monitoring",
+        "indoor-sports",
+        "small-gym-sensor"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kcs-40-delphine-marien-00.png",
@@ -2414,7 +2741,8 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/kcs-40-delphine-marien-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/kcs-40-delphine-marien-00.png"
+          "assets/generated/instagram-previews/kcs-40-delphine-marien-01.jpg",
+          "assets/generated/instagram-previews/kcs-40-delphine-marien-02.jpg"
         ]
       }
     },
@@ -2425,12 +2753,12 @@ export const content = {
       "student": "Nenna Walraevens",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for medical evacuation",
-        "nl": "Exoskelet voor medical evacuation"
+        "en": "Fulcrum – Exoskeleton for Military MEDEVAC Personnel",
+        "nl": "Fulcrum – Exoskeleton for Military MEDEVAC Personnel"
       },
       "summary": {
-        "nl": "Nenna Walraevens ontwikkelde een draagbaar ondersteuningssysteem voor medical evacuation, binnen de context Werkondersteuning - militair. Het presentatiemateriaal legt de nadruk op Schijven waardat as doorgeduwd. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Nenna Walraevens developed a wearable support system for the target group 'medical evacuation' in the context of 'Werkondersteuning - militair'. The presentation material highlights Schijven waardat as doorgeduwd. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Fulcrum is an exoskeleton designed for MEDEVAC military medics who must evacuate casualties from active combat zones while carrying their own equipment and providing emergency care under extreme physical and operational stress. The design drivers focus on four priorities: no restriction of movement freedom, reduction of muscular effort during casualty extraction, fail-safe operation ensuring the user can never become trapped, and minimal external volume for use in confined vehicles and terrain. Fulcrum operates at the intersection of military performance equipment and medical ergonomics, addressing a critically underserved need in combat casualty care.",
+        "nl": "Dit Bachelorproefproject rond Fulcrum – Exoskeleton for Military MEDEVAC Personnel ontwikkelt een draagbaar ondersteuningssysteem voor medical evacuation, binnen de context Werkondersteuning - militair. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: military exoskeleton, MEDEVAC, casualty evacuation, combat ergonomics."
       },
       "context": {
         "en": "Werkondersteuning - militair",
@@ -2443,7 +2771,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "military-exoskeleton",
+        "medevac",
+        "casualty-evacuation",
+        "combat-ergonomics"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-75-nenna-walraevens-00.png",
@@ -2451,7 +2783,8 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/kex-75-nenna-walraevens-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/kex-75-nenna-walraevens-00.png"
+          "assets/generated/instagram-previews/kex-75-nenna-walraevens-01.jpg",
+          "assets/generated/instagram-previews/kex-75-nenna-walraevens-02.jpg"
         ]
       }
     },
@@ -2462,12 +2795,12 @@ export const content = {
       "student": "Jean Gielen",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for cameraman",
-        "nl": "Exoskelet voor cameraman"
+        "en": "LECTO – Compact Camera Load Exoskeleton for Cinematographers",
+        "nl": "LECTO – Compact Camera Load Exoskeleton for Cinematographers"
       },
       "summary": {
-        "nl": "Jean Gielen ontwikkelde een draagbaar ondersteuningssysteem voor cameraman, binnen de context Werkondersteuning. Het presentatiemateriaal legt de nadruk op Camera van 10-15 kg. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Jean Gielen developed a wearable support system for the target group 'cameraman' in the context of 'Werkondersteuning'. The presentation material highlights Camera van 10-15 kg. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "LECTO is an exoskeleton designed for documentary and reportage camera operators who work with cameras weighing 10–15 kg across long shifts in unpredictable, cramped, and dynamic filming locations. Unlike existing easy-rigs and camera support systems that offload weight but create new operational problems — excessive volume in tight spaces, restricted camera movement, and collision risk — LECTO prioritises maximum camera load relief in the smallest possible external footprint. The design specifically addresses the asymmetric loading and long-shift musculoskeletal consequences faced by field cinematographers who need to move freely in environments ranging from narrow corridors to open terrain.",
+        "nl": "Dit Bachelorproefproject rond LECTO – Compact Camera Load Exoskeleton for Cinematographers ontwikkelt een draagbaar ondersteuningssysteem voor cameraman, binnen de context Werkondersteuning. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: camera operator, cinematography support, exoskeleton, load relief."
       },
       "context": {
         "en": "Werkondersteuning",
@@ -2480,7 +2813,10 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "camera-operator",
+        "cinematography-support",
+        "load-relief"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-80-jean-gielen-00.png",
@@ -2488,7 +2824,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/kex-80-jean-gielen-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/kex-80-jean-gielen-00.png"
+          "assets/generated/instagram-previews/kex-80-jean-gielen-01.jpg",
+          "assets/generated/instagram-previews/kex-80-jean-gielen-02.jpg",
+          "assets/generated/instagram-previews/kex-80-jean-gielen-03.jpg"
         ]
       }
     },
@@ -2499,12 +2837,12 @@ export const content = {
       "student": "Alea Grutzner",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for kinderen dropfoot",
-        "nl": "Exoskelet voor kinderen dropfoot"
+        "en": "EVO – Quasi-Passive Exoskeleton for Drop Foot Patients",
+        "nl": "EVO – Quasi-Passive Exoskeleton for Drop Foot Patients"
       },
       "summary": {
-        "nl": "Alea Grutzner ontwikkelde een draagbaar ondersteuningssysteem voor kinderen dropfoot, binnen de context medisch. Het presentatiemateriaal legt de nadruk op q u a s i - p a s s i e v e. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Alea Grutzner developed a wearable support system for the target group 'kinderen dropfoot' in the context of 'medisch'. The presentation material highlights q u a s i - p a s s i e v e. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "EVO is a quasi-passive exoskeleton designed for drop foot patients with MRC muscle paralysis levels 0–3, providing 60–70% push-off support and a 1.2 Nm extension moment to prevent foot dragging and foot slap during the full gait cycle. Weighing just 850 g and engineered for 5 years of daily use including up to 4 hours of active walking (14,400 steps), EVO delivers meaningful functional restoration in a stigma-free, compact form that integrates discreetly with daily clothing. The quasi-passive design harvests and returns energy across the gait cycle, reducing battery dependency while matching the biomechanical demands of real-world daily mobility.",
+        "nl": "Dit Bachelorproefproject rond EVO – Quasi-Passive Exoskeleton for Drop Foot Patients ontwikkelt een draagbaar ondersteuningssysteem voor kinderen dropfoot, binnen de context medisch. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: drop foot, quasi-passive exoskeleton, gait restoration, energy harvesting."
       },
       "context": {
         "en": "medisch",
@@ -2517,7 +2855,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "healthcare"
+        "healthcare",
+        "drop-foot",
+        "quasi-passive-exoskeleton",
+        "gait-restoration",
+        "energy-harvesting"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-85-alea-grutzner-00.png",
@@ -2525,7 +2867,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/kex-85-alea-grutzner-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/kex-85-alea-grutzner-00.png"
+          "assets/generated/instagram-previews/kex-85-alea-grutzner-01.jpg",
+          "assets/generated/instagram-previews/kex-85-alea-grutzner-02.jpg",
+          "assets/generated/instagram-previews/kex-85-alea-grutzner-03.jpg"
         ]
       }
     },
@@ -2536,12 +2880,12 @@ export const content = {
       "student": "Arben Mariyanov",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for kinderen dropfoot",
-        "nl": "Exoskelet voor kinderen dropfoot"
+        "en": "Paediatric Ankle-Foot Exoskeleton for Cerebral Palsy",
+        "nl": "Paediatric Ankle-Foot Exoskeleton for Cerebral Palsy"
       },
       "summary": {
-        "nl": "Arben Mariyanov ontwikkelde een draagbaar ondersteuningssysteem voor kinderen dropfoot, binnen de context medisch. Het presentatiemateriaal legt de nadruk op Omdat mobiliteit een recht is. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Arben Mariyanov developed a wearable support system for the target group 'kinderen dropfoot' in the context of 'medisch'. The presentation material highlights Omdat mobiliteit een recht is. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "This exoskeleton targets children aged 6–12 with cerebral palsy at GMFCS mobility levels I and II, addressing both Type I (drop foot/dorsal flexion deficit in swing phase) and Type II (combined drop foot and spastic equinus/plantarflexion deficit in stance phase) gait abnormalities. Designed for daily use during the school day — across the classroom and playground — the device must stay within 7% of the child's body weight, follow a logical and child-manageable donning sequence, and maintain robust durability appropriate for an active school environment. The product addresses mobility as a right, supporting children's participation in everyday school life through technology that moves with them rather than restricting them.",
+        "nl": "Dit Bachelorproefproject rond Paediatric Ankle-Foot Exoskeleton for Cerebral Palsy ontwikkelt een draagbaar ondersteuningssysteem voor kinderen dropfoot, binnen de context medisch. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: cerebral palsy, paediatric exoskeleton, ankle-foot orthosis, school mobility."
       },
       "context": {
         "en": "medisch",
@@ -2554,7 +2898,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "healthcare"
+        "healthcare",
+        "cerebral-palsy",
+        "paediatric-exoskeleton",
+        "ankle-foot-orthosis",
+        "school-mobility"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-86-arben-mariyanov-00.png",
@@ -2562,7 +2910,10 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/kex-86-arben-mariyanov-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/kex-86-arben-mariyanov-00.png"
+          "assets/generated/instagram-previews/kex-86-arben-mariyanov-01.jpg",
+          "assets/generated/instagram-previews/kex-86-arben-mariyanov-02.jpg",
+          "assets/generated/instagram-previews/kex-86-arben-mariyanov-03.jpg",
+          "assets/generated/instagram-previews/kex-86-arben-mariyanov-04.jpg"
         ]
       }
     },
@@ -2573,12 +2924,12 @@ export const content = {
       "student": "Lore Suys",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for semiproffesionele hardlopers",
-        "nl": "Exoskelet voor semiproffesionele hardlopers"
+        "en": "Exoskeleton for Runners with Shin Splints",
+        "nl": "Exoskeleton for Runners with Shin Splints"
       },
       "summary": {
-        "nl": "Lore Suys ontwikkelde een draagbaar ondersteuningssysteem voor semiproffesionele hardlopers, binnen de context druk op scheenbeen verminderen-shinnplints. Het presentatiemateriaal legt de nadruk op Ontlast je scheenbeen behoud je training. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Lore Suys developed a wearable support system for the target group 'semiproffesionele hardlopers' in the context of 'druk op scheenbeen verminderen-shinnplints'. The presentation material highlights Ontlast je scheenbeen behoud je training. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Shin splints — medial tibial stress syndrome — affect runners who increase training volume too rapidly, train on hard surfaces, or use worn footwear, causing painful overload of the tibial periosteum that forces a reduction or halt in training. This exoskeleton targets semi-professional runners aged 18–45 with mild to moderate shin splints who train 3–6 times per week and wish to maintain some form of running during recovery rather than stopping completely. By offloading the tibialis anterior, tibialis posterior, and soleus muscles during the running cycle, the device enables continued training at reduced impact, supporting both physical recovery and the psychological needs of committed athletes.",
+        "nl": "Dit Bachelorproefproject rond Exoskeleton for Runners with Shin Splints ontwikkelt een draagbaar ondersteuningssysteem voor semiproffesionele hardlopers, binnen de context druk op scheenbeen verminderen-shinnplints. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: shin splints, running exoskeleton, tibial stress, training rehabilitation."
       },
       "context": {
         "en": "druk op scheenbeen verminderen-shinnplints",
@@ -2591,7 +2942,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "sports"
+        "sports",
+        "shin-splints",
+        "running-exoskeleton",
+        "tibial-stress",
+        "training-rehabilitation"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pex-47-lore-suys-00.png",
@@ -2599,7 +2954,10 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/pex-47-lore-suys-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/pex-47-lore-suys-00.png"
+          "assets/generated/instagram-previews/pex-47-lore-suys-01.jpg",
+          "assets/generated/instagram-previews/pex-47-lore-suys-02.jpg",
+          "assets/generated/instagram-previews/pex-47-lore-suys-03.jpg",
+          "assets/generated/instagram-previews/pex-47-lore-suys-04.jpg"
         ]
       }
     },
@@ -2610,12 +2968,12 @@ export const content = {
       "student": "Maurits Joos",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for Militairen",
-        "nl": "Exoskelet voor Militairen"
+        "en": "Blast Protection Helmet Exoskeleton for Military Breachers",
+        "nl": "Blast Protection Helmet Exoskeleton for Military Breachers"
       },
       "summary": {
-        "nl": "Maurits Joos ontwikkelde een draagbaar ondersteuningssysteem voor Militairen, binnen de context opvangen explosiedruk. Het presentatiemateriaal legt de nadruk op Wie zijn breachers. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Maurits Joos developed a wearable support system for the target group 'Militairen' in the context of 'opvangen explosiedruk'. The presentation material highlights Wie zijn breachers. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Military breachers — specialists in explosive forced entry — are exposed to 100–600 blast waves per year, with 60% of military traumatic brain injuries being blast-related and 77% of TBI cases occurring in soldiers who were wearing helmets at the time. This exoskeleton-integrated head protection system targets the orofacial and cervical pathway through which blast shockwaves reach the brain via blood vessels, a route that standard ballistic helmets do not address. Designed for use in training missions in Zone Mortalis conditions, the device meets military mobility standards while providing medically tracked, cumulative blast exposure protection for operators and instructors alike.",
+        "nl": "Dit Bachelorproefproject rond Blast Protection Helmet Exoskeleton for Military Breachers ontwikkelt een draagbaar ondersteuningssysteem voor Militairen, binnen de context opvangen explosiedruk. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: blast protection, military TBI, breacher safety, head exoskeleton."
       },
       "context": {
         "en": "opvangen explosiedruk",
@@ -2627,7 +2985,11 @@ export const content = {
       },
       "tags": [
         "ergonomics",
-        "exoskeleton"
+        "exoskeleton",
+        "blast-protection",
+        "military-tbi",
+        "breacher-safety",
+        "head-exoskeleton"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pex-52-maurits-joos-00.png",
@@ -2635,7 +2997,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/pex-52-maurits-joos-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/pex-52-maurits-joos-00.png"
+          "assets/generated/instagram-previews/pex-52-maurits-joos-01.jpg",
+          "assets/generated/instagram-previews/pex-52-maurits-joos-02.jpg",
+          "assets/generated/instagram-previews/pex-52-maurits-joos-03.jpg"
         ]
       }
     },
@@ -2646,12 +3010,12 @@ export const content = {
       "student": "Andres Carton",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for beroerte/orthopedische conditie",
-        "nl": "Exoskelet voor beroerte/orthopedische conditie"
+        "en": "Elbow and Wrist Exoskeleton for Arm Injury Rehabilitation",
+        "nl": "Elbow and Wrist Exoskeleton for Arm Injury Rehabilitation"
       },
       "summary": {
-        "nl": "Andres Carton ontwikkelde een draagbaar ondersteuningssysteem voor beroerte/orthopedische conditie, binnen de context verminderde armfunctie/fysieke armassistentie. Het presentatiemateriaal legt de nadruk op vormt een obstructie voor dagelijkse taken. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Andres Carton developed a wearable support system for the target group 'beroerte/orthopedische conditie' in the context of 'verminderde armfunctie/fysieke armassistentie'. The presentation material highlights vormt een obstructie voor dagelijkse taken. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "This exoskeleton supports users recovering from arm injuries — including UCL rupture, tennis elbow, golfer's elbow, tendinitis, bursitis, and post-stroke conditions — who need to maintain daily autonomy during the rehabilitation process. Designed for unilateral operation and stigma-free aesthetics that blend into everyday clothing, the device provides natural movement support that aids recovery without creating dependency or social visibility. The product prioritises autonomous control, all-day wearing comfort, and compatibility with a range of daily tasks, enabling users to continue functioning independently while their arm heals.",
+        "nl": "Dit Bachelorproefproject rond Elbow and Wrist Exoskeleton for Arm Injury Rehabilitation ontwikkelt een draagbaar ondersteuningssysteem voor beroerte/orthopedische conditie, binnen de context verminderde armfunctie/fysieke armassistentie. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: arm rehabilitation, elbow exoskeleton, unilateral operation, stigma-free design."
       },
       "context": {
         "en": "verminderde armfunctie/fysieke armassistentie",
@@ -2663,7 +3027,11 @@ export const content = {
       },
       "tags": [
         "ergonomics",
-        "exoskeleton"
+        "exoskeleton",
+        "arm-rehabilitation",
+        "elbow-exoskeleton",
+        "unilateral-operation",
+        "stigma-free-design"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pex-57-andres-carton-00.png",
@@ -2671,7 +3039,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/pex-57-andres-carton-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/pex-57-andres-carton-00.png"
+          "assets/generated/instagram-previews/pex-57-andres-carton-01.jpg",
+          "assets/generated/instagram-previews/pex-57-andres-carton-02.jpg",
+          "assets/generated/instagram-previews/pex-57-andres-carton-03.jpg"
         ]
       }
     },
@@ -2682,12 +3052,12 @@ export const content = {
       "student": "Felix Roels",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for particuliere tuin kinderen ouders",
-        "nl": "Circulaire Sensor voor particuliere tuin kinderen ouders"
+        "en": "Children's Soil Sensor for Private Garden Education",
+        "nl": "Children's Soil Sensor for Private Garden Education"
       },
       "summary": {
-        "nl": "Felix Roels ontwikkelde een modulair sensorsysteem voor particuliere tuin kinderen ouders, binnen de context bodemtemp/bodemvochtigheid. Het presentatiemateriaal legt de nadruk op Universal Design Inclusiviteit. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Felix Roels developed a modular sensor system for the target group 'particuliere tuin kinderen ouders' in the context of 'bodemtemp/bodemvochtigheid'. The presentation material highlights Universal Design Inclusiviteit. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "This circular sensor is designed for children aged 6–12 and their parents aged 30–45, enabling soil temperature and moisture monitoring in private home gardens as a hands-on STEM learning activity. Five design drivers guide the product: universal inclusive design, education through interaction, low-complexity \"keep it simple\" operation, robustness and weatherproofing, and design for disassembly enabling future circular reuse. The result is a tool-free, child-friendly, and weather-resistant sensor that makes underground soil conditions visible and understandable to young learners, fostering both environmental curiosity and ecological stewardship.",
+        "nl": "Dit Bachelorproefproject rond Children's Soil Sensor for Private Garden Education ontwikkelt een circulair sensorsysteem voor particuliere tuin kinderen ouders, binnen de context bodemtemp/bodemvochtigheid. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: children's garden, soil sensor, STEM education, circular design."
       },
       "context": {
         "en": "bodemtemp/bodemvochtigheid",
@@ -2701,7 +3071,11 @@ export const content = {
         "circularity",
         "data",
         "environment",
-        "sensor"
+        "sensor",
+        "children-s-garden",
+        "soil-sensor",
+        "stem-education",
+        "circular-design"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pcs-2-felix-roels-00.png",
@@ -2709,7 +3083,8 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/pcs-2-felix-roels-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/pcs-2-felix-roels-00.png"
+          "assets/generated/instagram-previews/pcs-2-felix-roels-01.jpg",
+          "assets/generated/instagram-previews/pcs-2-felix-roels-02.jpg"
         ]
       }
     },
@@ -2720,12 +3095,12 @@ export const content = {
       "student": "Amy VanThiel",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for burgers",
-        "nl": "Circulaire Sensor voor burgers"
+        "en": "ZORA – Night-Time Citizen Science Sensor",
+        "nl": "ZORA – Night-Time Citizen Science Sensor"
       },
       "summary": {
-        "nl": "Amy VanThiel ontwikkelde een modulair sensorsysteem voor burgers, binnen de context nacht/luchtvochtigheid-lichtvervuiling-bewolking-temp-vleermuisactiviteit. Het presentatiemateriaal legt de nadruk op c i t i z e n s c i e n c e s e n s. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Amy VanThiel developed a modular sensor system for the target group 'burgers' in the context of 'nacht/luchtvochtigheid-lichtvervuiling-bewolking-temp-vleermuisactiviteit'. The presentation material highlights c i t i z e n s c i e n c e s e n s. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "ZORA is a modular citizen science sensor system designed specifically for night-time environmental measurements, addressing the fact that only 15% of current sensing activity targets nocturnal patterns despite 100% of bat activity and significantly more insect activity occurring after dark. The system measures sky quality (SQM + IR), heart rate and temperature (HR + TEMP), and ultrasound for bat detection, providing a complete nocturnal biodiversity and light pollution monitoring toolkit. With an accessible, modular, and community-engaged design, ZORA closes the structural measurement gap in nighttime ecology and invites citizens to discover and document the life of their local environment after dark.",
+        "nl": "Dit Bachelorproefproject rond ZORA – Night-Time Citizen Science Sensor ontwikkelt een circulair sensorsysteem voor burgers, binnen de context nacht/luchtvochtigheid-lichtvervuiling-bewolking-temp-vleermuisactiviteit. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: night monitoring, light pollution, bat detection, citizen science."
       },
       "context": {
         "en": "nacht/luchtvochtigheid-lichtvervuiling-bewolking-temp-vleermuisactiviteit",
@@ -2739,7 +3114,11 @@ export const content = {
         "air-quality",
         "circularity",
         "data",
-        "sensor"
+        "sensor",
+        "night-monitoring",
+        "light-pollution",
+        "bat-detection",
+        "citizen-science"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pcs-17-amy-vanthiel-00.png",
@@ -2747,7 +3126,8 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/pcs-17-amy-vanthiel-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/pcs-17-amy-vanthiel-00.png"
+          "assets/generated/instagram-previews/pcs-17-amy-vanthiel-01.jpg",
+          "assets/generated/instagram-previews/pcs-17-amy-vanthiel-02.jpg"
         ]
       }
     },
@@ -2758,12 +3138,12 @@ export const content = {
       "student": "Sam Daniels",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for burgers",
-        "nl": "Circulaire Sensor voor burgers"
+        "en": "Circular Sensor Assembly Kit for Citizen Science Data Collection",
+        "nl": "Circular Sensor Assembly Kit for Citizen Science Data Collection"
       },
       "summary": {
-        "nl": "Sam Daniels ontwikkelde een modulair sensorsysteem voor burgers, binnen de context buitenshuis lucht/water/bodem. Het presentatiemateriaal legt de nadruk op Verzenden en ontvangen. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Sam Daniels developed a modular sensor system for the target group 'burgers' in the context of 'buitenshuis lucht/water/bodem'. The presentation material highlights Verzenden en ontvangen. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "This project explores the concept of a citizen science sensor kit that users can assemble, program, reuse, and repair themselves, embodying circularity not just in materials but in the entire lifecycle of the sensing object. Participants collect and share data simply by using the sensor in their environment, while the modular hardware design supports reassembly, repair, and redistribution rather than disposal when the original use context ends. The project raises questions about the role of making and programming knowledge in citizen science participation, positioning hands-on sensor building as an empowering entry point for data literacy.",
+        "nl": "Dit Bachelorproefproject rond Circular Sensor Assembly Kit for Citizen Science Data Collection ontwikkelt een circulair sensorsysteem voor burgers, binnen de context buitenshuis lucht/water/bodem. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: circular sensor, DIY electronics, citizen science, data literacy."
       },
       "context": {
         "en": "buitenshuis lucht/water/bodem",
@@ -2778,7 +3158,11 @@ export const content = {
         "circularity",
         "data",
         "environment",
-        "sensor"
+        "sensor",
+        "circular-sensor",
+        "diy-electronics",
+        "citizen-science",
+        "data-literacy"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pcs-22-sam-daniels-00.png",
@@ -2786,7 +3170,10 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/pcs-22-sam-daniels-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/pcs-22-sam-daniels-00.png"
+          "assets/generated/instagram-previews/pcs-22-sam-daniels-01.jpg",
+          "assets/generated/instagram-previews/pcs-22-sam-daniels-02.jpg",
+          "assets/generated/instagram-previews/pcs-22-sam-daniels-03.jpg",
+          "assets/generated/instagram-previews/pcs-22-sam-daniels-04.jpg"
         ]
       }
     },
@@ -2797,12 +3184,12 @@ export const content = {
       "student": "Niels Kyriakides",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for thuisverpleegkundigen",
-        "nl": "Exoskelet voor thuisverpleegkundigen"
+        "en": "TENZO – Back Exoskeleton for Home Care Nurses",
+        "nl": "TENZO – Back Exoskeleton for Home Care Nurses"
       },
       "summary": {
-        "nl": "Niels Kyriakides ontwikkelde een draagbaar ondersteuningssysteem voor thuisverpleegkundigen, binnen de context thuiszorg. Het presentatiemateriaal legt de nadruk op thuisverpleegkundigen thuiszorg. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Niels Kyriakides developed a wearable support system for the target group 'thuisverpleegkundigen' in the context of 'thuiszorg'. The presentation material highlights thuisverpleegkundigen thuiszorg. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "TENZO is a back exoskeleton designed to make the heaviest care tasks lighter for home-visiting nurses, who face a 68% rate of lower back complaints from patient lifting, prolonged forward bending, and working in spatially constrained domestic environments. The design targets the specific challenges of home care — limited space, unadapted furniture heights, and varied patient needs — while maintaining a professional aesthetic and full freedom of movement for nurses who travel between patients throughout the day. TENZO addresses the critical shortage of ergonomic tools adapted to the home care context, where existing clinical-grade lifting aids are unavailable and nurses rely solely on their bodies.",
+        "nl": "Dit Bachelorproefproject rond TENZO – Back Exoskeleton for Home Care Nurses ontwikkelt een draagbaar ondersteuningssysteem voor thuisverpleegkundigen, binnen de context thuiszorg. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: home care, back exoskeleton, nursing ergonomics, lumbar support."
       },
       "context": {
         "en": "thuiszorg",
@@ -2815,7 +3202,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "healthcare"
+        "healthcare",
+        "home-care",
+        "back-exoskeleton",
+        "nursing-ergonomics",
+        "lumbar-support"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pex-77-niels-kyriakides-00.png",
@@ -2823,7 +3214,8 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/pex-77-niels-kyriakides-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/pex-77-niels-kyriakides-00.png"
+          "assets/generated/instagram-previews/pex-77-niels-kyriakides-01.jpg",
+          "assets/generated/instagram-previews/pex-77-niels-kyriakides-02.jpg"
         ]
       }
     },
@@ -2834,12 +3226,12 @@ export const content = {
       "student": "Arne Bosmans",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for senioren",
-        "nl": "Exoskelet voor senioren"
+        "en": "Knee Exoskeleton for Senior Gardeners",
+        "nl": "Knee Exoskeleton for Senior Gardeners"
       },
       "summary": {
-        "nl": "Arne Bosmans ontwikkelde een draagbaar ondersteuningssysteem voor senioren, binnen de context tuineren bukken rechtkomen. Het presentatiemateriaal legt de nadruk op tuinieren voor senioren. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Arne Bosmans developed a wearable support system for the target group 'senioren' in the context of 'tuineren bukken rechtkomen'. The presentation material highlights tuinieren voor senioren. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "This knee exoskeleton is designed for garden enthusiasts aged 65 and above who cultivate vegetable and hobby gardens and are experiencing knee osteoarthritis, approaching the project with scepticism toward technology and a deep desire to preserve their independence and outdoor autonomy. The design targets outdoor use specifically, with intuitive operation requiring no technical knowledge, compatibility with standard batteries to eliminate charging complexity, and a robust build appropriate for soil, weather, and kneeling on uneven surfaces. By reducing knee load during the bending, kneeling, and rising movements central to gardening, the product empowers seniors to continue their most valued leisure activity safely and independently.",
+        "nl": "Dit Bachelorproefproject rond Knee Exoskeleton for Senior Gardeners ontwikkelt een draagbaar ondersteuningssysteem voor senioren, binnen de context tuineren bukken rechtkomen. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: senior gardening, knee exoskeleton, osteoarthritis, outdoor wearable."
       },
       "context": {
         "en": "tuineren bukken rechtkomen",
@@ -2852,16 +3244,22 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "workplace"
+        "workplace",
+        "senior-gardening",
+        "knee-exoskeleton",
+        "osteoarthritis",
+        "outdoor-wearable"
       ],
       "assets": {
-        "thumbnail": "assets/generated/instagram-previews/pex-82-arne-bosmans-01.png",
+        "thumbnail": "assets/generated/poster-previews/pex-82-arne-bosmans-00.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pex-82-arne-bosmans-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/instagram-previews/pex-82-arne-bosmans-01.png",
-          "assets/generated/instagram-previews/pex-82-arne-bosmans-02.png"
+          "assets/generated/instagram-previews/pex-82-arne-bosmans-01.jpg",
+          "assets/generated/instagram-previews/pex-82-arne-bosmans-02.jpg",
+          "assets/generated/instagram-previews/pex-82-arne-bosmans-03.png",
+          "assets/generated/instagram-previews/pex-82-arne-bosmans-04.png"
         ]
       }
     },
@@ -2872,12 +3270,12 @@ export const content = {
       "student": "Mans Meers",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for jonge sporters",
-        "nl": "Exoskelet voor jonge sporters"
+        "en": "Active Knee Orthosis for Youth with Osgood-Schlatter Disease",
+        "nl": "Active Knee Orthosis for Youth with Osgood-Schlatter Disease"
       },
       "summary": {
-        "nl": "Mans Meers ontwikkelde een draagbaar ondersteuningssysteem voor jonge sporters, binnen de context knie - ziekte Osgood-Schlatter. Het presentatiemateriaal legt de nadruk op sport terug op. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Mans Meers developed a wearable support system for the target group 'jonge sporters' in the context of 'knie - ziekte Osgood-Schlatter'. The presentation material highlights sport terug op. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "This active knee orthosis is designed for sports-active young people suffering from Osgood-Schlatter Disease (OSD) — a painful tibial tuberosity condition affecting 21% of intensively active youth — who face 12–24 months of recovery during which 15% stop sport entirely. The orthosis targets the tibial tuberkel compression force during running, jumping, and landing in court and field sports such as badminton, tennis, and football, reducing pain and enabling continued training at a sustainable intensity. Designed for a youth user group that is motivated to stay active and competitive, the product bridges the gap between full rest and full return to sport during the OSD recovery window.",
+        "nl": "Dit Bachelorproefproject rond Active Knee Orthosis for Youth with Osgood-Schlatter Disease ontwikkelt een draagbaar ondersteuningssysteem voor jonge sporters, binnen de context knie - ziekte Osgood-Schlatter. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: Osgood-Schlatter, knee orthosis, youth sports, rehabilitation."
       },
       "context": {
         "en": "knie - ziekte Osgood-Schlatter",
@@ -2890,7 +3288,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "sports"
+        "sports",
+        "osgood-schlatter",
+        "knee-orthosis",
+        "youth-sports",
+        "rehabilitation"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pex-87-mans-meers-00.png",
@@ -2898,7 +3300,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/pex-87-mans-meers-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/pex-87-mans-meers-00.png"
+          "assets/generated/instagram-previews/pex-87-mans-meers-01.jpg",
+          "assets/generated/instagram-previews/pex-87-mans-meers-02.jpg",
+          "assets/generated/instagram-previews/pex-87-mans-meers-03.jpg"
         ]
       }
     },
@@ -2909,12 +3313,12 @@ export const content = {
       "student": "Pepe / AART Dewit",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for cmc1 artrose (duim/hand)",
-        "nl": "Exoskelet voor cmc1 artrose (duim/hand)"
+        "en": "Ortho – Thumb and Hand Grip Exoskeleton",
+        "nl": "Ortho – Thumb and Hand Grip Exoskeleton"
       },
       "summary": {
-        "nl": "Pepe / AART Dewit ontwikkelde een draagbaar ondersteuningssysteem voor cmc1 artrose (duim/hand), binnen de context kinderopvang. Het presentatiemateriaal legt de nadruk op cmc1 artrose duim hand kinderopvang. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Pepe / AART Dewit developed a wearable support system for the target group 'cmc1 artrose (duim/hand)' in the context of 'kinderopvang'. The presentation material highlights cmc1 artrose duim hand kinderopvang. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "Ortho is a hand exoskeleton designed around the thumb — the digit involved in approximately 40% of all hand grip activities — targeting users who experience chronic pain, post-injury weakness, or reduced grip strength in daily tasks from turning a tap to gripping a steering wheel to pressing guitar strings. The product focuses on the thumb as the key functional anchor of the human hand, delivering a design that restores confident, pain-free grip across the broadest possible range of everyday manual activities. The compact exoskeleton provides targeted support at the thumb joint and thenar muscle group, enabling users to reclaim independence in the small but essential acts that define daily life.",
+        "nl": "Dit Bachelorproefproject rond Ortho – Thumb and Hand Grip Exoskeleton ontwikkelt een draagbaar ondersteuningssysteem voor cmc1 artrose (duim/hand), binnen de context kinderopvang. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: thumb support, hand grip exoskeleton, grip rehabilitation, daily independence."
       },
       "context": {
         "en": "kinderopvang",
@@ -2927,7 +3331,11 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "healthcare"
+        "healthcare",
+        "thumb-support",
+        "hand-grip-exoskeleton",
+        "grip-rehabilitation",
+        "daily-independence"
       ],
       "assets": {
         "thumbnail": "",
@@ -2944,12 +3352,12 @@ export const content = {
       "student": "Xander Maes",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for hardlopers",
-        "nl": "Exoskelet voor hardlopers"
+        "en": "PFPS Knee Exoskeleton for Runners",
+        "nl": "PFPS Knee Exoskeleton for Runners"
       },
       "summary": {
-        "nl": "Xander Maes ontwikkelde een draagbaar ondersteuningssysteem voor hardlopers, binnen de context impactgerelateerde knieaandoening. Het presentatiemateriaal legt de nadruk op PASSIVE HYDRO MECHANICAL EXOSKELETON. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Xander Maes developed a wearable support system for the target group 'hardlopers' in the context of 'impactgerelateerde knieaandoening'. The presentation material highlights PASSIVE HYDRO MECHANICAL EXOSKELETON. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "This passive hydromechanical exoskeleton targets Patellofemoral Pain Syndrome (PFPS) in runners — a condition affecting 25% of all runners, with 50% experiencing recurrence after medical intervention — caused by the kneecap misguiding in the femoral groove under impact forces of up to 3 times body weight during landing. Unlike current braces that are restrictive, clinically styled, and inert with no adaptive response to impact timing, this exoskeleton provides dynamic hydromechanical guidance of the patella that adapts to the landing phase of the running cycle. Designed for a high-performance running context, the product projects capability and athletic identity rather than signalling injury or medical dependence.",
+        "nl": "Dit Bachelorproefproject rond PFPS Knee Exoskeleton for Runners ontwikkelt een draagbaar ondersteuningssysteem voor hardlopers, binnen de context impactgerelateerde knieaandoening. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: runner's knee, PFPS, hydromechanical exoskeleton, patella guidance."
       },
       "context": {
         "en": "impactgerelateerde knieaandoening",
@@ -2962,14 +3370,21 @@ export const content = {
       "tags": [
         "ergonomics",
         "exoskeleton",
-        "sports"
+        "sports",
+        "runner-s-knee",
+        "pfps",
+        "hydromechanical-exoskeleton",
+        "patella-guidance"
       ],
       "assets": {
-        "thumbnail": "",
+        "thumbnail": "assets/generated/instagram-previews/pex-67-xander-maes-01.jpg",
         "poster": "",
         "posterPreview": "",
         "presentation": "",
-        "visuals": []
+        "visuals": [
+          "assets/generated/instagram-previews/pex-67-xander-maes-01.jpg",
+          "assets/generated/instagram-previews/pex-67-xander-maes-02.jpg"
+        ]
       }
     },
     {
@@ -2979,12 +3394,12 @@ export const content = {
       "student": "Febe Vossen",
       "featured": false,
       "title": {
-        "en": "Exoskeleton for zorgmedewerkers",
-        "nl": "Exoskelet voor zorgmedewerkers"
+        "en": "CARE – Back Exoskeleton for Nursing Home Care Workers",
+        "nl": "CARE – Back Exoskeleton for Nursing Home Care Workers"
       },
       "summary": {
-        "nl": "Febe Vossen ontwikkelde een draagbaar ondersteuningssysteem voor zorgmedewerkers, binnen de context woonzorgcentrum. Het presentatiemateriaal legt de nadruk op Omdat zorg zorg verdient. Het project onderzoekt hoe productontwerp ergonomie, comfort, veiligheid en acceptatie in realistische gebruikssituaties kan samenbrengen in een helder voorstel.",
-        "en": "Febe Vossen developed a wearable support system for the target group 'zorgmedewerkers' in the context of 'woonzorgcentrum'. The presentation material highlights Omdat zorg zorg verdient. The project explores how product design can connect ergonomics, comfort, safety and acceptance in realistic use situations in a clear concept proposal."
+        "en": "CARE is an exoskeleton designed for nursing home care workers — including both nurses and care assistants — who perform physically intensive patient care in bedroom and communal spaces throughout long working shifts. The product name embodies its philosophy: because care deserves care, the product addresses the physical burden of caring professions through three primary design drivers: efficiency (quick donning and doffing), low weight (maximum 5.5 kg), and hygiene (easy cleaning surfaces). Targeting both male and female workers aged 18–65, CARE fits seamlessly into the nursing home workflow without creating additional time pressure or hygiene concerns.",
+        "nl": "Dit Bachelorproefproject rond CARE – Back Exoskeleton for Nursing Home Care Workers ontwikkelt een draagbaar ondersteuningssysteem voor zorgmedewerkers, binnen de context woonzorgcentrum. Het project onderzoekt hoe productontwikkeling ergonomie, comfort en betrouwbare ondersteuning kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: nursing home, care worker exoskeleton, patient transfer, ergonomic wearable."
       },
       "context": {
         "en": "woonzorgcentrum",
@@ -2999,7 +3414,11 @@ export const content = {
         "ergonomics",
         "exoskeleton",
         "healthcare",
-        "workplace"
+        "workplace",
+        "nursing-home",
+        "care-worker-exoskeleton",
+        "patient-transfer",
+        "ergonomic-wearable"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pex-72-febe-vossen-00.png",
@@ -3007,7 +3426,9 @@ export const content = {
         "posterPreview": "assets/generated/poster-previews/pex-72-febe-vossen-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/poster-previews/pex-72-febe-vossen-00.png"
+          "assets/generated/instagram-previews/pex-72-febe-vossen-01.jpg",
+          "assets/generated/instagram-previews/pex-72-febe-vossen-02.jpg",
+          "assets/generated/instagram-previews/pex-72-febe-vossen-03.jpg"
         ]
       }
     },
@@ -3018,12 +3439,12 @@ export const content = {
       "student": "Aaron Deridder",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for bewoners in nabijheid van werf",
-        "nl": "Circulaire Sensor voor bewoners in nabijheid van werf"
+        "en": "SECTR – Urban Construction Site Emissions Monitoring System",
+        "nl": "SECTR – Urban Construction Site Emissions Monitoring System"
       },
       "summary": {
-        "nl": "Aaron Deridder ontwikkelde een modulair sensorsysteem voor bewoners in nabijheid van werf, binnen de context impact bouwwerven. Het presentatiemateriaal legt de nadruk op Transparante monitoring van stedelijke. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Aaron Deridder developed a modular sensor system for the target group 'bewoners in nabijheid van werf' in the context of 'impact bouwwerven'. The presentation material highlights Transparante monitoring van stedelijke. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "SECTR is a citizen science platform that provides transparent monitoring of fine dust (PM2.5/PM10) and noise emissions from urban construction sites, addressing the regulatory gap where mandatory dust measures exist but verification of their effectiveness does not. The system serves site managers who want data to demonstrate compliance, residents who need evidence of liveability impact, and city enforcement authorities who require objective data for corrective action. Built on a LoRaWAN network infrastructure, SECTR makes construction site pollution visible and accountable to all urban stakeholders simultaneously.",
+        "nl": "Dit Bachelorproefproject rond SECTR – Urban Construction Site Emissions Monitoring System ontwikkelt een circulair sensorsysteem voor bewoners in nabijheid van werf, binnen de context impact bouwwerven. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: construction emissions, fine dust monitoring, LoRaWAN, urban citizen science."
       },
       "context": {
         "en": "impact bouwwerven",
@@ -3037,16 +3458,21 @@ export const content = {
         "circularity",
         "data",
         "public-space",
-        "sensor"
+        "sensor",
+        "construction-emissions",
+        "fine-dust-monitoring",
+        "lorawan",
+        "urban-citizen-science"
       ],
       "assets": {
-        "thumbnail": "assets/generated/instagram-previews/pcs-27-aaron-deridder-01.png",
+        "thumbnail": "assets/generated/poster-previews/pcs-27-aaron-deridder-00.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pcs-27-aaron-deridder-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/instagram-previews/pcs-27-aaron-deridder-01.png",
-          "assets/generated/instagram-previews/pcs-27-aaron-deridder-02.png"
+          "assets/generated/instagram-previews/pcs-27-aaron-deridder-01.jpg",
+          "assets/generated/instagram-previews/pcs-27-aaron-deridder-02.png",
+          "assets/generated/instagram-previews/pcs-27-aaron-deridder-03.png"
         ]
       }
     },
@@ -3057,12 +3483,12 @@ export const content = {
       "student": "Stijn Boussemaere",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for burgers particuliere tuin",
-        "nl": "Circulaire Sensor voor burgers particuliere tuin"
+        "en": "CO-BEE – Smart Bee Hotel for Environmental Monitoring",
+        "nl": "CO-BEE – Smart Bee Hotel for Environmental Monitoring"
       },
       "summary": {
-        "nl": "Stijn Boussemaere ontwikkelde een modulair sensorsysteem voor burgers particuliere tuin, binnen de context wilde bijen. Het presentatiemateriaal legt de nadruk op burgers particuliere tuin wilde bijen. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Stijn Boussemaere developed a modular sensor system for the target group 'burgers particuliere tuin' in the context of 'wilde bijen'. The presentation material highlights burgers particuliere tuin wilde bijen. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "CO-BEE is a smart bee hotel that functions as a circular environmental sensor, using the behaviour and presence of solitary bees as an indicator of local ecological health — as the tagline states, \"every solitary bee tells something about the health of its environment.\" The product combines habitat creation for wild bee populations with sensor-driven monitoring of the microenvironmental conditions that influence pollinator presence and diversity. By integrating ecological function with citizen science data collection, CO-BEE turns an everyday garden object into a tool for both biodiversity support and distributed environmental monitoring.",
+        "nl": "Dit Bachelorproefproject rond CO-BEE – Smart Bee Hotel for Environmental Monitoring ontwikkelt een circulair sensorsysteem voor burgers particuliere tuin, binnen de context wilde bijen. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: bee hotel, pollinator monitoring, biodiversity sensor, citizen science."
       },
       "context": {
         "en": "wilde bijen",
@@ -3076,10 +3502,14 @@ export const content = {
         "circularity",
         "data",
         "environment",
-        "sensor"
+        "sensor",
+        "bee-hotel",
+        "pollinator-monitoring",
+        "biodiversity-sensor",
+        "citizen-science"
       ],
       "assets": {
-        "thumbnail": "assets/generated/instagram-previews/pcs-32-stijn-boussemaere-01.png",
+        "thumbnail": "assets/generated/poster-previews/pcs-32-stijn-boussemaere-00.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pcs-32-stijn-boussemaere-00.png",
         "presentation": "",
@@ -3097,12 +3527,12 @@ export const content = {
       "student": "Elise Maudgal",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for lagere school 5 en 6",
-        "nl": "Circulaire Sensor voor lagere school 5 en 6"
+        "en": "(no PDF submitted)",
+        "nl": "(no PDF submitted)"
       },
       "summary": {
-        "nl": "Elise Maudgal ontwikkelde een modulair sensorsysteem voor lagere school 5 en 6, binnen de context luchtkwaliteit. Het presentatiemateriaal legt de nadruk op lagere school 5 en 6 luchtkwaliteit. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Elise Maudgal developed a modular sensor system for the target group 'lagere school 5 en 6' in the context of 'luchtkwaliteit'. The presentation material highlights lagere school 5 en 6 luchtkwaliteit. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "(no PDF submitted)",
+        "nl": "Dit Bachelorproefproject rond (no PDF submitted) ontwikkelt een circulair sensorsysteem voor lagere school 5 en 6, binnen de context luchtkwaliteit. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: (no PDF submitted)."
       },
       "context": {
         "en": "luchtkwaliteit",
@@ -3117,14 +3547,18 @@ export const content = {
         "circularity",
         "data",
         "education",
-        "sensor"
+        "sensor",
+        "no-pdf-submitted"
       ],
       "assets": {
-        "thumbnail": "",
+        "thumbnail": "assets/generated/instagram-previews/pcs-37-elise-maudgal-01.jpg",
         "poster": "",
         "posterPreview": "",
         "presentation": "",
-        "visuals": []
+        "visuals": [
+          "assets/generated/instagram-previews/pcs-37-elise-maudgal-01.jpg",
+          "assets/generated/instagram-previews/pcs-37-elise-maudgal-02.jpg"
+        ]
       }
     },
     {
@@ -3134,12 +3568,12 @@ export const content = {
       "student": "Thibo Hennion",
       "featured": false,
       "title": {
-        "en": "Circular Sensor for wijngaard boeren",
-        "nl": "Circulaire Sensor voor wijngaard boeren"
+        "en": "Sense – Vineyard Disease Risk Monitoring Sensor",
+        "nl": "Sense – Vineyard Disease Risk Monitoring Sensor"
       },
       "summary": {
-        "nl": "Thibo Hennion ontwikkelde een modulair sensorsysteem voor wijngaard boeren, binnen de context bodem/lucht/bladnatheid. Het presentatiemateriaal legt de nadruk op De bladsensor bootst. Het project onderzoekt hoe productontwerp gebruiksgemak, modulariteit, circulariteit en betrouwbare lokale metingen kan samenbrengen in een helder voorstel.",
-        "en": "Thibo Hennion developed a modular sensor system for the target group 'wijngaard boeren' in the context of 'bodem/lucht/bladnatheid'. The presentation material highlights De bladsensor bootst. The project explores how product design can connect ease of use, modularity, circularity and reliable local measurements in a clear concept proposal."
+        "en": "Sense is a circular outdoor sensor designed for small-scale vineyard owners who need to detect plant disease risks — monitoring leaf wetness, temperature, and humidity — reliably and affordably without requiring technical expertise for installation or maintenance. The product communicates via LoRa with a range of up to 15 km, has a measurement interval of 15 minutes, and meets IP65 weatherproofing standards for year-round outdoor vineyard deployment. Designed specifically to be affordable for small-scale wine producers and easy to maintain independently, Sense fills the gap between expensive commercial agricultural monitoring systems and the practical needs of Belgium's growing independent viticulture sector.",
+        "nl": "Dit Bachelorproefproject rond Sense – Vineyard Disease Risk Monitoring Sensor ontwikkelt een circulair sensorsysteem voor wijngaard boeren, binnen de context bodem/lucht/bladnatheid. Het project onderzoekt hoe productontwikkeling lokale metingen, modulariteit en betekenisvolle data kan samenbrengen in een helder en toekomstgericht ontwerpvoorstel. Trefwoorden: vineyard monitoring, plant disease, LoRa sensor, precision viticulture."
       },
       "context": {
         "en": "bodem/lucht/bladnatheid",
@@ -3154,17 +3588,22 @@ export const content = {
         "circularity",
         "data",
         "environment",
-        "sensor"
+        "sensor",
+        "vineyard-monitoring",
+        "plant-disease",
+        "lora-sensor",
+        "precision-viticulture"
       ],
       "assets": {
-        "thumbnail": "assets/generated/instagram-previews/pcs-42-thibo-hennion-01.png",
+        "thumbnail": "assets/generated/poster-previews/pcs-42-thibo-hennion-00.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pcs-42-thibo-hennion-00.png",
         "presentation": "",
         "visuals": [
-          "assets/generated/instagram-previews/pcs-42-thibo-hennion-01.png",
-          "assets/generated/instagram-previews/pcs-42-thibo-hennion-02.png",
-          "assets/generated/instagram-previews/pcs-42-thibo-hennion-03.png"
+          "assets/generated/instagram-previews/pcs-42-thibo-hennion-01.jpg",
+          "assets/generated/instagram-previews/pcs-42-thibo-hennion-02.jpg",
+          "assets/generated/instagram-previews/pcs-42-thibo-hennion-03.jpg",
+          "assets/generated/instagram-previews/pcs-42-thibo-hennion-04.png"
         ]
       }
     }

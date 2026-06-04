@@ -107,6 +107,12 @@ function localize(value) {
   return value[language] || value.en || "";
 }
 
+function excerpt(text, maxWords = 34) {
+  const words = text.split(/\s+/).filter(Boolean);
+  if (words.length <= maxWords) return text;
+  return `${words.slice(0, maxWords).join(" ")}...`;
+}
+
 function setLanguage(nextLanguage) {
   language = nextLanguage;
   localStorage.setItem("portfolio-language", language);
@@ -280,7 +286,7 @@ function projectCard(project) {
           <p class="theme-label" style="--accent:${assignment.color}">${localize(assignment.title)}</p>
           <h3>${localize(project.title)}</h3>
           <p class="student">${project.student}</p>
-          <p>${localize(project.summary)}</p>
+          <p>${excerpt(localize(project.summary))}</p>
           <div class="tag-list">${project.tags.slice(0, 4).map((tag) => `<span>${tag}</span>`).join("")}</div>
         </div>
       </a>
