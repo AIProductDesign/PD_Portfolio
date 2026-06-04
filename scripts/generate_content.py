@@ -329,6 +329,43 @@ def render_pdf_preview(path: Path, project_id: str, index: int, output_dir: Path
     return ""
 
 
+def thumbnail_score(visual: str) -> float:
+    path = ROOT / unquote(visual)
+    score = 0.0
+    if "instagram-previews" in visual:
+        score += 40.0
+    if "poster-previews" in visual:
+        score -= 120.0
+    if path.suffix.lower() in {".jpg", ".jpeg", ".webp"}:
+        score += 20.0
+    if path.suffix.lower() == ".png":
+        score -= 12.0
+
+    try:
+        with Image.open(path) as image:
+            image = ImageOps.exif_transpose(image).convert("RGB")
+            image.thumbnail((240, 240), Image.Resampling.LANCZOS)
+            pixels = list(image.getdata())
+            total = max(len(pixels), 1)
+            white_ratio = sum(1 for r, g, b in pixels if r > 235 and g > 235 and b > 235) / total
+            dark_ratio = sum(1 for r, g, b in pixels if r < 35 and g < 35 and b < 35) / total
+            average_saturation = sum(max(r, g, b) - min(r, g, b) for r, g, b in pixels) / (255 * total)
+            score += average_saturation * 35
+            score -= white_ratio * 55
+            score -= dark_ratio * 16
+    except Exception:
+        pass
+
+    return score
+
+
+def choose_thumbnail(visuals: list[str], poster_preview: str) -> str:
+    candidates = [visual for visual in visuals if visual and visual != poster_preview]
+    if candidates:
+        return max(candidates, key=thumbnail_score)
+    return poster_preview or (visuals[0] if visuals else "")
+
+
 def choose_visuals(paths: list[Path], project_id: str) -> list[str]:
     image_exts = {".jpg", ".jpeg", ".png", ".webp"}
     images = [path for path in paths if path.suffix.lower() in image_exts]
@@ -431,7 +468,7 @@ def build_projects() -> list[dict]:
                 "tags": tags,
                 "filterTags": filter_tags,
                 "assets": {
-                    "thumbnail": poster_preview or (images[0] if images else ""),
+                    "thumbnail": choose_thumbnail(images, poster_preview),
                     "poster": public_poster,
                     "posterPreview": poster_preview,
                     "presentation": public_presentation,

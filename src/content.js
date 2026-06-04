@@ -238,7 +238,7 @@ export const content = {
         "mobility-sports"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/dex-48-anouk-vandevoorde-00.png",
+        "thumbnail": "assets/generated/instagram-previews/dex-48-anouk-vandevoorde-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dex-48-anouk-vandevoorde-00.png",
         "presentation": "",
@@ -284,7 +284,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/dex-53-noah-rodrigus-00.png",
+        "thumbnail": "assets/generated/instagram-previews/dex-53-noah-rodrigus-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dex-53-noah-rodrigus-00.png",
         "presentation": "",
@@ -330,7 +330,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/dcs-3-anna-vannimmen-00.png",
+        "thumbnail": "assets/generated/instagram-previews/dcs-3-anna-vannimmen-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dcs-3-anna-vannimmen-00.png",
         "presentation": "",
@@ -378,7 +378,7 @@ export const content = {
         "environment"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/dcs-23-arda-tarimci-00.png",
+        "thumbnail": "assets/generated/instagram-previews/dcs-23-arda-tarimci-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dcs-23-arda-tarimci-00.png",
         "presentation": "",
@@ -425,7 +425,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/dcs-18-seth-verheul-00.png",
+        "thumbnail": "assets/generated/instagram-previews/dcs-18-seth-verheul-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dcs-18-seth-verheul-00.png",
         "presentation": "",
@@ -470,7 +470,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/dex-58-bibi-devos-00.png",
+        "thumbnail": "assets/generated/instagram-previews/dex-58-bibi-devos-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dex-58-bibi-devos-00.png",
         "presentation": "",
@@ -558,7 +558,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/dex-68-karel-schepers-00.png",
+        "thumbnail": "assets/generated/instagram-previews/dex-68-karel-schepers-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dex-68-karel-schepers-00.png",
         "presentation": "",
@@ -603,7 +603,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/dex-73-fons-deckers-00.png",
+        "thumbnail": "assets/generated/instagram-previews/dex-73-fons-deckers-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dex-73-fons-deckers-00.png",
         "presentation": "",
@@ -651,7 +651,7 @@ export const content = {
         "mobility-sports"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/dex-78-tinne-verhelst-00.png",
+        "thumbnail": "assets/generated/instagram-previews/dex-78-tinne-verhelst-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dex-78-tinne-verhelst-00.png",
         "presentation": "",
@@ -696,7 +696,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/dex-83-daan-janssens-00.png",
+        "thumbnail": "assets/generated/instagram-previews/dex-83-daan-janssens-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dex-83-daan-janssens-00.png",
         "presentation": "",
@@ -744,7 +744,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/dcs-28-alec-vandervorst-00.png",
+        "thumbnail": "assets/generated/instagram-previews/dcs-28-alec-vandervorst-02.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dcs-28-alec-vandervorst-00.png",
         "presentation": "",
@@ -791,7 +791,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/dcs-33-amelie-duchesne-00.png",
+        "thumbnail": "assets/generated/instagram-previews/dcs-33-amelie-duchesne-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dcs-33-amelie-duchesne-00.png",
         "presentation": "",
@@ -838,7 +838,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/dcs-38-amelie-rooman-00.png",
+        "thumbnail": "assets/generated/instagram-previews/dcs-38-amelie-rooman-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/dcs-38-amelie-rooman-00.png",
         "presentation": "",
@@ -882,7 +882,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/iex-59-lars-mortelmans-00.png",
+        "thumbnail": "assets/generated/instagram-previews/iex-59-lars-mortelmans-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/iex-59-lars-mortelmans-00.png",
         "presentation": "",
@@ -926,7 +926,7 @@ export const content = {
         "healthcare"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/iex-64-manon-janssens-00.png",
+        "thumbnail": "assets/generated/instagram-previews/iex-64-manon-janssens-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/iex-64-manon-janssens-00.png",
         "presentation": "",
@@ -973,7 +973,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/iex-69-luca-vansteelant-00.png",
+        "thumbnail": "assets/generated/instagram-previews/iex-69-luca-vansteelant-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/iex-69-luca-vansteelant-00.png",
         "presentation": "",
@@ -1020,7 +1020,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/ics-4-lennart-danneels-00.png",
+        "thumbnail": "assets/generated/instagram-previews/ics-4-lennart-danneels-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/ics-4-lennart-danneels-00.png",
         "presentation": "",
@@ -1067,7 +1067,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/ics-9-rado-hudran-00.png",
+        "thumbnail": "assets/generated/instagram-previews/ics-9-rado-hudran-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/ics-9-rado-hudran-00.png",
         "presentation": "",
@@ -1113,7 +1113,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/ics-14-jasper-meel-00.png",
+        "thumbnail": "assets/generated/instagram-previews/ics-14-jasper-meel-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/ics-14-jasper-meel-00.png",
         "presentation": "",
@@ -1157,7 +1157,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/iex-44-alexia-gersdorff-00.png",
+        "thumbnail": "assets/generated/instagram-previews/iex-44-alexia-gersdorff-02.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/iex-44-alexia-gersdorff-00.png",
         "presentation": "",
@@ -1202,7 +1202,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/iex-49-mette-marit-germonpre-00.png",
+        "thumbnail": "assets/generated/instagram-previews/iex-49-mette-marit-germonpre-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/iex-49-mette-marit-germonpre-00.png",
         "presentation": "",
@@ -1247,7 +1247,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/iex-54-dylan-wijnen-00.png",
+        "thumbnail": "assets/generated/instagram-previews/iex-54-dylan-wijnen-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/iex-54-dylan-wijnen-00.png",
         "presentation": "",
@@ -1336,7 +1336,7 @@ export const content = {
         "mobility-sports"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/iex-79-thor-debruyne-00.png",
+        "thumbnail": "assets/generated/instagram-previews/iex-79-thor-debruyne-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/iex-79-thor-debruyne-00.png",
         "presentation": "",
@@ -1380,7 +1380,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/iex-84-kamil-smets-00.png",
+        "thumbnail": "assets/generated/instagram-previews/iex-84-kamil-smets-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/iex-84-kamil-smets-00.png",
         "presentation": "",
@@ -1473,7 +1473,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/ics-24-eric-verbeeck-00.png",
+        "thumbnail": "assets/generated/instagram-previews/ics-24-eric-verbeeck-04.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/ics-24-eric-verbeeck-00.png",
         "presentation": "",
@@ -1560,7 +1560,7 @@ export const content = {
         "environment"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/ics-39-hanne-struyve-00.png",
+        "thumbnail": "assets/generated/instagram-previews/ics-39-hanne-struyve-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/ics-39-hanne-struyve-00.png",
         "presentation": "",
@@ -1605,7 +1605,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jex-46-lina-abakkari-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jex-46-lina-abakkari-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jex-46-lina-abakkari-00.png",
         "presentation": "",
@@ -1650,7 +1650,7 @@ export const content = {
         "healthcare"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jex-51-tom-fierlafijn-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jex-51-tom-fierlafijn-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jex-51-tom-fierlafijn-00.png",
         "presentation": "",
@@ -1696,7 +1696,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jex-56-daan-nelissen-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jex-56-daan-nelissen-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jex-56-daan-nelissen-00.png",
         "presentation": "",
@@ -1788,7 +1788,7 @@ export const content = {
         "environment"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jcs-41-neeltje-vissers-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jcs-41-neeltje-vissers-01.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jcs-41-neeltje-vissers-00.png",
         "presentation": "",
@@ -1835,7 +1835,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/ics-34-andreas-grootjans-00.png",
+        "thumbnail": "assets/generated/instagram-previews/ics-34-andreas-grootjans-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/ics-34-andreas-grootjans-00.png",
         "presentation": "",
@@ -1881,7 +1881,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jex-61-ian-currie-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jex-61-ian-currie-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jex-61-ian-currie-00.png",
         "presentation": "",
@@ -1926,7 +1926,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jex-66-thomas-verhaegen-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jex-66-thomas-verhaegen-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jex-66-thomas-verhaegen-00.png",
         "presentation": "",
@@ -1972,7 +1972,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jex-71-renzo-craeymeersch-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jex-71-renzo-craeymeersch-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jex-71-renzo-craeymeersch-00.png",
         "presentation": "",
@@ -2019,7 +2019,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jcs-21-amelie-vanwest-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jcs-21-amelie-vanwest-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jcs-21-amelie-vanwest-00.png",
         "presentation": "",
@@ -2066,7 +2066,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jcs-26-aukje-deklein-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jcs-26-aukje-deklein-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jcs-26-aukje-deklein-00.png",
         "presentation": "",
@@ -2112,7 +2112,7 @@ export const content = {
         "environment"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jcs-31-hannes-bal-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jcs-31-hannes-bal-01.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jcs-31-hannes-bal-00.png",
         "presentation": "",
@@ -2157,7 +2157,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jcs-1-hannah-nollet-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jcs-1-hannah-nollet-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jcs-1-hannah-nollet-00.png",
         "presentation": "",
@@ -2204,7 +2204,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jcs-6-fien-vertente-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jcs-6-fien-vertente-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jcs-6-fien-vertente-00.png",
         "presentation": "",
@@ -2251,7 +2251,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jcs-16-felix-peleman-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jcs-16-felix-peleman-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jcs-16-felix-peleman-00.png",
         "presentation": "",
@@ -2297,7 +2297,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jex-76-lina-willems-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jex-76-lina-willems-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jex-76-lina-willems-00.png",
         "presentation": "",
@@ -2342,7 +2342,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/jex-81-linde-vanmarcke-00.png",
+        "thumbnail": "assets/generated/instagram-previews/jex-81-linde-vanmarcke-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/jex-81-linde-vanmarcke-00.png",
         "presentation": "",
@@ -2389,7 +2389,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kex-60-hana-nilis-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kex-60-hana-nilis-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kex-60-hana-nilis-00.png",
         "presentation": "",
@@ -2434,7 +2434,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kex-65-lena-vandooren-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kex-65-lena-vandooren-04.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kex-65-lena-vandooren-00.png",
         "presentation": "",
@@ -2481,7 +2481,7 @@ export const content = {
         "mobility-sports"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kex-70-ellen-bruyninckx-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kex-70-ellen-bruyninckx-02.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kex-70-ellen-bruyninckx-00.png",
         "presentation": "",
@@ -2526,7 +2526,7 @@ export const content = {
         "environment"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kcs-5-laura-verbeeck-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kcs-5-laura-verbeeck-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kcs-5-laura-verbeeck-00.png",
         "presentation": "",
@@ -2618,7 +2618,7 @@ export const content = {
         "environment"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kcs-25-tess-buts-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kcs-25-tess-buts-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kcs-25-tess-buts-00.png",
         "presentation": "",
@@ -2666,7 +2666,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kex-45-rene-romandic-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kex-45-rene-romandic-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kex-45-rene-romandic-00.png",
         "presentation": "",
@@ -2710,7 +2710,7 @@ export const content = {
         "healthcare"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kex-50-lune-eeckhoudt-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kex-50-lune-eeckhoudt-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kex-50-lune-eeckhoudt-00.png",
         "presentation": "",
@@ -2755,7 +2755,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kex-55-louis-debie-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kex-55-louis-debie-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kex-55-louis-debie-00.png",
         "presentation": "",
@@ -2803,7 +2803,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kcs-30-jesse-roels-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kcs-30-jesse-roels-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kcs-30-jesse-roels-00.png",
         "presentation": "",
@@ -2851,7 +2851,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kcs-35-auke-proot-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kcs-35-auke-proot-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kcs-35-auke-proot-00.png",
         "presentation": "",
@@ -2898,7 +2898,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kcs-40-delphine-marien-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kcs-40-delphine-marien-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kcs-40-delphine-marien-00.png",
         "presentation": "",
@@ -2942,7 +2942,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kex-75-nenna-walraevens-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kex-75-nenna-walraevens-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kex-75-nenna-walraevens-00.png",
         "presentation": "",
@@ -2985,7 +2985,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kex-80-jean-gielen-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kex-80-jean-gielen-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kex-80-jean-gielen-00.png",
         "presentation": "",
@@ -3031,7 +3031,7 @@ export const content = {
         "mobility-sports"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kex-85-alea-grutzner-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kex-85-alea-grutzner-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kex-85-alea-grutzner-00.png",
         "presentation": "",
@@ -3077,7 +3077,7 @@ export const content = {
         "mobility-sports"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/kex-86-arben-mariyanov-00.png",
+        "thumbnail": "assets/generated/instagram-previews/kex-86-arben-mariyanov-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/kex-86-arben-mariyanov-00.png",
         "presentation": "",
@@ -3123,7 +3123,7 @@ export const content = {
         "mobility-sports"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/pex-47-lore-suys-00.png",
+        "thumbnail": "assets/generated/instagram-previews/pex-47-lore-suys-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pex-47-lore-suys-00.png",
         "presentation": "",
@@ -3169,7 +3169,7 @@ export const content = {
         "mobility-sports"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/pex-52-maurits-joos-00.png",
+        "thumbnail": "assets/generated/instagram-previews/pex-52-maurits-joos-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pex-52-maurits-joos-00.png",
         "presentation": "",
@@ -3214,7 +3214,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/pex-57-andres-carton-00.png",
+        "thumbnail": "assets/generated/instagram-previews/pex-57-andres-carton-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pex-57-andres-carton-00.png",
         "presentation": "",
@@ -3261,7 +3261,7 @@ export const content = {
         "environment"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/pcs-2-felix-roels-00.png",
+        "thumbnail": "assets/generated/instagram-previews/pcs-2-felix-roels-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pcs-2-felix-roels-00.png",
         "presentation": "",
@@ -3308,7 +3308,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/pcs-17-amy-vanthiel-00.png",
+        "thumbnail": "assets/generated/instagram-previews/pcs-17-amy-vanthiel-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pcs-17-amy-vanthiel-00.png",
         "presentation": "",
@@ -3356,7 +3356,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/pcs-22-sam-daniels-00.png",
+        "thumbnail": "assets/generated/instagram-previews/pcs-22-sam-daniels-02.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pcs-22-sam-daniels-00.png",
         "presentation": "",
@@ -3402,7 +3402,7 @@ export const content = {
         "healthcare"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/pex-77-niels-kyriakides-00.png",
+        "thumbnail": "assets/generated/instagram-previews/pex-77-niels-kyriakides-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pex-77-niels-kyriakides-00.png",
         "presentation": "",
@@ -3446,7 +3446,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/pex-82-arne-bosmans-00.png",
+        "thumbnail": "assets/generated/instagram-previews/pex-82-arne-bosmans-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pex-82-arne-bosmans-00.png",
         "presentation": "",
@@ -3492,7 +3492,7 @@ export const content = {
         "mobility-sports"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/pex-87-mans-meers-00.png",
+        "thumbnail": "assets/generated/instagram-previews/pex-87-mans-meers-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pex-87-mans-meers-00.png",
         "presentation": "",
@@ -3625,7 +3625,7 @@ export const content = {
         "workplace"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/pex-72-febe-vossen-00.png",
+        "thumbnail": "assets/generated/instagram-previews/pex-72-febe-vossen-03.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pex-72-febe-vossen-00.png",
         "presentation": "",
@@ -3672,7 +3672,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/pcs-27-aaron-deridder-00.png",
+        "thumbnail": "assets/generated/instagram-previews/pcs-27-aaron-deridder-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pcs-27-aaron-deridder-00.png",
         "presentation": "",
@@ -3719,7 +3719,7 @@ export const content = {
         "environment"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/pcs-32-stijn-boussemaere-00.png",
+        "thumbnail": "assets/generated/instagram-previews/pcs-32-stijn-boussemaere-03.png",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pcs-32-stijn-boussemaere-00.png",
         "presentation": "",
@@ -3812,7 +3812,7 @@ export const content = {
         "public-space"
       ],
       "assets": {
-        "thumbnail": "assets/generated/poster-previews/pcs-42-thibo-hennion-00.png",
+        "thumbnail": "assets/generated/instagram-previews/pcs-42-thibo-hennion-01.jpg",
         "poster": "",
         "posterPreview": "assets/generated/poster-previews/pcs-42-thibo-hennion-00.png",
         "presentation": "",
