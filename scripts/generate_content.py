@@ -86,33 +86,38 @@ def assignment_from(code: str, explicit: str) -> str:
     return "exoskeletons"
 
 
-def tags_for(assignment_id: str, target: str, context: str) -> list[str]:
-    haystack = f"{target} {context}".lower()
+def domain_tags_for(assignment_id: str, target: str, context: str, keywords: str = "") -> list[str]:
+    haystack = f"{target} {context} {keywords}".lower()
     tags: set[str] = set()
     if assignment_id == "exoskeletons":
-        tags.add("exoskeleton")
-        if any(word in haystack for word in ["werk", "haven", "tuin", "kelner", "supermarkt", "bouw", "banden"]):
-            tags.add("workplace")
-        if any(word in haystack for word in ["medisch", "revalidatie", "artrose", "dropvoet", "zorg", "postpartum"]):
+        if any(word in haystack for word in ["medisch", "revalidatie", "artrose", "dropvoet", "zorg", "postpartum", "elderly", "patient", "nursing"]):
             tags.add("healthcare")
-        if any(word in haystack for word in ["sport", "hardlop", "shin", "knie", "osgood"]):
-            tags.add("sports")
-        if any(word in haystack for word in ["65+", "ouderen", "zorgmedewerkers"]):
-            tags.add("care")
-        tags.add("ergonomics")
+        if any(word in haystack for word in ["werk", "haven", "tuin", "kelner", "supermarkt", "bouw", "banden", "worker", "occupational", "manual"]):
+            tags.add("workplace")
+        if any(word in haystack for word in ["sport", "hardlop", "shin", "knie", "osgood", "mobility", "gait", "cycling", "walking"]):
+            tags.add("mobility-sports")
+        if not tags:
+            tags.add("workplace")
     else:
-        tags.add("sensor")
-        tags.add("circularity")
-        if any(word in haystack for word in ["lucht", "fijn stof", "co2", "geluid", "geur"]):
-            tags.add("air-quality")
-        if any(word in haystack for word in ["tuin", "bijen", "insect", "wijngaard", "bladnatheid", "bodem"]):
+        if any(word in haystack for word in ["tuin", "bijen", "insect", "wijngaard", "bladnatheid", "bodem", "bird", "wildlife", "biodiversity", "soil", "water"]):
             tags.add("environment")
-        if any(word in haystack for word in ["school", "stem", "student"]):
-            tags.add("education")
-        if any(word in haystack for word in ["werf", "bouwwerven", "stedelijke"]):
+        if any(word in haystack for word in ["werf", "bouwwerven", "stedelijke", "urban", "traffic", "street", "neighbourhood", "construction"]):
             tags.add("public-space")
-        tags.add("data")
+        if any(word in haystack for word in ["school", "stem", "student", "citizen", "science", "children", "parents"]):
+            tags.add("education-citizen-science")
+        if any(word in haystack for word in ["lucht", "fijn stof", "co2", "geluid", "geur", "air", "noise", "emissions"]):
+            tags.add("public-space")
+        if not tags:
+            tags.add("environment")
     return sorted(tags)
+
+
+def tags_for(assignment_id: str, target: str, context: str) -> list[str]:
+    base = ["exoskeleton"] if assignment_id == "exoskeletons" else ["sensor", "circularity"]
+    for tag in domain_tags_for(assignment_id, target, context):
+        if tag not in base:
+            base.append(tag)
+    return base
 
 
 def keyword_tags(keywords: str) -> list[str]:
@@ -395,6 +400,16 @@ def build_projects() -> list[dict]:
         nl_assignment_title = "Exoskelet" if assignment_id == "exoskeletons" else "Circulaire Sensor"
         title_en = description_entry.get("title") or f"{assignment_title} for {target}"
         title_nl = description_entry.get("title") or f"{nl_assignment_title} voor {target}"
+        filter_tags = domain_tags_for(
+            assignment_id,
+            target,
+            context,
+            " ".join([
+                description_entry.get("title", ""),
+                description_entry.get("description", ""),
+                description_entry.get("keywords", ""),
+            ]),
+        )
         tags = tags_for(assignment_id, target, context)
         for tag in keyword_tags(description_entry.get("keywords", "")):
             if tag not in tags:
@@ -414,6 +429,7 @@ def build_projects() -> list[dict]:
                 "context": {"en": context, "nl": context},
                 "targetGroup": {"en": target, "nl": target},
                 "tags": tags,
+                "filterTags": filter_tags,
                 "assets": {
                     "thumbnail": poster_preview or (images[0] if images else ""),
                     "poster": public_poster,

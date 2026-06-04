@@ -320,9 +320,8 @@ main {
   box-shadow: var(--shadow-soft);
 }
 
-.project-card > a {
+.project-card-link {
   display: block;
-  height: 100%;
   text-decoration: none;
 }
 
@@ -335,6 +334,11 @@ main {
 
 .project-card-body {
   padding: 18px;
+}
+
+.project-card-tags {
+  margin-top: 0;
+  padding: 0 18px 18px;
 }
 
 .theme-label {
@@ -353,12 +357,23 @@ main {
   margin-top: 14px;
 }
 
-.tag-list span {
+.tag-list span,
+.tag-chip {
   padding: 4px 8px;
   background: var(--fds-bluegrey-pastel);
   border-radius: 4px;
   color: var(--ua-blue);
   font-size: 0.82rem;
+  text-decoration: none;
+}
+
+.tag-chip {
+  border: 1px solid transparent;
+}
+
+.tag-chip:hover {
+  border-color: var(--ua-blue);
+  background: white;
 }
 
 .toolbar {

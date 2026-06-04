@@ -183,13 +183,15 @@
         "nl": "zwnagere vrouwen"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "pregnancy-support",
         "lumbopelvic-pain",
         "third-trimester",
         "passive-exoskeleton"
+      ],
+      "filterTags": [
+        "healthcare"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-43-lemony-blommaert-00.png",
@@ -224,14 +226,16 @@
         "nl": "65+"
       },
       "tags": [
-        "care",
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "fall-prevention",
         "balance-disorder",
         "elderly-mobility",
         "gait-support"
+      ],
+      "filterTags": [
+        "healthcare",
+        "mobility-sports"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-48-anouk-vandevoorde-00.png",
@@ -268,13 +272,16 @@
         "nl": "havenarbeider"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "harbor-workers",
         "back-support",
         "passive-exoskeleton",
         "occupational-ergonomics"
+      ],
+      "filterTags": [
+        "mobility-sports",
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-53-noah-rodrigus-00.png",
@@ -310,13 +317,17 @@
         "nl": "fietsers"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "public-space",
         "cycling-safety",
+        "air-quality",
         "noise-monitoring",
         "citizen-science"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dcs-3-anna-vannimmen-00.png",
@@ -354,13 +365,17 @@
         "nl": "hikers"
       },
       "tags": [
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "environment",
         "birdwatching",
         "wildlife-monitoring",
         "citizen-science",
         "biodiversity-sensor"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "environment"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dcs-23-arda-tarimci-00.png",
@@ -397,14 +412,17 @@
         "nl": "burgers"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "public-space",
         "traffic-pollution",
         "noise-monitoring",
         "urban-citizens",
         "citizen-science"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dcs-18-seth-verheul-00.png",
@@ -440,13 +458,16 @@
         "nl": "patient tenniselleboog"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "tennis-elbow",
         "wrist-support",
         "occupational-rehabilitation",
         "upper-limb-exoskeleton"
+      ],
+      "filterTags": [
+        "healthcare",
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-58-bibi-devos-00.png",
@@ -483,15 +504,17 @@
         "nl": "ouderen"
       },
       "tags": [
-        "care",
-        "ergonomics",
         "exoskeleton",
         "healthcare",
-        "sports",
+        "mobility-sports",
         "knee-rehabilitation",
         "home-training",
         "exercise-therapy",
         "orthopedic-exoskeleton"
+      ],
+      "filterTags": [
+        "healthcare",
+        "mobility-sports"
       ],
       "assets": {
         "thumbnail": "",
@@ -524,13 +547,15 @@
         "nl": "tandarts"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "neck-pain",
         "cervical-support",
         "occupational-health",
         "passive-exoskeleton"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-68-karel-schepers-00.png",
@@ -567,13 +592,15 @@
         "nl": "bouwvakkkers"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "construction-ergonomics",
         "knee-exoskeleton",
         "injury-prevention",
         "professional-wearable"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-73-fons-deckers-00.png",
@@ -611,14 +638,17 @@
         "nl": "sporters"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "healthcare",
-        "sports",
+        "mobility-sports",
         "ankle-support",
         "sports-exoskeleton",
         "athletic-performance",
         "injury-prevention"
+      ],
+      "filterTags": [
+        "healthcare",
+        "mobility-sports"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-78-tinne-verhelst-00.png",
@@ -655,13 +685,15 @@
         "nl": "natuurfotograaf"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "nature-photography",
         "hiking-exosuit",
         "load-distribution",
         "outdoor-wearable"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dex-83-daan-janssens-00.png",
@@ -698,14 +730,18 @@
         "nl": "natuurbeheer"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "public-space",
         "nature-sensing",
         "modular-sensor",
         "environmental-monitoring",
         "citizen-science"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "environment",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dcs-28-alec-vandervorst-00.png",
@@ -741,15 +777,18 @@
         "nl": "school"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
-        "education",
         "sensor",
+        "circularity",
+        "education-citizen-science",
+        "public-space",
         "stem-education",
         "environmental-sensor",
         "primary-school",
         "citizen-science"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dcs-33-amelie-duchesne-00.png",
@@ -786,13 +825,17 @@
         "nl": "Stads-burger"
       },
       "tags": [
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "environment",
         "pollen-monitoring",
         "allergy",
         "citizen-science",
         "urban-air-quality"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/dcs-38-amelie-rooman-00.png",
@@ -828,13 +871,15 @@
         "nl": "kelners"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "professional-cleaning",
         "back-exoskeleton",
         "occupational-health",
         "ergonomic-wearable"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-59-lars-mortelmans-00.png",
@@ -870,13 +915,15 @@
         "nl": "postpartum vrouwen"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "postpartum-recovery",
         "pelvic-pain",
         "wearable-support",
         "maternal-health"
+      ],
+      "filterTags": [
+        "healthcare"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-64-manon-janssens-00.png",
@@ -914,13 +961,16 @@
         "nl": "tuinaannemer"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "outdoor-work",
         "nature-sector",
         "shoulder-support",
         "close-body-exoskeleton"
+      ],
+      "filterTags": [
+        "mobility-sports",
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-69-luca-vansteelant-00.png",
@@ -957,15 +1007,17 @@
         "nl": "bouwwerven"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
-        "public-space",
         "sensor",
+        "circularity",
+        "public-space",
         "fine-dust-monitoring",
         "construction-site",
         "air-quality-sensor",
         "rental-iot-network"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/ics-4-lennart-danneels-00.png",
@@ -1002,14 +1054,17 @@
         "nl": "omgeving luchthaven"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "public-space",
         "aviation-noise",
         "noise-monitoring",
         "citizen-science",
         "airport-pollution"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/ics-9-rado-hudran-00.png",
@@ -1046,14 +1101,16 @@
         "nl": "appartementen"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "public-space",
         "urban-air-quality",
         "co2-sensor",
         "residential-building",
         "facade-mounted-sensor"
+      ],
+      "filterTags": [
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/ics-14-jasper-meel-00.png",
@@ -1089,13 +1146,15 @@
         "nl": "supermarkt"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "musculoskeletal-prevention",
         "shelf-stacking",
         "training-exoskeleton",
         "occupational-ergonomics"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-44-alexia-gersdorff-00.png",
@@ -1132,13 +1191,15 @@
         "nl": "hoveniers"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "gardening-ergonomics",
         "back-exoskeleton",
         "outdoor-wearable",
         "musculoskeletal-prevention"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-49-mette-marit-germonpre-00.png",
@@ -1175,13 +1236,15 @@
         "nl": "supermarkt"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "supermarket-workers",
         "back-support",
         "ergonomic-wearable",
         "retail-ergonomics"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-54-dylan-wijnen-00.png",
@@ -1218,13 +1281,15 @@
         "nl": "bouwvakkkers"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "construction-workers",
         "back-exoskeleton",
         "musculoskeletal-health",
         "ergonomic-wearable"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-74-niels-vervoort-00.png",
@@ -1259,13 +1324,16 @@
         "nl": "dropvoet problematiek"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "drop-foot",
         "ankle-foot-orthosis",
         "gait-assistance",
         "stigma-free-wearable"
+      ],
+      "filterTags": [
+        "healthcare",
+        "mobility-sports"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-79-thor-debruyne-00.png",
@@ -1301,13 +1369,15 @@
         "nl": "bandenmonteur"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "tire-fitting",
         "hybrid-exoskeleton",
         "lumbar-protection",
         "automotive-ergonomics"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/iex-84-kamil-smets-00.png",
@@ -1344,15 +1414,17 @@
         "nl": "stedelijke context"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
-        "public-space",
         "sensor",
+        "circularity",
+        "public-space",
         "noise-nuisance",
         "sound-monitoring",
         "citizen-science",
         "privacy-sensor"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/ics-19-xander-paredis-00.png",
@@ -1387,15 +1459,18 @@
         "nl": "STEM-scholen"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
-        "education",
         "sensor",
+        "circularity",
+        "education-citizen-science",
+        "public-space",
         "school-environment",
         "indoor-air-quality",
         "student-focus",
         "citizen-science"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/ics-24-eric-verbeeck-00.png",
@@ -1433,11 +1508,13 @@
         "nl": "tuinen"
       },
       "tags": [
-        "circularity",
-        "data",
-        "environment",
         "sensor",
+        "circularity",
+        "environment",
         "no-pdf-submitted"
+      ],
+      "filterTags": [
+        "environment"
       ],
       "assets": {
         "thumbnail": "",
@@ -1470,14 +1547,17 @@
         "nl": "tuinen"
       },
       "tags": [
-        "circularity",
-        "data",
-        "environment",
         "sensor",
+        "circularity",
+        "environment",
         "insect-monitoring",
         "garden-biodiversity",
         "citizen-science",
         "ecology-sensor"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "environment"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/ics-39-hanne-struyve-00.png",
@@ -1514,13 +1594,15 @@
         "nl": "Hoefsmid"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "farrier-ergonomics",
         "upper-body-exoskeleton",
         "occupational-health",
         "physical-trades"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-46-lina-abakkari-00.png",
@@ -1557,13 +1639,15 @@
         "nl": "Artrose-patient"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "hand-exoskeleton",
         "grasp-assist",
         "actuated-fingers",
         "upper-limb-assistive-device"
+      ],
+      "filterTags": [
+        "healthcare"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-51-tom-fierlafijn-00.png",
@@ -1600,13 +1684,16 @@
         "nl": "Verpleegkundigen"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "pediatric-nursing",
         "back-exoskeleton",
         "all-day-wearable",
         "healthcare-ergonomics"
+      ],
+      "filterTags": [
+        "healthcare",
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-56-daan-nelissen-00.png",
@@ -1644,14 +1731,16 @@
         "nl": "Breed"
       },
       "tags": [
-        "circularity",
-        "data",
-        "environment",
         "sensor",
+        "circularity",
+        "environment",
         "community-garden",
         "soil-sensor",
         "modular-design",
         "collaborative-growing"
+      ],
+      "filterTags": [
+        "environment"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jcs-36-babette-verlinden-00.png",
@@ -1686,14 +1775,17 @@
         "nl": "jong gezin"
       },
       "tags": [
-        "circularity",
-        "data",
-        "environment",
         "sensor",
+        "circularity",
+        "environment",
         "kitchen-garden",
         "soil-monitoring",
         "family-education",
         "beginner-gardening"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "environment"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jcs-41-neeltje-vissers-00.png",
@@ -1729,14 +1821,18 @@
         "nl": "Tuinierders"
       },
       "tags": [
-        "circularity",
-        "data",
-        "environment",
         "sensor",
+        "circularity",
+        "environment",
         "urban-gardening",
         "soil-sensor",
         "community-garden",
         "citizen-science"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "environment",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/ics-34-andreas-grootjans-00.png",
@@ -1774,13 +1870,15 @@
         "nl": "Tuinonderhoud"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "green-sector",
         "back-exoskeleton",
         "occupational-prevention",
         "outdoor-ergonomics"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-61-ian-currie-00.png",
@@ -1817,13 +1915,15 @@
         "nl": "Vuilnisophaler"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "waste-collection",
         "shoulder-support",
         "back-exoskeleton",
         "urban-ergonomics"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-66-thomas-verhaegen-00.png",
@@ -1860,13 +1960,16 @@
         "nl": "Verpleegkundigen"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "nursing-home",
         "care-worker-exoskeleton",
         "patient-handling",
         "occupational-health"
+      ],
+      "filterTags": [
+        "healthcare",
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-71-renzo-craeymeersch-00.png",
@@ -1903,14 +2006,17 @@
         "nl": "65+"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "public-space",
         "air-quality-monitoring",
         "inclusive-design",
         "elderly-users",
         "citizen-science"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jcs-21-amelie-vanwest-00.png",
@@ -1946,15 +2052,18 @@
         "nl": "School"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
-        "education",
         "sensor",
+        "circularity",
+        "education-citizen-science",
+        "public-space",
         "schoolyard-sensor",
         "climate-awareness",
         "citizen-science",
         "interactive-ai-avatar"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jcs-26-aukje-deklein-00.png",
@@ -1990,13 +2099,17 @@
         "nl": "Landbouw"
       },
       "tags": [
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "environment",
         "precision-agriculture",
         "nitrate-sensor",
         "potato-farming",
         "sustainable-farming"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "environment"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jcs-31-hannes-bal-00.png",
@@ -2031,14 +2144,17 @@
         "nl": "Stads-burger"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "public-space",
         "urban-sensor",
         "modular-design",
         "liveability-monitoring",
         "citizen-science"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jcs-1-hannah-nollet-00.png",
@@ -2076,14 +2192,16 @@
         "nl": "Huurder-Sociale woning"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "public-space",
         "indoor-air-quality",
         "social-housing",
         "accessible-sensor",
         "actionable-monitoring"
+      ],
+      "filterTags": [
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jcs-6-fien-vertente-00.png",
@@ -2120,14 +2238,17 @@
         "nl": "Biologen-stadspark"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "public-space",
         "urban-biodiversity",
         "bioacoustics",
         "park-monitoring",
         "bird-ecology"
+      ],
+      "filterTags": [
+        "environment",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jcs-16-felix-peleman-00.png",
@@ -2164,13 +2285,16 @@
         "nl": "Verpleegkundigen"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "geriatric-nursing",
         "female-ergonomics",
         "back-exoskeleton",
         "patient-handling"
+      ],
+      "filterTags": [
+        "healthcare",
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-76-lina-willems-00.png",
@@ -2207,12 +2331,15 @@
         "nl": "Astronauten"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
+        "workplace",
         "space-exoskeleton",
         "muscle-atrophy",
         "microgravity",
         "astronaut-health"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/jex-81-linde-vanmarcke-00.png",
@@ -2249,7 +2376,6 @@
         "nl": "pakketbezorger"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "workplace",
@@ -2257,6 +2383,10 @@
         "knee-exoskeleton",
         "joint-support",
         "outdoor-wearable"
+      ],
+      "filterTags": [
+        "healthcare",
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-60-hana-nilis-00.png",
@@ -2293,13 +2423,15 @@
         "nl": "Obers"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "wrist-support",
         "hospitality-workers",
         "one-handed-donning",
         "ergonomic-wearable"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-65-lena-vandooren-00.png",
@@ -2337,13 +2469,16 @@
         "nl": "Vrouwen met osteoporose"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "hip-fracture-prevention",
         "osteoporosis",
         "elderly-women",
         "active-exoskeleton"
+      ],
+      "filterTags": [
+        "healthcare",
+        "mobility-sports"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-70-ellen-bruyninckx-00.png",
@@ -2379,14 +2514,16 @@
         "nl": "Bewoners Samenwoonproject"
       },
       "tags": [
-        "circularity",
-        "data",
-        "environment",
         "sensor",
+        "circularity",
+        "environment",
         "co-housing",
         "shared-living-sensor",
         "community-garden",
         "circular-design"
+      ],
+      "filterTags": [
+        "environment"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kcs-5-laura-verbeeck-00.png",
@@ -2423,14 +2560,17 @@
         "nl": "Studenten"
       },
       "tags": [
-        "circularity",
-        "data",
-        "education",
         "sensor",
+        "circularity",
+        "education-citizen-science",
         "acoustic-comfort",
         "student-housing",
         "noise-monitoring",
         "citizen-science"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kcs-20-zoe-rosschaert-00.png",
@@ -2465,14 +2605,17 @@
         "nl": "tuinbouwer"
       },
       "tags": [
-        "circularity",
-        "data",
-        "environment",
         "sensor",
+        "circularity",
+        "environment",
         "soil-quality",
         "water-quality",
         "agricultural-sensor",
         "precision-farming"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "environment"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kcs-25-tess-buts-00.png",
@@ -2509,7 +2652,6 @@
         "nl": "pakketbezorger"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "workplace",
@@ -2517,6 +2659,11 @@
         "back-exoskeleton",
         "urban-logistics",
         "passive-support"
+      ],
+      "filterTags": [
+        "healthcare",
+        "mobility-sports",
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-45-rene-romandic-00.png",
@@ -2552,13 +2699,15 @@
         "nl": "zwangere vrouw"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "pregnancy-pain",
         "pelvic-girdle-pain",
         "lumbopelvic-exoskeleton",
         "maternal-autonomy"
+      ],
+      "filterTags": [
+        "healthcare"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-50-lune-eeckhoudt-00.png",
@@ -2595,13 +2744,15 @@
         "nl": "restaurateur schilderwerken kunst"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "mural-restoration",
         "passive-exoskeleton",
         "heritage-conservation",
         "repetitive-strain"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-55-louis-debie-00.png",
@@ -2639,13 +2790,17 @@
         "nl": "Buurtbewoners"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "public-space",
         "street-canyon",
+        "air-quality",
         "modular-sensor",
         "hyper-local-monitoring"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kcs-30-jesse-roels-00.png",
@@ -2682,14 +2837,18 @@
         "nl": "Volkstuinierder"
       },
       "tags": [
-        "circularity",
-        "data",
-        "environment",
         "sensor",
+        "circularity",
+        "environment",
         "urban-allotment",
         "soil-health",
         "food-safety",
         "circular-sensor"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "environment",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kcs-35-auke-proot-00.png",
@@ -2726,14 +2885,17 @@
         "nl": "Sporter"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "public-space",
         "fitness-air-quality",
         "co2-monitoring",
         "indoor-sports",
         "small-gym-sensor"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kcs-40-delphine-marien-00.png",
@@ -2769,13 +2931,15 @@
         "nl": "medical evacuation"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "military-exoskeleton",
         "medevac",
         "casualty-evacuation",
         "combat-ergonomics"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-75-nenna-walraevens-00.png",
@@ -2811,12 +2975,14 @@
         "nl": "cameraman"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "camera-operator",
         "cinematography-support",
         "load-relief"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-80-jean-gielen-00.png",
@@ -2853,13 +3019,16 @@
         "nl": "kinderen dropfoot"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "drop-foot",
         "quasi-passive-exoskeleton",
         "gait-restoration",
         "energy-harvesting"
+      ],
+      "filterTags": [
+        "healthcare",
+        "mobility-sports"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-85-alea-grutzner-00.png",
@@ -2896,13 +3065,16 @@
         "nl": "kinderen dropfoot"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "cerebral-palsy",
         "paediatric-exoskeleton",
         "ankle-foot-orthosis",
         "school-mobility"
+      ],
+      "filterTags": [
+        "healthcare",
+        "mobility-sports"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/kex-86-arben-mariyanov-00.png",
@@ -2940,13 +3112,15 @@
         "nl": "semiproffesionele hardlopers"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
-        "sports",
+        "mobility-sports",
         "shin-splints",
         "running-exoskeleton",
         "tibial-stress",
         "training-rehabilitation"
+      ],
+      "filterTags": [
+        "mobility-sports"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pex-47-lore-suys-00.png",
@@ -2984,12 +3158,15 @@
         "nl": "Militairen"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
+        "workplace",
         "blast-protection",
         "military-tbi",
         "breacher-safety",
         "head-exoskeleton"
+      ],
+      "filterTags": [
+        "mobility-sports"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pex-52-maurits-joos-00.png",
@@ -3026,12 +3203,15 @@
         "nl": "beroerte/orthopedische conditie"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
+        "workplace",
         "arm-rehabilitation",
         "elbow-exoskeleton",
         "unilateral-operation",
         "stigma-free-design"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pex-57-andres-carton-00.png",
@@ -3068,14 +3248,17 @@
         "nl": "particuliere tuin kinderen ouders"
       },
       "tags": [
-        "circularity",
-        "data",
-        "environment",
         "sensor",
+        "circularity",
+        "environment",
         "children-s-garden",
         "soil-sensor",
         "stem-education",
         "circular-design"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "environment"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pcs-2-felix-roels-00.png",
@@ -3111,14 +3294,18 @@
         "nl": "burgers"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
         "sensor",
+        "circularity",
+        "public-space",
         "night-monitoring",
         "light-pollution",
         "bat-detection",
         "citizen-science"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "environment",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pcs-17-amy-vanthiel-00.png",
@@ -3154,15 +3341,19 @@
         "nl": "burgers"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
-        "environment",
         "sensor",
+        "circularity",
+        "environment",
+        "public-space",
         "circular-sensor",
         "diy-electronics",
         "citizen-science",
         "data-literacy"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "environment",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pcs-22-sam-daniels-00.png",
@@ -3200,13 +3391,15 @@
         "nl": "thuisverpleegkundigen"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "home-care",
         "back-exoskeleton",
         "nursing-ergonomics",
         "lumbar-support"
+      ],
+      "filterTags": [
+        "healthcare"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pex-77-niels-kyriakides-00.png",
@@ -3242,13 +3435,15 @@
         "nl": "senioren"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "workplace",
         "senior-gardening",
         "knee-exoskeleton",
         "osteoarthritis",
         "outdoor-wearable"
+      ],
+      "filterTags": [
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pex-82-arne-bosmans-00.png",
@@ -3286,13 +3481,15 @@
         "nl": "jonge sporters"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
-        "sports",
+        "mobility-sports",
         "osgood-schlatter",
         "knee-orthosis",
         "youth-sports",
         "rehabilitation"
+      ],
+      "filterTags": [
+        "mobility-sports"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pex-87-mans-meers-00.png",
@@ -3329,13 +3526,16 @@
         "nl": "cmc1 artrose (duim/hand)"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "thumb-support",
         "hand-grip-exoskeleton",
         "grip-rehabilitation",
         "daily-independence"
+      ],
+      "filterTags": [
+        "healthcare",
+        "workplace"
       ],
       "assets": {
         "thumbnail": "",
@@ -3368,13 +3568,15 @@
         "nl": "hardlopers"
       },
       "tags": [
-        "ergonomics",
         "exoskeleton",
-        "sports",
+        "mobility-sports",
         "runner-s-knee",
         "pfps",
         "hydromechanical-exoskeleton",
         "patella-guidance"
+      ],
+      "filterTags": [
+        "mobility-sports"
       ],
       "assets": {
         "thumbnail": "assets/generated/instagram-previews/pex-67-xander-maes-01.jpg",
@@ -3410,8 +3612,6 @@
         "nl": "zorgmedewerkers"
       },
       "tags": [
-        "care",
-        "ergonomics",
         "exoskeleton",
         "healthcare",
         "workplace",
@@ -3419,6 +3619,10 @@
         "care-worker-exoskeleton",
         "patient-transfer",
         "ergonomic-wearable"
+      ],
+      "filterTags": [
+        "healthcare",
+        "workplace"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pex-72-febe-vossen-00.png",
@@ -3455,14 +3659,17 @@
         "nl": "bewoners in nabijheid van werf"
       },
       "tags": [
-        "circularity",
-        "data",
-        "public-space",
         "sensor",
+        "circularity",
+        "public-space",
         "construction-emissions",
         "fine-dust-monitoring",
         "lorawan",
         "urban-citizen-science"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pcs-27-aaron-deridder-00.png",
@@ -3499,14 +3706,17 @@
         "nl": "burgers particuliere tuin"
       },
       "tags": [
-        "circularity",
-        "data",
-        "environment",
         "sensor",
+        "circularity",
+        "environment",
         "bee-hotel",
         "pollinator-monitoring",
         "biodiversity-sensor",
         "citizen-science"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "environment"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pcs-32-stijn-boussemaere-00.png",
@@ -3543,12 +3753,15 @@
         "nl": "lagere school 5 en 6"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
-        "education",
         "sensor",
+        "circularity",
+        "education-citizen-science",
+        "public-space",
         "no-pdf-submitted"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/instagram-previews/pcs-37-elise-maudgal-01.jpg",
@@ -3584,15 +3797,19 @@
         "nl": "wijngaard boeren"
       },
       "tags": [
-        "air-quality",
-        "circularity",
-        "data",
-        "environment",
         "sensor",
+        "circularity",
+        "environment",
+        "public-space",
         "vineyard-monitoring",
         "plant-disease",
         "lora-sensor",
         "precision-viticulture"
+      ],
+      "filterTags": [
+        "education-citizen-science",
+        "environment",
+        "public-space"
       ],
       "assets": {
         "thumbnail": "assets/generated/poster-previews/pcs-42-thibo-hennion-00.png",

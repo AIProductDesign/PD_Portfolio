@@ -9,6 +9,33 @@ let activeFilters = new Set();
 let activeAssignment = "all";
 let searchQuery = "";
 
+const filterDomains = [
+  {
+    id: "healthcare",
+    label: { en: "Health & care", nl: "Zorg & gezondheid" },
+  },
+  {
+    id: "workplace",
+    label: { en: "Work & ergonomics", nl: "Werk & ergonomie" },
+  },
+  {
+    id: "mobility-sports",
+    label: { en: "Mobility & sport", nl: "Mobiliteit & sport" },
+  },
+  {
+    id: "environment",
+    label: { en: "Environment", nl: "Omgeving" },
+  },
+  {
+    id: "public-space",
+    label: { en: "Public space", nl: "Publieke ruimte" },
+  },
+  {
+    id: "education-citizen-science",
+    label: { en: "Education & citizen science", nl: "Educatie & citizen science" },
+  },
+];
+
 const dictionary = {
   en: {
     brandTitle: "Product Development / Productontwikkeling",
@@ -140,8 +167,9 @@ function getAssignment(id) {
 
 function getProjects() {
   return content.projects.filter((project) => {
+    const filterTags = project.filterTags || project.tags;
     const matchesAssignment = activeAssignment === "all" || project.assignmentId === activeAssignment;
-    const matchesTags = activeFilters.size === 0 || [...activeFilters].every((tag) => project.tags.includes(tag));
+    const matchesTags = activeFilters.size === 0 || [...activeFilters].every((tag) => filterTags.includes(tag));
     const haystack = normalize([
       localize(project.title),
       project.student,
@@ -149,13 +177,25 @@ function getProjects() {
       localize(project.context),
       localize(project.targetGroup),
       project.tags.join(" "),
+      filterTags.join(" "),
     ].join(" "));
     return matchesAssignment && matchesTags && haystack.includes(normalize(searchQuery));
   });
 }
 
 function allTags() {
-  return [...new Set(content.projects.flatMap((project) => project.tags))].sort();
+  const available = new Set(content.projects.flatMap((project) => project.filterTags || []));
+  return filterDomains.filter((domain) => available.has(domain.id));
+}
+
+function tagLabel(tag) {
+  return filterDomains.find((domain) => domain.id === tag)?.label || tag;
+}
+
+function projectTagList(project, limit = Infinity) {
+  return project.tags.slice(0, limit).map((tag) => `
+    <a class="tag-chip" href="#/projects" data-project-tag="${tag}">${tag}</a>
+  `).join("");
 }
 
 function assetLink(asset, label) {
@@ -280,16 +320,16 @@ function projectCard(project) {
   const thumbnail = project.assets.thumbnail || "assets/placeholders/project-placeholder.svg";
   return `
     <article class="project-card">
-      <a href="#/project/${project.id}" aria-label="${localize(project.title)}">
+      <a class="project-card-link" href="#/project/${project.id}" aria-label="${localize(project.title)}">
         <img src="${thumbnail}" alt="" loading="lazy" onerror="this.onerror=null;this.src='assets/placeholders/project-placeholder.svg';">
         <div class="project-card-body">
           <p class="theme-label" style="--accent:${assignment.color}">${localize(assignment.title)}</p>
           <h3>${localize(project.title)}</h3>
           <p class="student">${project.student}</p>
           <p>${excerpt(localize(project.summary))}</p>
-          <div class="tag-list">${project.tags.slice(0, 4).map((tag) => `<span>${tag}</span>`).join("")}</div>
         </div>
       </a>
+      <div class="tag-list project-card-tags">${projectTagList(project, 4)}</div>
     </article>
   `;
 }
@@ -345,7 +385,7 @@ function renderProjects() {
         ${content.assignments.map((assignment) => `<button type="button" class="${activeAssignment === assignment.id ? "is-active" : ""}" data-assignment="${assignment.id}">${localize(assignment.title)}</button>`).join("")}
       </div>
       <div class="filter-chips">
-        ${allTags().map((tag) => `<button type="button" class="${activeFilters.has(tag) ? "is-active" : ""}" data-tag="${tag}">${tag}</button>`).join("")}
+        ${allTags().map((domain) => `<button type="button" class="${activeFilters.has(domain.id) ? "is-active" : ""}" data-tag="${domain.id}">${localize(domain.label)}</button>`).join("")}
       </div>
     </section>
     <section class="project-grid" aria-live="polite">
@@ -395,7 +435,7 @@ function renderProject(id) {
           <h1>${localize(project.title)}</h1>
           <p class="student">${project.student}</p>
           <p>${localize(project.summary)}</p>
-          <div class="tag-list">${project.tags.map((tag) => `<span>${tag}</span>`).join("")}</div>
+          <div class="tag-list">${projectTagList(project)}</div>
         </div>
         <img src="${hero}" alt="" onerror="this.onerror=null;this.src='assets/placeholders/project-placeholder.svg';">
       </header>
@@ -495,6 +535,20 @@ function bindInteractions() {
       const tag = button.dataset.tag;
       if (activeFilters.has(tag)) activeFilters.delete(tag);
       else activeFilters.add(tag);
+      render();
+    });
+  });
+
+  app.querySelectorAll("[data-project-tag]").forEach((chip) => {
+    chip.addEventListener("click", (event) => {
+      event.preventDefault();
+      event.stopPropagation();
+      const tag = chip.dataset.projectTag;
+      const domain = filterDomains.find((item) => item.id === tag);
+      searchQuery = domain ? "" : tag;
+      activeFilters = domain ? new Set([tag]) : new Set();
+      activeAssignment = "all";
+      window.location.hash = "#/projects";
       render();
     });
   });
