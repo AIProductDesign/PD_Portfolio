@@ -1,0 +1,13 @@
+.DS_Store
+*.mp4
+*.zip
+*.indd
+__pycache__/
+assets/generated/test-previews/
+Content/2025-2026/
+Content/raw-student-work/
+
+# GitHub rejects individual files larger than 100 MB.
+Content/2025-2026/Bachelorproef/Eindpresentatie/Vande Voorde Anouk (s0231764)/Jury_EK_VANDEVOORDE_Anouk_2026.pdf
+Content/2025-2026/Bachelorproef/Eindpresentatie/Boussemaere Stijn (s0231268)/Jury_CS_BOUSSEMAERE_Stijn_2026.pdf
+Content/2025-2026/Bachelorproef/Eindpresentatie/Maudgal Elise (s0232194)/Jury_CS_Maudgal_Elise_2026.pdf

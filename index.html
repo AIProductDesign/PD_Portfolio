@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="University of Antwerp Product Development portfolio showcasing Bachelor Proef student projects.">
+    <title>Portfolio Product Development | University of Antwerp</title>
+    <link rel="stylesheet" href="src/styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#/" aria-label="Portfolio Product Development home">
+        <img
+          id="brandLogo"
+          class="brand-logo"
+          src="Content/StyleGuide/UAntwerp%20logopakket/UA-hor-1-nl-rgb.svg"
+          alt="Universiteit Antwerpen"
+        >
+        <span>
+          <strong data-i18n="brandTitle">Product Development / Productontwikkeling</strong>
+          <small data-i18n="brandSubtitle">Faculty of Design Sciences</small>
+        </span>
+      </a>
+      <nav class="top-nav" aria-label="Primary navigation">
+        <a href="#/projects" data-i18n="navProjects">Projects</a>
+        <a href="#/assignments" data-i18n="navAssignments">Assignments</a>
+        <a href="#/archive" data-i18n="navArchive">Archive</a>
+        <a href="#/about" data-i18n="navAbout">About</a>
+      </nav>
+      <div class="language-switcher" aria-label="Language">
+        <button class="language-button is-active" type="button" data-language="en">EN</button>
+        <button class="language-button" type="button" data-language="nl">NL</button>
+      </div>
+    </header>
+
+    <main id="app" tabindex="-1"></main>
+
+    <footer class="site-footer">
+      <p data-i18n="footerCopyright">Copyright University of Antwerp. Student work is shown for portfolio and collaboration purposes.</p>
+      <p><a href="mailto:productontwikkeling@uantwerpen.be">productontwikkeling@uantwerpen.be</a></p>
+    </footer>
+
+    <script type="module" src="src/app.js"></script>
+  </body>
+</html>
